@@ -6,7 +6,11 @@ const SOURCE_DIR = '../podcast_summaries';
 const DEST_DIR = 'src/content/blog';
 
 // Ensure destination exists
-if (!fs.existsSync(DEST_DIR)){
+if (fs.existsSync(DEST_DIR)) {
+    // Clean existing files to handle deletions/renames
+    const existing = fs.readdirSync(DEST_DIR);
+    existing.forEach(file => fs.unlinkSync(path.join(DEST_DIR, file)));
+} else {
     fs.mkdirSync(DEST_DIR, { recursive: true });
 }
 
@@ -22,7 +26,7 @@ files.forEach(file => {
     // Extract Metadata
     // 1. Title: First line starting with #
     let title = lines.find(l => l.startsWith('# '))?.replace('# ', '').trim() || file.replace('_summary.md', '');
-    
+
     // 2. Guest: From filename
     const guest = file.replace('_summary.md', '').replace(/_/g, ' ');
 
@@ -31,14 +35,14 @@ files.forEach(file => {
     const bioIndex = lines.findIndex(l => l.includes('**嘉宾简介**'));
     if (bioIndex !== -1 && lines[bioIndex + 1]) {
         // Try next line, or skip validation of next line if it's empty, find first non-empty
-        for(let i = bioIndex + 1; i < lines.length; i++) {
+        for (let i = bioIndex + 1; i < lines.length; i++) {
             if (lines[i].trim()) {
                 description = lines[i].trim();
                 break;
             }
         }
     }
-    
+
     // Fallback description
     if (!description) {
         description = `Summary of podcast with ${guest}`;
@@ -48,7 +52,7 @@ files.forEach(file => {
     const safeTitle = title.replace(/"/g, '\\"');
     const safeDesc = description.replace(/"/g, '\\"');
     const safeGuest = guest.replace(/"/g, '\\"');
-    
+
     // Generate a consistent date (mock date or file stats, let's use current date or random for now to sort)
     // Better: use file creation time, or just today's date
     const stat = fs.statSync(sourcePath);
@@ -66,10 +70,10 @@ guest: "${safeGuest}"
 
     // Remove the original Title line to avoid duplication if desired, or keep it. 
     // Usually standard to keep H1 in body or remove it. Let's keep it for now as it's part of the content.
-    
+
     const newContent = frontmatter + content;
     const destPath = path.join(DEST_DIR, file);
-    
+
     fs.writeFileSync(destPath, newContent);
     console.log(`Migrated: ${file}`);
 });

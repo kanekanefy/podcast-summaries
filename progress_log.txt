@@ -811,3 +811,4 @@ All summaries include 7 required sections: 嘉宾简介, 核心议题, 核心洞
 - Rich details and anecdotes (Facebook 9-page report, Airbnb COVID crisis, Instagram Stories intentionality, Bravado Flex pivot, Writly 3-month exit, Google Workspace origin, EMNLP best paper, ServiceNow agent attack, AI browser risks)
 Roger Martin|2026-01-16 07:44:07|processed
 Ronny Kohavi|2026-01-16 07:46:29|processed
+Ryan J. Salva|2026-01-16 07:57:33|processed
