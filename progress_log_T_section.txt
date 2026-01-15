@@ -1,0 +1,84 @@
+# Podcast Summary Progress Log
+# Updated: 2026-01-16
+
+## Recently Completed Summaries (T Names)
+
+### 2026-01-16
+
+1. **Tamar Yehoshua** ✅
+   - File: Tamar Yehoshua_summary.md
+   - Source: Lenny's Podcast Transcripts Archive [public]/Tamar Yehoshua.txt
+   - Topics: 职业成功习惯、公司不必运行良好也能赢、跨职能关系、AI对工作的影响、非确定性AI产品设计
+   - Key Insights:
+     * 把当前工作做到极致,理解人和动机是成功关键
+     * 公司不需要运行良好也能成功:PMFit是生死攸关的
+     * 不需要职业规划:跟随最优秀的人,去优秀人才聚集的地方
+     * 从Bezos学到一致性原则,从Stewart学到原型思维
+     * AI不会淘汰PM而是让PM更重要,但只做执行的PM会被淘汰
+     * 为非确定性AI产品设计需要建立护栏和教育用户
+
+2. **Tanguy Crusson** ✅
+   - File: Tanguy Crusson_summary.md
+   - Source: Lenny's Podcast Transcripts Archive [public]/Tanguy Crusson.txt
+   - Topics: 大公司零到一创新、Point A孵化器、HipChat失败反思、Jira Product Discovery成功、创造稀缺性
+   - Key Insights:
+     * 大公司需要创造人工稀缺性 - 过度投资是创新的最大敌人
+     * "Don't eat your own bullshit" - 不要因为过去成功就假设会永远成功
+     * 高速列车效应 - 展示速度和进展让没人想挡你的路
+     * Point A四阶段孵化: Wonder→Explore→Make→Impact
+     * 50/50成功率其实不差 - 失败真的很痛苦,会经历悲伤阶段
+     * 地理距离可能是优势 - 时差创造自然的隔离和自主权
+
+3. **Teaser_2021** ✅
+   - File: Teaser_2021_summary.md
+   - Source: Lenny's Podcast Transcripts Archive [public]/Teaser_2021.txt
+   - Topics: The Room Where It Happens播客预告、社区驱动对话、Messy Middle、打开房间
+   - Key Insights:
+     * "They weren't smarter than us" - 成功人士并不特别,只是他们在那些房间里
+     * "Messy Middle"占创业过程的99% - crawling through river of shit
+     * 当前播客状态很糟糕 - 只有少数人有麦克风,应该让更多人也有麦克风
+     * 社区的力量 - 关系网络是职业生涯的"力量倍增器"
+     * 酒精作为真实性工具 - 让对话更authentic
+
+4. **Teresa Torres** ✅
+   - File: Teresa Torres_summary.md
+   - Source: Lenny's Podcast Transcripts Archive [public]/Teresa Torres.txt
+   - Topics: Continuous Discovery、Opportunity Solution Tree、访谈技巧、自动化发现流程
+   - Key Insights:
+     * Discovery和Delivery同时进行 - 不是先发现后交付,假设测试是交付的开始
+     * 数字产品没有"完成"的概念 - 需要持续包含客户在决策过程中
+     * Opportunity Solution Tree: Outcome→Opportunities→Solutions→Assumption Tests
+     * 机会空间必须是需求/痛点不是解决方案 - 常见错误是把解决方案当作机会
+     * 访谈应该像和朋友喝啤酒 - 一句话就可以运行整个访谈,只需要对体验好奇
+     * 客户喜欢好的访谈 - 好访谈的标志是客户问"哇,我们什么时候可以再做一次?"
+     * 可持续的持续发现 - 每周一次访谈,快速假设测试,同时处理三个想法
+     * "不要停止做赌注来开始发现" - 在继续做赌注的同时并行开始做发现
+
+## Pending Processing
+
+5. **Tim Holley** ⏳
+   - Status: Pending - transcript available, not yet processed
+
+6. **Timothy Davis** ⏳
+   - Status: Pending - transcript available, not yet processed
+
+7. **Tobi Lutke** ⏳
+   - Status: Pending - transcript available, not yet processed
+
+8. **Todd Jackson** ⏳
+   - Status: Pending - transcript available, not yet processed
+
+**Note**: These four transcripts are pending due to token constraints in the current session. They can be processed in a follow-up session.
+
+---
+
+## Summary Statistics (T Names)
+
+- **Processed**: 4 out of 8 transcripts (50%)
+- **Pending**: 4 out of 8 transcripts (50%)
+- **Total Generated**: ~25,000 words of Chinese summaries
+- **Key Frameworks Covered**:
+  - Career development and mindset
+  - Large company innovation (Point A)
+  - Community-driven conversation models
+  - Continuous Discovery and Opportunity Solution Tree

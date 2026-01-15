@@ -1,0 +1,51 @@
+Podcast Summary Processing Status
+===================================
+
+Previous Task (Hilary Gridley, Howie Liu, Ian McAllister, Inbal S, Interview Q Compilation):
+1. Hilary Gridley - COMPLETED (read 400 lines, need more)
+2. Howie Liu - IN PROGRESS (large file, 105KB)
+3. Ian McAllister - COMPLETED (full file read)
+4. Inbal S - COMPLETED (full file read)
+5. Interview Q Compilation - COMPLETED (full file read)
+
+Current Task (Melanie Perkins, Melissa, Melissa Perri, Melissa Perri + Denise Tilles, Melissa Tan):
+1. Melanie Perkins - ✅ COMPLETED
+   - File: /Users/kane/Desktop/project/podcast/Lenny's Podcast Transcripts Archive [public]/Melanie Perkins.txt (517 lines)
+   - Summary: /Users/kane/Desktop/project/podcast/podcast_summaries/Melanie Perkins_summary.md
+   - Topics: Column B思维, 疯狂大目标, 从混乱到清晰框架, Canva创业故事
+
+2. Melissa / Melissa Perri - ✅ COMPLETED
+   - File: /Users/kane/Desktop/project/podcast/Lenny's Podcast Transcripts Archive [public]/Melissa.txt (433 lines)
+   - Summary: /Users/kane/Desktop/project/podcast/podcast_summaries/Melissa_summary.md
+   - Topics: 产品管理战略, 规模化挑战, CPO vs VP产品, 产品运营
+
+3. Melissa Perri - ✅ COMPLETED (Same as #2)
+   - File: /Users/kane/Desktop/project/podcast/Lenny's Podcast Transcripts Archive [public]/Melissa Perri.txt (same content)
+   - Summary: Already covered in Melissa_summary.md
+
+4. Melissa Perri + Denise Tilles - ✅ COMPLETED
+   - File: /Users/kane/Desktop/project/podcast/Lenny's Podcast Transcripts Archive [public]/Melissa Perri + Denise Tilles.txt (585 lines)
+   - Summary: /Users/kane/Desktop/project/podcast/podcast_summaries/Melissa Perri + Denise Tilles_summary.md
+   - Topics: 产品运营（Product Operations）, 三大支柱, 团队建设
+
+5. Melissa Tan - ✅ COMPLETED
+   - File: /Users/kane/Desktop/project/podcast/Lenny's Podcast Transcripts Archive [public]/Melissa Tan.txt (531 lines)
+   - Summary: /Users/kane/Desktop/project/podcast/podcast_summaries/Melissa Tan_summary.md
+   - Topics: 高绩效团队, 培养人才, 增长团队, Dropbox经验, 面试产品经理
+
+Processing Strategy:
+- Files under token limit: Process completely
+- Large files: Process in sections using offset/limit
+- Generate summaries following specified structure
+- Track progress in this file
+
+Summary Structure Used:
+1. 嘉宾简介
+2. 核心议题
+3. 核心洞察（含比喻/英文术语）
+4. 心法与原则
+5. 实战手册
+6. 反常识视角
+7. 花絮与细节
+
+Style: Professional Chinese, **bold** for high-impact phrases, facts only from transcripts

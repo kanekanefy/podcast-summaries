@@ -1,0 +1,46 @@
+---
+title: "Eric Simons"
+description: "Summary of podcast with Eric Simons"
+pubDate: "2026-01-15"
+guest: "Eric Simons"
+---
+
+**嘉宾简介**: Eric Simons - StackBlitz 联合创始人兼 CEO，Bolt 主理人，打造浏览器内完整开发环境 WebContainer。
+
+1. **核心议题 (The Questions)**
+   - **Bolt 为何能爆发式增长**：7 年技术积累如何带来“0→40M ARR”速度？
+   - **技术护城河是什么**：WebContainer 为什么决定了速度、成本与可靠性？
+   - **小团队如何应对超高速增长**：组织与协作机制如何支撑规模化？
+   - **AI Coding 工具会如何重塑组织**：PM/设计/工程的分工将如何变化？
+
+2. **核心洞察 (Core Conclusions)**
+   - **“七年磨一剑”的技术先行路线**：**先做深技术，再找产品形态**反而成最大优势。
+   - **WebContainer 是关键底座**：**浏览器内运行 OS**让 Bolt **快、稳定、零云成本**。
+   - **增长来自“长期团队黏性”**：**核心成员 5+ 年在岗**，形成高信任/高上下文的执行力。
+   - **Sonnet 是拐点**：**Claude Sonnet 的代码质量**让“AI 先写、人在后”成为现实。
+
+3. **心法与原则 (Repeatedly Emphasized Points)**
+   - **“Don’t die”优先**：**低 burn、多次射门**是深技术公司的生存法则。
+   - **“小团队+高上下文”比大团队更快**：**人人能端到端解决问题**。
+   - **产品决策像“厨师出菜”**：**平衡用户反馈与直觉押注**。
+
+4. **实战手册 (Specific Cases & Methodologies)**
+   - **Bolt 价值示例**：
+     - **非技术创业者 3 周做出 CRM**，成本从 **$30K/6 个月 → $300/3 周**。
+     - **营销站/landing page 可直接用 Bolt 替代 Webflow**。
+   - **团队协作机制**：**每天 8AM 全员 Zoom 1 小时**，减少沟通损耗。
+   - **产品优先级**：**“核心押注 + 快速修复”双轨**，如 Expo 原生 App 支持。
+   - **新功能路线**：
+     - **Figma URL → bolt.new/** 一键生成应用。
+     - **Slack bot**：@Bolt 直接从对话生成应用原型。
+
+5. **反常识视角 (Counter-intuitive Points)**
+   - **“技术先行”并非错误**：**深技术护城河才能支撑 AI 规模化**。
+   - **PM 反而更重要**：**会写 PRD/定义范围的人最会用 AI**。
+   - **前端工程将被重构**：**更多 UI 由 PM/设计驱动，工程转向高难度问题**。
+
+6. **花絮与细节 (Interesting Details)**
+   - **公司早期极限生存**：**AOL 办公室“借宿”+ $1/天**，用 McDonald’s Dollar Menu。
+   - **规模化冲击**：Anthropic GPU 不足、定价从 **$9 → 分级使用量**。
+   - **“给新用户的建议”**：**像写 JIRA ticket 一样写 prompt**。
+   - **招聘偏好**：**不在乎 title、愿意亲手解决问题**，大多来自社区用户。

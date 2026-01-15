@@ -1,0 +1,188 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+            /* Custom Search & Grid Styles */
+            .search-container {
+                max-width: 800px;
+                margin: 2rem auto;
+                padding: 0 1rem;
+            }
+            .search-input {
+                width: 100%;
+                padding: 1rem;
+                font-size: 1.1rem;
+                border: 2px solid #e2e8f0;
+                border-radius: 12px;
+                background: white;
+                transition: all 0.2s;
+            }
+            .search-input:focus {
+                outline: none;
+                border-color: var(--accent);
+                box-shadow: 0 0 0 3px rgba(var(--accent), 0.1);
+            }
+
+            .grid-container {
+                display: grid;
+                grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+                gap: 2rem;
+                max-width: 1200px;
+                margin: 0 auto;
+                padding: 1rem;
+            }
+
+            .card {
+                background: white;
+                border-radius: 16px;
+                overflow: hidden;
+                box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+                transition: transform 0.2s, box-shadow 0.2s;
+                text-decoration: none;
+                color: inherit;
+                display: flex;
+                flex-direction: column;
+                border: 1px solid #f1f5f9;
+            }
+            .card:hover {
+                transform: translateY(-4px);
+                box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            }
+
+            .card-header {
+                background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                height: 100px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                padding: 1rem;
+            }
+            .guest-name {
+                color: white;
+                font-weight: 700;
+                font-size: 1.2rem;
+                text-align: center;
+                text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+            }
+
+            .card-body {
+                padding: 1.5rem;
+                flex: 1;
+                display: flex;
+                flex-direction: column;
+            }
+
+            .card-title {
+                font-size: 1.1rem;
+                font-weight: 700;
+                margin-bottom: 0.5rem;
+                line-height: 1.4;
+                color: #1e293b;
+            }
+
+            .card-desc {
+                font-size: 0.95rem;
+                color: #64748b;
+                line-height: 1.5;
+                display: -webkit-box;
+                -webkit-line-clamp: 3;
+                -webkit-box-orient: vertical;
+                overflow: hidden;
+            }
+            
+            .card-date {
+                margin-top: auto;
+                padding-top: 1rem;
+                font-size: 0.85rem;
+                color: #94a3b8;
+            }
+            
+            /* Dark mode support */
+            @media (prefers-color-scheme: dark) {
+                .search-input {
+                    background: #1e293b;
+                    border-color: #334155;
+                    color: white;
+                }
+                .card {
+                    background: #1e293b;
+                    border-color: #334155;
+                }
+                .card-title { color: #f1f5f9; }
+                .card-desc { color: #cbd5e1; }
+            }
+            
+            .hidden { display: none !important; }
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+            <div class="search-container">
+                <input type="text" id="searchInput" class="search-input" placeholder="Search guests, topics..." />
+            </div>
+
+			<section class="grid-container" id="cardGrid">
+				{
+					posts.map((post) => (
+						<a href={`/blog/${post.slug}/`} class="card" data-title={post.data.title.toLowerCase()} data-guest={(post.data.guest || '').toLowerCase()} data-desc={post.data.description.toLowerCase()}>
+                            <div class="card-header">
+                                <span class="guest-name">{post.data.guest || 'Guest'}</span>
+                            </div>
+							<div class="card-body">
+								<h3 class="card-title">{post.data.title}</h3>
+                                <p class="card-desc">{post.data.description}</p>
+                                <div class="card-date">
+                                    <time datetime={post.data.pubDate.toISOString()}>
+                                        {post.data.pubDate.toLocaleDateString('en-us', {
+                                            year: 'numeric',
+                                            month: 'short',
+                                            day: 'numeric',
+                                        })}
+                                    </time>
+                                </div>
+							</div>
+						</a>
+					))
+				}
+			</section>
+            
+            <script>
+                // Simple client-side search
+                const input = document.getElementById('searchInput');
+                const grid = document.getElementById('cardGrid');
+                const cards = grid.querySelectorAll('.card');
+
+                input.addEventListener('input', (e) => {
+                    const term = e.target.value.toLowerCase();
+                    
+                    cards.forEach(card => {
+                        const title = card.getAttribute('data-title');
+                        const guest = card.getAttribute('data-guest');
+                        const desc = card.getAttribute('data-desc');
+                        
+                        if (title.includes(term) || guest.includes(term) || desc.includes(term)) {
+                            card.classList.remove('hidden');
+                        } else {
+                            card.classList.add('hidden');
+                        }
+                    });
+                });
+            </script>
+		</main>
+		<Footer />
+	</body>
+</html>
