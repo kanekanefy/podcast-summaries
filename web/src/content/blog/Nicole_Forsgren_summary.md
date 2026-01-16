@@ -1,6 +1,6 @@
 ---
 title: "Nicole Forsgren - 开发者效能与DevOps研究专家访谈摘要"
-description: "Summary of podcast with Nicole Forsgren"
+description: ""
 pubDate: "2026-01-15"
 guest: "Nicole Forsgren"
 ---

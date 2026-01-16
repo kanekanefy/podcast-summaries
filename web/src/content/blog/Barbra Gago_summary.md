@@ -1,6 +1,6 @@
 ---
 title: "Barbra Gago"
-description: "Summary of podcast with Barbra Gago"
+description: "Barbra Gago - 前Miro全球CMO，主导“视觉协作”品类创建与品牌重塑。"
 pubDate: "2026-01-15"
 guest: "Barbra Gago"
 ---

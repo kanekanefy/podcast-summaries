@@ -1,6 +1,6 @@
 ---
 title: "Eric Ries"
-description: "Summary of podcast with Eric Ries"
+description: "Eric Ries - 《The Lean Startup》作者、Lean Startup 方法论发起人，Long-Term Stock Exchange 创始人与执行主席。"
 pubDate: "2026-01-15"
 guest: "Eric Ries"
 ---

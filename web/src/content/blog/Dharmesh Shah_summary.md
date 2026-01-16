@@ -1,6 +1,6 @@
 ---
 title: "Dharmesh Shah"
-description: "Summary of podcast with Dharmesh Shah"
+description: "Dharmesh Shah - HubSpot 联合创始人兼 CTO，长期主导文化体系建设与产品方向。"
 pubDate: "2026-01-15"
 guest: "Dharmesh Shah"
 ---

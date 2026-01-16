@@ -1,6 +1,6 @@
 ---
 title: "Bangaly Kaba"
-description: "Summary of podcast with Bangaly Kaba"
+description: "Bangaly Kaba - YouTube产品管理总监，曾任Facebook增长PM与Instagram增长负责人。"
 pubDate: "2026-01-15"
 guest: "Bangaly Kaba"
 ---

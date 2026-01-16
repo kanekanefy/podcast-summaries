@@ -1,6 +1,6 @@
 ---
 title: "Bill Carr"
-description: "Summary of podcast with Bill Carr"
+description: "Bill Carr - Amazon 前 VP（数字媒体业务）、《Working Backwards》作者，现为企业顾问。"
 pubDate: "2026-01-15"
 guest: "Bill Carr"
 ---

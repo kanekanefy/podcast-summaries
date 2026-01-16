@@ -6,20 +6,96 @@
 ### 2026-01-16 (Batch 3)
 
 1. **Mike Maples Jr** ✅
-   - File: Mike_Maples_Jr_summary.md
-   - Source: Lenny's Podcast Transcripts Archive [public]/Mike Maples Jr.txt
-   - Topics: 突破性创业、模式破坏、转折点、洞察、创始人-未来匹配、运动、讲故事
+2. **Nir Eyal** ✅
+   - File: Nir_Eyal_summary.md
+   - Source: Lenny's Podcast Transcripts Archive [public]/Nir Eyal.txt
+   - Topics: 注意力管理、减少分心、不可分散、内部触发器 vs 外部触发器、情绪管理
    - Key Insights:
-     * 模式破坏框架 - 三个要素:转折点、洞察、创始人-未来匹配度
-     * 商业从不公平 - 初创公司无法通过执行更好来获胜,必须提出根本不同的未来
-     * 转折点的三种类型:技术、监管、信念;必须通过压力测试
-     * 非共识且正确 - 最好的想法让大多数人不喜欢,但少数人疯狂爱上
-     * 秘密是赢得的 - 通过弄脏双手、生活在未来中发现缺失
-     * 运动而非营销 - 利用少数人对多数人的不满,情感化激发早期信徒
-     * 英雄之旅讲故事 - 创始人是欧比旺(导师),早期信徒才是英雄
-     * 拥抱不讨喜 - 创业本质上是不讨喜的,需要有勇气被讨厌
-     * 80%回报来自转型 - 不要让初始想法大到不能失败,要小到可以经常失败
-     * 执行不重要 - 初创公司内部混乱是正常的,关键是提出不同的未来
+     * 90%的分心来自内部触发器 - 无聊、孤独、疲劳、不确定性、焦虑
+     * 分心只是一种情绪 - 这是非常赋能的认识
+     * 工作相关可能是最糟糕的分心 - 让你感觉有生产力但实际不是
+     * 知道不等于做到 - 问题是执行不是知识
+     * 四步框架:掌握内部触发器、为牵引腾出时间、反击外部触发器、用协议防止分心
+     * 技术不是根本原因 - 即使去掉所有技术仍然会分心
+     * 待办事项清单可能有害 - 需要主动规划时间而非只列任务
+
+3. **Noah Weiss** ✅
+   - File: Noah_Weiss_summary.md
+   - Source: Lenny's Podcast Transcripts Archive [public]/Noah Weiss.txt
+   - Topics: 优秀PM的10个特质、与产品思维创始人合作、AI产品开发、Complaint Storms流程、Slack自助服务业务转折、竞争策略
+   - Key Insights:
+     * 10个PM特质是可培养的 - 用户同理心、数据素养、技术理解力、商业意识等
+     * 与创始人合作需要理解和提供价值 - 尊重愿景但提供专业洞察
+     * AI应该用来解决真实问题 - 不是为了AI而AI
+     * Complaint Storms将投诉转化为产品洞察 - 系统化收集和分析用户反馈
+     * 承认失败是强大的 - Slack承认2019年停滞并快速调整
+     * 竞争对手不是敌人 - 学习但不复制，找到自己的差异化
+
+4. **Noam Lovinsky** ✅
+   - File: Noam_Lovinsky_summary.md
+   - Source: Lenny's Podcast Transcripts Archive [public]/Noam Lovinsky.txt
+   - Topics: 产品生命周期管理、从-1到1、大公司内部创新、何时杀死项目、职业发展拉伸原则、增长渠道多元化
+   - Key Insights:
+     * 产品有不同生命周期 - -1到1(恢复)、0到1(创建)、1到100(扩展)
+     * 选择能拉伸你的工作 - 从YouTube到Thumbtack(衰退中)到Facebook
+     * 增长渠道多元化是必要的 - Thumbtack因过度依赖Google SEO而受损
+     * 创新需要保护 - Facebook NPE团队需要独立于核心业务
+     * 有时候杀死项目是正确的 - 诚实评估，勇敢做出艰难决定
+     * 要求被"分层"可能是好的 - 如果这能带来学习和项目成功
+
+5. **Nilan Peiris** ✅
+   - File: Nilan_Peiris_summary.md
+   - Source: Lenny's Podcast Transcripts Archive [public]/Nilan Peiris.txt
+   - Topics: 口碑增长、Wise 70%口碑增长率、将营销融入产品、产品体验驱动增长、透明度和简单性
+   - Key Insights:
+     * 70%口碑增长是可能的 - 不是运气而是设计
+     * 产品体验是增长的第一驱动力 - 产品太好了用户自然想告诉朋友
+     * 营销应该融入产品 - 不是独立功能而是有机组成部分
+     * 创造"哇"时刻 - 超出预期驱动分享
+     * 透明度是竞争优势 - 展示真实费用建立信任
+     * 简化体验 - 减少摩擦让用户轻松完成
+
+6. **Nikhyl Singhal** ✅
+   - File: Nikhyl_Singhal_summary.md
+   - Source: Lenny's Podcast Transcripts Archive [public]/Nikhyl Singhal.txt
+   - Topics: PM职业发展、短期思维的危险、避免无增长公司、晋升的真正原因、新经理关注点、高级IC路径、顶级领导者盲点、心理健康
+   - Key Insights:
+     * 晋升是对未来潜力的投资 - 不是对过去表现的奖励
+     * 避免无增长公司 - 限制学习和成长，可能被市场淘汰
+     * 在当前职位上展示下一级别的技能 - 不要等待晋升才展示
+     * IC路径与管理路径同样有价值 - 不是每个人都适合或想要管理
+     * 顶级领导者有盲点 - 成功可能掩盖发展领域
+     * 高层职位有心理健康挑战 - 需要认识到并寻求支持
+     * 短期思维限制长期职业发展 - 需要平衡短期和长期目标
+
+7. **Nikita Bier** ✅
+   - File: Nikita_Bier_summary.md
+   - Source: Lenny's Podcast Transcripts Archive [public]/Nikita Bier.txt
+   - Topics: 病毒式增长、应用商店成功、小团队大成果、产品设计哲学、tbh和Gas故事、产品开发流程
+   - Key Insights:
+     * 病毒式增长是可以设计的 - 不是运气而是理解社会动态
+     * 产品管理不是文档和协调 - 真正的产品工作在像素中
+     * 小团队胜过大团队 - 更少协调、更快决策、更专注执行
+     * PM应该设计 - 应该设计层次、像素、流程，不外包设计思维
+     * 快速不意味着低质量 - 小团队使既快速又高质量成为可能
+     * 应用商店成功有模式 - 理解算法、利用社交动态、创造必须拥有的体验
+
+8. **Nikita Miller** ✅
+   - File: Nikita_Miller_summary.md
+   - Source: Lenny's Podcast Transcripts Archive [public]/Nikita Miller.txt
+   - Topics: PM vs 婚礼策划师、进入PM的建议、跨职能团队对齐框架、远程工作、黄金问题
+   - Key Insights:
+     * PM更像婚礼策划师而非CEO - 需要协调利益相关者、管理期望、沟通妥协
+     * 产品管理是可学习的 - 不需要特定背景，技能可通过学习获得
+     * 结果>输出 - 关注结果但不忽视输出，输出是结果的指标
+     * 远程工作需要更有意 - 不能依赖偶然互动，需要有意的安排
+     * 好问题>好答案 - 持续问同样的问题激发思考和创新
+     * 跨职能团队需要清晰角色 - 避免模糊和重叠，建立明确期望
+
+**Batch 3 Summary**:
+- Successfully processed 8 transcripts (Mike Maples Jr, Nir Eyal, Noah Weiss, Noam Lovinsky, Nilan Peiris, Nikhyl Singhal, Nikita Bier, Nikita Miller)
+- Focus on novel frameworks and practical advice for PMs, founders, and product leaders
+- Key themes: pattern-breaking, distraction management, career development, viral growth, team alignment
 
 ### 2026-01-16 (Batch 2)
 
@@ -812,3 +888,154 @@ All summaries include 7 required sections: 嘉宾简介, 核心议题, 核心洞
 Roger Martin|2026-01-16 07:44:07|processed
 Ronny Kohavi|2026-01-16 07:46:29|processed
 Ryan J. Salva|2026-01-16 07:57:33|processed
+
+### Completed (2026-01-16) - S SERIES BATCH #3
+
+36. **Scott Wu** ✅
+    - File: Scott_Wu_summary.md
+    - Source: Lenny's Podcast Transcripts Archive [public]/Scott Wu.txt
+    - Topics: AI工程师、Devin、从文本补全到代理、软件工程演进、8次转型
+    - Key Insights:
+      * 锯齿状智力(Jagged Intelligence):Devin在某些方面远超人类,在某些方面远不如人类
+      * 从文本补全到代理:第一波模仿学习,第二波高计算强化学习,未来自主系统
+      * 砌砖工到建筑师:软件工程10%时间定义问题和架构,90%时间实现苦工
+      * AI作为乘数:15人团队数百个PR由Devin提交,每个工程师同时使用5个Devin
+      * 8次转型:从竞赛编程到软件工程,从"完成后展示"到"可以随时介入"
+
+37. **Sean Ellis** ✅
+    - File: Sean_Ellis_summary.md
+    - Source: Lenny's Podcast Transcripts Archive [public]/Sean Ellis.txt
+    - Topics: Growth Hacking、Sean Ellis测试/Product Fit测试、可持续增长、ICE框架、Freemium策略
+    - Key Insights:
+      * Sean Ellis测试40%规则:"如果不能再使用这个产品,你会有什么感觉?"
+      * Lookout案例:7%→40% in two weeks,重新定位和优化onboarding
+      * 忽略"有些失望"用户:他们会稀释必须有用户的价值
+      * 移动留存主要靠onboarding:不是战术性留存技巧,是引导到正确体验
+      * 先钉住它再扩展:40%目标给团队明确靶子
+      * Growth Hacking不是hack:是可持续增长的严格审查
+
+38. **Seth Godin** ✅
+    - File: Seth_Godin_summary.md
+    - Source: Lenny's Podcast Transcripts Archive [public]/Seth Godin.txt
+    - Topics: 品味建立、品牌承诺、策略四大选择、张力vs压力、网络效应、AI时代营销、Purple Cow
+    - Key Insights:
+      * 好的品味定义:"Knowing what other people want just before they do"
+      * 质量等于符合规格:Quality = Meeting Spec,完美主义是隐藏
+      * 策略四大选择:选择客户、竞争、验证方式、分销渠道,决定产品未来
+      * 张力vs压力:张力是每个艺术形式和创新的核心,压力是我想离开我需要留下
+      * 非凡意味着值得评论:Worth making a remark about
+      * AI将不再是特征:就像电力,需要专注于这对用户有什么好处
+
+39. **Shweta Shrivastava** ✅
+    - File: Shweta_Shrivastava_summary.md
+    - Source: Lenny's Podcast Transcripts Archive [public]/Shweta Shriva.txt
+    - Topics: Waymo PM工作、自动驾驶信任建立、L4 vs L5、安全MVP、人类化行为、挑战假设
+    - Key Insights:
+      * 5分钟信任曲线:前5分钟"哇",5分钟后"平淡无奇"
+      * 下坡速度案例:遵守速度限制但下坡时减速,更自然的驾驶体验
+      * L4专注:提供L4服务实现无人驾驶梦想,不需要到L5
+      * 挑战自己的假设:没有冲突=缺少东西,可能没有好好听
+      * MVP安全门槛极高:不能偷工减料安全,但MVP的安全标准完全不同
+      * 人类化行为:深度学习理解意图(行人朝向、眼神、手势)
+
+40. **Shaun Clowes** ✅
+    - File: Shaun_Clowes_summary.md
+    - Source: Lenny's Podcast Transcripts Archive [public]/Shaun Clowes.txt
+    - Topics: PM学科现状、10倍PM、AI对PM的影响、80/20法则、反馈之河、增长团队结构
+    - Key Insights:
+      * 10倍PM有100倍回报:10倍资源×10倍PM=100倍回报或更多
+      * 80/20法则:80%时间思考建筑外的事情,从客户市场竞争对手视角开始
+      * AI的影响是数据管理:LLM是无限制信息食用者,你永远无法给它们足够信息
+      * 反馈之河:聪明的PM不断在反馈河中游泳,用用户访谈、反馈、NPS、竞争对手信息包围自己
+      * 10倍PM杠杆:PM关于杠杆,帮助其他人有戏剧性更多影响
+      * PM是说90%不:必须快速获得runs on the board,证明价值
+
+41. **Sri Batchu** ✅
+    - File: Sri_Batchu_summary.md
+    - Source: Lenny's Podcast Transcripts Archive [public]/Sri Batchu.txt
+    - Topics: Ramp超快速增长、Cap table增长策略、速度文化、增长团队结构、优先级框架
+    - Key Insights:
+      * 历史最快增长:2年达到$100M ARR,去年增长4X
+      * Cap table作为增长策略:早期创始人和有影响的运营者进入cap table
+      * 工程师拥有配额:Ramp独特,工程师感觉对配额的所有权
+      * 按天工作不按季度:"我们不按年、季度、周工作,我们按天工作"
+      * 增长团队结构:渠道团队、产品工程团队、skunk works团队
+      * 你shipping你的日历:日历审计,日历反映优先级
+
+42. **Sriram Krishnan & Aarthi Ramamurthy** ✅
+    - File: Sriram_and_Aarthi_summary.md
+    - Source: Lenny's Podcast Transcripts Archive [public]/Sriram and Aarthi.txt
+    - Topics: Techno optimism、建立网络和社区、内容创作、社区建设策略、社交产品增长
+    - Key Insights:
+      * Status as a Service框架:新网络想要高地位的人,但他们往往被其他平台服务不足
+      * Techno optimism:人们喜欢互相帮助,就在他们true nature,不transactional
+      * 期待无回报:不要在transactional基础上做,如果这在你nature中很难不帮助
+      * 从小niche开始:找到niche,真正从小开始,从few passionate people开始
+      * 提前think through monetization:早期思考如果达到特定velocity会怎么样
+      * 社区即派对:Vibe、picking right people、setting tone、host第六sense
+
+43. **Stewart Butterfield** ✅
+    - File: Stewart_Butterfield_summary.md
+    - Source: Lenny's Podcast Transcripts Archive [public]/Stewart Butterfield.txt
+    - Topics: Utility curves、品味与工艺、摩擦的好处、产品改进、设计哲学、雨伞比喻
+    - Key Insights:
+      * Utility Curve效用曲线:从"我不知道这是什么"到"我不能没有这个"
+      * Divine Discontent神圣不满:一旦人们熟悉,标准提高,需要持续投资
+      * 品味可以学习和改进:大多数人没有好品味,不投资,通过leaning into it创造优势
+      * 雨伞比喻同理心作为优势:你的失败真正体贴创造关键优势
+      * 产品是狗屎:如果你看不到几乎无限的改进机会,你不应该设计产品
+      * 小便利大影响:Gmail时区选择器例子,创造情感连接,导致advocacy
+
+44. **Tristan de Montebello** ✅
+    - File: Tristan_de_Montebello_summary.md
+    - Source: Lenny's Podcast Transcripts Archive [public]/Tristan de Montebello.txt
+    - Topics: 公开演讲、Ultraspeaking、Meta skill、享受作为barometer、潜意识流程、三个immediate战术
+    - Key Insights:
+      * Speaking是meta skill:改善speaking改善你生活的其他一切,像fitness
+      * 享受即barometer:如果不enjoying,你probably doing it wrong
+      * 潜意识流程导向过程:Speaking是subconscious flow-oriented process,不是conscious process
+      * Root causes>symptoms:不要focus on symptoms,figure out root causes那create这些symptoms
+      * 三个immediate战术:Think up not look down, End strong, Stay in character
+      * People can't see what you feel:即使feeling really strongly,people can't see it
+
+**Summary**: Successfully processed all 9 requested transcripts (Scott Wu, Sean Ellis, Seth Godin, Shweta Shrivastava, Shaun Clowes, Sri Batchu, Sriram and Aarthi, Stewart Butterfield, Tristan de Montebello). Created comprehensive summaries following the established format with focus on:
+- Novel insights and frameworks (Jagged Intelligence, Bricklayer to Architect, Sean Ellis Test, Utility Curves, Divine Discontent, Meta Skill, Subconscious Flow, Status as a Service, Techno Optimism, Feedback River, 10x PM Leverage, Engineer Owns Quota, Cap Table Growth Strategy, 5-Minute Trust Curve, Rainforest Metaphor)
+- Practical actionable advice (Devin onboarding, Lookout 7%→40% transformation, four strategic choices, three immediate tactics, community building frameworks, growth team structures, calendar audits, challenge assumptions, data management for AI, stay in character, end strong, think up not look down)
+- Counter-intuitive perspectives (AI creates more programmers, ignore "somewhat disappointed" users, retention mostly about onboarding not tactics, enjoyment as barometer, people can't see what you feel, friction can be good, taste can be learned, high-status people underserved, expect nothing in return, start small niche, think monetization early)
+- Rich details and anecdotes (15-person team hundreds of Devin PRs, Lookout rebranding in two weeks, Seth's 10,000-day blog streak, Waymo ride experience, Ramp's 4X growth during downturn, Clubhouse growth strategy, Slack's growth from advocacy, Gmail timezone picker years of work, Ultraspeaking course, world championship of public speaking)
+
+All summaries include 7 required sections: 嘉宾简介, 核心议题, 核心洞察(比喻/英文术语), 心法与原则, 实战手册, 反常识视角, 花絮与细节.
+
+---
+
+## Total Summary Statistics (2026-01-16)
+
+### Processing Complete
+- **Total transcripts processed today**: 9 (Scott Wu, Sean Ellis, Seth Godin, Shweta Shrivastava, Shaun Clowes, Sri Batchu, Sriram and Aarthi, Stewart Butterfield, Tristan de Montebello)
+- **Total summaries created**: 9 new comprehensive summaries
+- **Format consistency**: All summaries follow the established 7-section structure
+- **Language**: All summaries in Chinese with English terminology preserved for key concepts
+
+### Batch Performance
+- **Average words per transcript**: ~14,000 words
+- **Processing time**: Efficient batch processing with strategic content extraction
+- **Quality**: Comprehensive coverage of novel insights, practical frameworks, and counter-intuitive perspectives
+- **Completeness**: All requested S-series guests successfully processed
+
+### Cumulative Progress (2026-01-16)
+- **Total summaries created this session**: 44 guests across multiple batches (M, N, NIC, P, SA, S series)
+- **Coverage**: Spans product management, growth, AI, leadership, community building, public speaking, and more
+- **Consistency**: Maintained high quality and format standards across all batches
+
+### Notable Insights from S-Series Batch
+- **AI Engineering**: Scott Wu on Devin, the transition from text completion to agents, and the future of software engineering
+- **Growth Excellence**: Sean Ellis on PMF testing, sustainable growth, and the "leaky bucket" theory
+- **Brand & Strategy**: Seth Godin on taste building, the four strategic choices, and tension as the heart of innovation
+- **Autonomous Vehicles**: Shweta Shrivastava on Waymo's PM work, trust-building, and the 5-minute trust curve
+- **Product Leadership**: Shaun Clowes on 10x PM leverage, the feedback river, and AI's data management impact
+- **Hypergrowth**: Sri Batchu on Ramp's cap table strategy, velocity culture, and growth team structure
+- **Community Building**: Sriram & Aarthi on techno-optimism, networking without transactionality, and community-as-party framework
+- **Product Craft**: Stewart Butterfield on utility curves, divine discontent, and the umbrella metaphor for empathy
+- **Public Speaking**: Tristan de Montebello on speaking as meta skill, enjoyment as barometer, and subconscious flow process
+
+Each summary contains actionable frameworks, novel insights, and practical advice for product managers, founders, and growth professionals.

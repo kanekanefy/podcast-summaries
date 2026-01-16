@@ -1,6 +1,6 @@
 ---
 title: "Jason Shah - 播客摘要"
-description: "## 1. 核心议题 (The Questions)"
+description: "Jason Shah - Alchemy（区块链基础设施）产品负责人，前Airbnb产品经理，Yammer/Amazon/Do.com连续创业者，Web3产品专家"
 pubDate: "2026-01-15"
 guest: "Jason Shah"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Logan Kilpatrick - 播客摘要"
-description: "Summary of podcast with Logan Kilpatrick"
+description: ""
 pubDate: "2026-01-15"
 guest: "Logan Kilpatrick"
 ---

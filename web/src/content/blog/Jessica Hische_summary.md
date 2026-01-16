@@ -1,6 +1,6 @@
 ---
 title: "Jessica Hische - 播客摘要"
-description: "## 1. 核心议题 (The Questions)"
+description: "Jessica Hische - 知名设计师、插画家和字体设计师，为众多知名品牌创作作品"
 pubDate: "2026-01-15"
 guest: "Jessica Hische"
 ---

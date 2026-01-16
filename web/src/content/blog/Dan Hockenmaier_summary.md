@@ -1,6 +1,6 @@
 ---
 title: "Dan Hockenmaier"
-description: "Summary of podcast with Dan Hockenmaier"
+description: "Dan Hockenmaier - Faire 战略与分析负责人，前 Thumbtack 早期核心成员，市场平台增长模型专家。"
 pubDate: "2026-01-15"
 guest: "Dan Hockenmaier"
 ---

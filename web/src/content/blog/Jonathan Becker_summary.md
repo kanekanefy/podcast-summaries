@@ -1,6 +1,6 @@
 ---
 title: "Jonathan Becker - Lenny's Podcast Summary"
-description: "## 1. 核心议题 (The Questions)"
+description: "Jonathan Becker - CEO & Founder of Thrive Digital (管理5亿美元年广告支出的performance marketing代理机构) - 在SEO和performance marketing领域有15年经验，服务过Uber、Asana、Square、MasterClass、Tempur-Pedic等知名客户"
 pubDate: "2026-01-15"
 guest: "Jonathan Becker"
 ---

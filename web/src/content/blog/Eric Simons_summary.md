@@ -1,6 +1,6 @@
 ---
 title: "Eric Simons"
-description: "Summary of podcast with Eric Simons"
+description: "Eric Simons - StackBlitz 联合创始人兼 CEO，Bolt 主理人，打造浏览器内完整开发环境 WebContainer。"
 pubDate: "2026-01-15"
 guest: "Eric Simons"
 ---

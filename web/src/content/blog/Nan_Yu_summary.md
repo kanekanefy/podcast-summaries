@@ -1,6 +1,6 @@
 ---
 title: "Nan Yu (Linear Head of Product) - Lenny's Podcast 摘要"
-description: "Summary of podcast with Nan Yu"
+description: ""
 pubDate: "2026-01-15"
 guest: "Nan Yu"
 ---

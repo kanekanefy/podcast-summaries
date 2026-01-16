@@ -1,6 +1,6 @@
 ---
 title: "Dylan Field 2.0"
-description: "Summary of podcast with Dylan Field 2.0"
+description: "Dylan Field - Figma 联合创始人兼 CEO，强调设计为软件竞争核心，推动多产品线与 AI 新阶段。"
 pubDate: "2026-01-15"
 guest: "Dylan Field 2.0"
 ---

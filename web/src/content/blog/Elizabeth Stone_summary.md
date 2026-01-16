@@ -1,6 +1,6 @@
 ---
 title: "Elizabeth Stone"
-description: "Summary of podcast with Elizabeth Stone"
+description: "Elizabeth Stone - Netflix CTO（前数据与洞察负责人），经济学博士，曾任Lyft科学VP、Nuna COO。"
 pubDate: "2026-01-15"
 guest: "Elizabeth Stone"
 ---

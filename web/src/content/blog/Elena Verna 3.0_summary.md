@@ -1,6 +1,6 @@
 ---
 title: "Elena Verna 3.0"
-description: "Summary of podcast with Elena Verna 3.0"
+description: "Elena Verna - 资深B2B增长负责人/顾问（Miro、Amplitude、Dropbox等），以增长框架与实战著称。"
 pubDate: "2026-01-15"
 guest: "Elena Verna 3.0"
 ---

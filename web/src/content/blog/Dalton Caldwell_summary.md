@@ -1,6 +1,6 @@
 ---
 title: "Dalton Caldwell"
-description: "Summary of podcast with Dalton Caldwell"
+description: "Dalton Caldwell - Y Combinator 管理合伙人，前 imeem 与 App.net 创始人/CEO，见过最多创业生死线的人之一。"
 pubDate: "2026-01-15"
 guest: "Dalton Caldwell"
 ---

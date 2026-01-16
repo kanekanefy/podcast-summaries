@@ -1,6 +1,6 @@
 ---
 title: "Keith Yandell - 播客摘要"
-description: "---"
+description: "Keith Yandell - DoorDash资深领导者（7年），曾领导法律、人力资源、市场营销、客户支持团队，现任商务拓展（BD）和企业发展负责人；前Uber诉讼负责人，成功管理过Gokul Rajaram等高管"
 pubDate: "2026-01-15"
 guest: "Keith Yandell"
 ---

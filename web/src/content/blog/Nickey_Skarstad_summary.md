@@ -1,6 +1,6 @@
 ---
 title: "Nickey Skarstad - 产品愿景与执行专家访谈摘要"
-description: "Summary of podcast with Nickey Skarstad"
+description: ""
 pubDate: "2026-01-15"
 guest: "Nickey Skarstad"
 ---

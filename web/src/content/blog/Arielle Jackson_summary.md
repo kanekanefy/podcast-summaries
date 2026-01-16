@@ -1,6 +1,6 @@
 ---
 title: "Arielle Jackson"
-description: "Summary of podcast with Arielle Jackson"
+description: "Arielle Jackson - 前 Google/Gmail 与 Square 早期营销负责人，First Round 驻场营销专家。"
 pubDate: "2026-01-15"
 guest: "Arielle Jackson"
 ---

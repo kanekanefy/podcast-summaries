@@ -1,6 +1,6 @@
 ---
 title: "Gustav Söderström 播客摘要"
-description: "Summary of podcast with Gustav Söderström"
+description: ""
 pubDate: "2026-01-15"
 guest: "Gustav Söderström"
 ---

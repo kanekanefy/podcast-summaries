@@ -1,6 +1,6 @@
 ---
 title: "Nabeel S. Qureshi - Lenny's Podcast 摘要"
-description: "Summary of podcast with Nabeel S Qureshi"
+description: ""
 pubDate: "2026-01-15"
 guest: "Nabeel S Qureshi"
 ---

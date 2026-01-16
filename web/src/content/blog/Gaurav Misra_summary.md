@@ -1,6 +1,6 @@
 ---
 title: "Gaurav Misra - Captions联合创始人兼CEO"
-description: "---"
+description: "Gaurav Misra是Captions联合创始人兼CEO，Snap早期员工负责设计工程团队，公司1000万用户，融资超1亿美元，专注AI视频生成和编辑。"
 pubDate: "2026-01-15"
 guest: "Gaurav Misra"
 ---

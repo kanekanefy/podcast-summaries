@@ -1,6 +1,6 @@
 ---
 title: "Merci Grace - Lenny's Podcast 摘要"
-description: "Summary of podcast with Merci Grace"
+description: ""
 pubDate: "2026-01-15"
 guest: "Merci Grace"
 ---

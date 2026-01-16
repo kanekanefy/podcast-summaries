@@ -1,6 +1,6 @@
 ---
 title: "Rachel Lockett - Podcast Summary"
-description: "Summary of podcast with Rachel Lockett"
+description: ""
 pubDate: "2026-01-15"
 guest: "Rachel Lockett"
 ---

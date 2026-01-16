@@ -1,6 +1,6 @@
 ---
 title: "Brendan Foody"
-description: "Summary of podcast with Brendan Foody"
+description: "Brendan Foody - Mercor CEO/联合创始人，AI评测与高端专家劳动力市场的极速增长公司掌舵人。"
 pubDate: "2026-01-15"
 guest: "Brendan Foody"
 ---

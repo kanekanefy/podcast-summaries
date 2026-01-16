@@ -1,6 +1,6 @@
 ---
 title: "Alex Hardiman"
-description: "Summary of podcast with Alex Hardiman"
+description: "Alex Hardiman - 纽约时报首席产品官 (CPO)，领导新闻、烹饪、游戏、音频与广告产品，前 The Atlantic CPO、Facebook 新闻产品负责人。"
 pubDate: "2026-01-15"
 guest: "Alex Hardiman"
 ---

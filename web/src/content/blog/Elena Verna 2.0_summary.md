@@ -1,6 +1,6 @@
 ---
 title: "Elena Verna 2.0"
-description: "Summary of podcast with Elena Verna 2.0"
+description: "Elena Verna - 资深B2B增长负责人/顾问（Miro、Amplitude、MongoDB等），Reforge讲师。"
 pubDate: "2026-01-15"
 guest: "Elena Verna 2.0"
 ---

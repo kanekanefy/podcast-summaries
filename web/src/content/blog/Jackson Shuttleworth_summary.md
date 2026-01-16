@@ -1,6 +1,6 @@
 ---
 title: "Jackson Shuttleworth - Duolingo集团产品经理，留存团队负责人"
-description: "Summary of podcast with Jackson Shuttleworth"
+description: "**900万用户拥有1年以上Streak**：相当于一个大型城市的人口连续一年每天使用Duolingo"
 pubDate: "2026-01-15"
 guest: "Jackson Shuttleworth"
 ---

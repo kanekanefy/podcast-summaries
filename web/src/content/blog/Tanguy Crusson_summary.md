@@ -1,6 +1,6 @@
 ---
 title: "Tanguy Crusson 播客摘要"
-description: "Summary of podcast with Tanguy Crusson"
+description: ""
 pubDate: "2026-01-15"
 guest: "Tanguy Crusson"
 ---

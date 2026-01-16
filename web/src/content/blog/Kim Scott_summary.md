@@ -1,6 +1,6 @@
 ---
 title: "Kim Scott 播客摘要"
-description: "Summary of podcast with Kim Scott"
+description: "**Radical Candor的核心是\"Care Personally + Challenge Directly\"** - 既要真心关怀对方,又要直接指出问题,缺一不可。这个2x2矩阵包括四个象限:Radical Candor(最佳状态)、Ruinous Empathy(毁灭性同情)、Obnoxious Aggression(令人讨厌的攻击)、Manipulative Insincerity(虚伪的操控)。"
 pubDate: "2026-01-15"
 guest: "Kim Scott"
 ---

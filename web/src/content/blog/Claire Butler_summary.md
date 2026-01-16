@@ -1,6 +1,6 @@
 ---
 title: "Claire Butler"
-description: "Summary of podcast with Claire Butler"
+description: "Claire Butler - Figma第10号员工、首位市场负责人，主导早期GTM与品牌定位。"
 pubDate: "2026-01-15"
 guest: "Claire Butler"
 ---

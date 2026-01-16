@@ -1,6 +1,6 @@
 ---
 title: "Casey Winters"
-description: "Summary of podcast with Casey Winters"
+description: "Casey Winters - Eventbrite前CPO、Pinterest增长负责人、知名增长与产品顾问。"
 pubDate: "2026-01-15"
 guest: "Casey Winters"
 ---

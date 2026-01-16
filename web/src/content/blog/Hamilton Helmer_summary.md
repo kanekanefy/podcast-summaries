@@ -1,6 +1,6 @@
 ---
 title: "Hamilton Helmer - 播客摘要"
-description: "## 1. 核心议题 (The Questions)"
+description: "Hamilton Helmer - 战略专家、《7 Powers》作者,该书被Patrick Collison、Peter Thiel、Reed Hastings、Daniel Ek等视为战略和持久竞争优势的最佳指南。"
 pubDate: "2026-01-15"
 guest: "Hamilton Helmer"
 ---

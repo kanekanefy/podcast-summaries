@@ -1,6 +1,6 @@
 ---
 title: "Alisa Cohn"
-description: "Summary of podcast with Alisa Cohn"
+description: "Alisa Cohn - 顶级高管教练，服务 Etsy、Wirecutter、Venmo 等创业公司与微软/谷歌等大企业。"
 pubDate: "2026-01-15"
 guest: "Alisa Cohn"
 ---

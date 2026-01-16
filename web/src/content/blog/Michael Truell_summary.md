@@ -1,6 +1,6 @@
 ---
 title: "Michael Truell (Cursor/Anysphere CEO) - Lenny's Podcast 摘要"
-description: "Summary of podcast with Michael Truell"
+description: ""
 pubDate: "2026-01-15"
 guest: "Michael Truell"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Lauzier"
-description: "Summary of podcast with Benjamin Lauzier"
+description: "Benjamin Lauzier - 前 Thumbtack VP（产品与增长）、Lyft 早期员工，专注 marketplace 增长与规模化。"
 pubDate: "2026-01-15"
 guest: "Benjamin Lauzier"
 ---

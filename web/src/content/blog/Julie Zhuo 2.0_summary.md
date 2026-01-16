@@ -1,6 +1,6 @@
 ---
 title: "Julie Zhuo 2.0 - Lenny's Podcast 摘要"
-description: "## 1. 核心议题"
+description: "Julie Zhuo - Sundial创始人（AI产品分析师）、Facebook前设计VP、《The Making of a Manager》作者，本次访谈聚焦AI时代的管理与产品决策"
 pubDate: "2026-01-15"
 guest: "Julie Zhuo 2.0"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Andrew Wilkinson"
-description: "Summary of podcast with Andrew Wilkinson"
+description: "Andrew Wilkinson - Tiny 联合创始人兼 CEO，运营数十家企业的互联网控股公司。"
 pubDate: "2026-01-15"
 guest: "Andrew Wilkinson"
 ---

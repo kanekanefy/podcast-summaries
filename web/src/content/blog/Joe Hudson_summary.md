@@ -1,6 +1,6 @@
 ---
 title: "Joe Hudson - 播客摘要"
-description: "## 1. 核心议题 (The Questions)"
+description: "Joe Hudson - 顶级高管教练，服务过OpenAI、SpaceX、Apple等公司，结合灵性、心理学和神经科学的独特方法"
 pubDate: "2026-01-15"
 guest: "Joe Hudson"
 ---

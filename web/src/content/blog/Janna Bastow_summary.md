@@ -1,6 +1,6 @@
 ---
 title: "Janna Bastow 播客摘要"
-description: "## 1. 核心议题 (The Questions)"
+description: "Janna Bastow - ProdPad 创始人、Mind the Product 和 ProductTank 联合创始人、Now/Next/Later 路线图框架发明者,全球最大产品经理社区建设者。"
 pubDate: "2026-01-15"
 guest: "Janna Bastow"
 ---

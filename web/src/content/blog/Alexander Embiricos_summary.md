@@ -1,6 +1,6 @@
 ---
 title: "Alexander Embiricos"
-description: "Summary of podcast with Alexander Embiricos"
+description: "Alexander Embiricos - OpenAI Codex 产品负责人，前 Dropbox PM、前创业者，主导 Codex 编码智能体。"
 pubDate: "2026-01-15"
 guest: "Alexander Embiricos"
 ---

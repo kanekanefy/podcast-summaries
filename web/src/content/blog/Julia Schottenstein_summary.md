@@ -1,6 +1,6 @@
 ---
 title: "Julia Schottenstein - 播客摘要"
-description: "---"
+description: "Julia Schottenstein - Instagram Monetization产品负责人,前Uber PM(5.5年,负责Rider Growth、Driver Growth、Eats等),耶鲁大学经济与数学本科"
 pubDate: "2026-01-15"
 guest: "Julia Schottenstein"
 ---

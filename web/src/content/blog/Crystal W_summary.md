@@ -1,6 +1,6 @@
 ---
 title: "Crystal W"
-description: "Summary of podcast with Crystal W"
+description: "Crystal Widjaja - Kumu 首席产品官、前 Gojek 增长负责人/数据与风控负责人，深耕东南亚超级应用与增长策略。"
 pubDate: "2026-01-15"
 guest: "Crystal W"
 ---

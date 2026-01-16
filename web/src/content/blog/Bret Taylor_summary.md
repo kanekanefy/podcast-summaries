@@ -1,6 +1,6 @@
 ---
 title: "Bret Taylor"
-description: "Summary of podcast with Bret Taylor"
+description: "Bret Taylor - Sierra CEO、OpenAI 董事会主席，曾任 Salesforce 联合 CEO、Meta CTO、Google Maps 共同创造者。"
 pubDate: "2026-01-15"
 guest: "Bret Taylor"
 ---

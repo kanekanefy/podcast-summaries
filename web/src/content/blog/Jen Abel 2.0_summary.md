@@ -1,6 +1,6 @@
 ---
 title: "Jen Abel 2.0 - 从1M到10M ARR的企业销售艺术"
-description: "## 1. 核心议题 (The Questions)"
+description: "Jen Abel - Jellyfish联合创始人,现任State Affairs企业业务总经理,专注于帮助创始人从1M ARR增长到10M ARR的企业销售策略。"
 pubDate: "2026-01-15"
 guest: "Jen Abel 2.0"
 ---

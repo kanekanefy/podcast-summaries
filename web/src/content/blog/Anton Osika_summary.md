@@ -1,6 +1,6 @@
 ---
 title: "Anton Osika"
-description: "Summary of podcast with Anton Osika"
+description: "Anton Osika - Lovable 联合创始人兼 CEO，前 YC 创业公司 CTO。"
 pubDate: "2026-01-15"
 guest: "Anton Osika"
 ---

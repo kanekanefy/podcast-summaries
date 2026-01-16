@@ -1,6 +1,6 @@
 ---
 title: "Dmitry Zlokazov"
-description: "Summary of podcast with Dmitry Zlokazov"
+description: "Dmitry Zlokazov - Revolut 全球产品负责人，推动金融超级应用在 50+ 国家扩张并打造高强度产品与人才体系。"
 pubDate: "2026-01-15"
 guest: "Dmitry Zlokazov"
 ---

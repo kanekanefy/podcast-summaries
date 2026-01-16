@@ -1,6 +1,6 @@
 ---
 title: "Josh Miller - 播客摘要"
-description: "---"
+description: "Josh Miller - The Browser Company CEO & 联合创始人,Arc浏览器创造者,前Facebook PM、Thrive Capital投资人"
 pubDate: "2026-01-15"
 guest: "Josh Miller"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Jag Duggal - Nubank首席产品官"
-description: "Summary of podcast with Jag Duggal"
+description: "**Nubank的惊人规模**：比Coinbase、Robinhood、Affirm、SoFi和Lemonade加起来还要大，客户数量超过美国四大银行之一的Bank of America，而仅在三个拉美国家运营"
 pubDate: "2026-01-15"
 guest: "Jag Duggal"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Judd Antin - 播客摘要"
-description: "---"
+description: "Judd Antin - 前Facebook用户研究负责人、前Airbnb设计工作室负责人,咨询顾问,帮助公司处理组织挑战、产品策略、设计研究、招聘、入职和危机管理"
 pubDate: "2026-01-15"
 guest: "Judd Antin"
 ---

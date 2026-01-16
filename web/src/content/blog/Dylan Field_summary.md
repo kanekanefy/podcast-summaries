@@ -1,6 +1,6 @@
 ---
 title: "Dylan Field"
-description: "Summary of podcast with Dylan Field"
+description: "Dylan Field - Figma CEO/联合创始人，长期专注设计工具与产品品味。"
 pubDate: "2026-01-15"
 guest: "Dylan Field"
 ---

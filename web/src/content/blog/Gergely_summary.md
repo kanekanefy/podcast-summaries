@@ -1,6 +1,6 @@
 ---
 title: "Gergely Orosz - 播客摘要"
-description: "## 核心议题 (The Questions)"
+description: "Gergely Orosz - The Pragmatic Engineer创始人，前Uber工程师经理，Substack顶级科技通讯作者"
 pubDate: "2026-01-15"
 guest: "Gergely"
 ---

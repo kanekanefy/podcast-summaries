@@ -1,6 +1,6 @@
 ---
 title: "Christopher Miller"
-description: "Summary of podcast with Christopher Miller"
+description: "Christopher Miller - HubSpot 增长与AI产品副总裁，早期PLG团队核心成员。"
 pubDate: "2026-01-15"
 guest: "Christopher Miller"
 ---

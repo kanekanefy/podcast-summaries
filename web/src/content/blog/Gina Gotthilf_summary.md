@@ -1,6 +1,6 @@
 ---
 title: "Gina Gotthilf - 播客摘要"
-description: "## 核心议题 (The Questions)"
+description: "Gina Gotthilf - Duolingo前增长/营销负责人（300万→2亿用户），Mike Bloomberg竞选团队数字广告负责人，Latitude联合创始人/COO"
 pubDate: "2026-01-15"
 guest: "Gina Gotthilf"
 ---

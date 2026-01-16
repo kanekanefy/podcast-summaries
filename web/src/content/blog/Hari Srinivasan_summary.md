@@ -1,6 +1,6 @@
 ---
 title: "Hari Srinivasan - 播客摘要"
-description: "## 1. 核心议题 (The Questions)"
+description: "Hari Srinivasan - LinkedIn VP of Product,领导人才解决方案(Talent Solutions)产品团队,负责LinkedIn最大的业务部门,包括招聘和学习产品。"
 pubDate: "2026-01-15"
 guest: "Hari Srinivasan"
 ---

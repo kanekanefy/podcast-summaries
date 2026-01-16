@@ -1,6 +1,6 @@
 ---
 title: "Hila Qu - 播客摘要"
-description: "## 1. 核心议题 (The Questions)"
+description: "Hila Qu - 前GitLab增长负责人,前Acorns增长主管,现为创业者增长顾问。在Lenny's Newsletter发表的两篇\"如何添加产品驱动增长(PLG)\"文章进入Top 25最受欢迎文章。"
 pubDate: "2026-01-15"
 guest: "Hila Qu"
 ---

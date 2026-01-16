@@ -1,6 +1,6 @@
 ---
 title: "Archie Abrams"
-description: "Summary of podcast with Archie Abrams"
+description: "Archie Abrams - Shopify VP of Product & Head of Growth，领导超 600 人增长组织。"
 pubDate: "2026-01-15"
 guest: "Archie Abrams"
 ---

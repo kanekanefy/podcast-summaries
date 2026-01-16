@@ -1,6 +1,6 @@
 ---
 title: "Kunal Shah 播客摘要"
-description: "Summary of podcast with Kunal Shah"
+description: "**Delta 4框架** - 当一个产品的效率delta ≥ 4时,会发生三件事:1)不可逆性(用户不会回退到旧方式)2)对失败的高容忍度3)口碑传播和Unique Brag-worthy Proposition(UBP)。例如CRED将信用卡还款时间从45分钟降至45秒,delta远大于4,创造了不可逆转的行为改变和强大的口碑效应。"
 pubDate: "2026-01-15"
 guest: "Kunal Shah"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Camille Hearst"
-description: "Summary of podcast with Camille Hearst"
+description: "Camille Hearst - Spotify 粉丝变现负责人，前 Patreon 创作者产品负责人、YouTube 产品营销经理、iTunes 早期 PMM、创业公司 Kit 创始人。"
 pubDate: "2026-01-15"
 guest: "Camille Hearst"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Kevin Aluwi - 播客摘要"
-description: "## 1. 核心议题"
+description: "Kevin Aluwi - Gojek联合创始人兼前CEO，将印尼摩托出租车服务打造为东南亚超级应用巨头，270万司机，完成30亿订单，印尼史上最大IPO（280亿美元估值）"
 pubDate: "2026-01-15"
 guest: "Kevin Aluwi"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Jake Knapp + John Zeratsky 2.0 播客摘要"
-description: "## 1. 核心议题 (The Questions)"
+description: "Jake Knapp 和 John Zeratsky - Character VC 联合创始人、《Click》和《Sprint》作者,曾帮助 Google、Slack、YouTube、Uber 等数百家团队通过设计冲刺验证产品想法,开发了初创公司\"缺失的手册\"——Foundation Sprint。"
 pubDate: "2026-01-15"
 guest: "Jake Knapp + John Zeratsky 2.0"
 ---

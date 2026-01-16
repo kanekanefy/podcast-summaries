@@ -1,6 +1,6 @@
 ---
 title: "Sachin Monga - Podcast Summary"
-description: "Summary of podcast with Sachin Monga"
+description: ""
 pubDate: "2026-01-15"
 guest: "Sachin Monga"
 ---

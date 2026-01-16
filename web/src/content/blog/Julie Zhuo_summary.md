@@ -1,6 +1,6 @@
 ---
 title: "Julie Zhuo - Lenny's Podcast 摘要"
-description: "## 1. 核心议题"
+description: "Julie Zhuo - Facebook前设计VP（13年）、《The Making of a Manager》作者、Sundial创始人（产品分析公司）"
 pubDate: "2026-01-15"
 guest: "Julie Zhuo"
 ---

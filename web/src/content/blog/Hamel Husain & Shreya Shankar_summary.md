@@ -1,6 +1,6 @@
 ---
 title: "Hamel Husain & Shreya Shankar - 播客摘要"
-description: "## 处理说明"
+description: "Hamel Husain & Shreya Shankar - AI/机器学习领域的专家和从业者,分享了他们在AI应用开发方面的经验和见解。"
 pubDate: "2026-01-15"
 guest: "Hamel Husain & Shreya Shankar"
 ---

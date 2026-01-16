@@ -1,6 +1,6 @@
 ---
 title: "Phyl Terry - Podcast Summary"
-description: "Summary of podcast with Phyl Terry"
+description: ""
 pubDate: "2026-01-15"
 guest: "Phyl Terry"
 ---

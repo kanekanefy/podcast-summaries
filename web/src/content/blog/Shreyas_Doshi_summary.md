@@ -1,6 +1,6 @@
 ---
 title: "Shreyas Doshi - Lenny's Podcast Summary"
-description: "## 核心议题 (The Questions)"
+description: "Shreyas Doshi - 产品管理思想领袖，曾任Stripe、Twitter、Google、Yahoo产品领导，以深刻的PM见解和反直觉思维闻名"
 pubDate: "2026-01-15"
 guest: "Shreyas Doshi"
 ---

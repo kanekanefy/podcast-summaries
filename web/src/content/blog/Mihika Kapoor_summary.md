@@ -1,6 +1,6 @@
 ---
 title: "Mihika Kapoor - Lenny's Podcast 摘要"
-description: "Summary of podcast with Mihika Kapoor"
+description: ""
 pubDate: "2026-01-15"
 guest: "Mihika Kapoor"
 ---

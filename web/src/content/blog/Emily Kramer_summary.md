@@ -1,6 +1,6 @@
 ---
 title: "Emily Kramer"
-description: "Summary of podcast with Emily Kramer"
+description: "Emily Kramer - 曾在 Asana、Carta、Ticketfly 等公司从零搭建营销团队，MKT1 Newsletter 与 Market 1 Capital 创始人。"
 pubDate: "2026-01-15"
 guest: "Emily Kramer"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Meltem Kuran Berkowitz - Lenny's Podcast 摘要"
-description: "Summary of podcast with Meltem Kuran"
+description: ""
 pubDate: "2026-01-15"
 guest: "Meltem Kuran"
 ---

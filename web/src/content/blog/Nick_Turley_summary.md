@@ -1,6 +1,6 @@
 ---
 title: "Nick Turley - ChatGPT产品负责人访谈摘要"
-description: "Summary of podcast with Nick Turley"
+description: ""
 pubDate: "2026-01-15"
 guest: "Nick Turley"
 ---

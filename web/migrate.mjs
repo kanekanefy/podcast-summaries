@@ -30,22 +30,37 @@ files.forEach(file => {
     // 2. Guest: From filename
     const guest = file.replace('_summary.md', '').replace(/_/g, ' ');
 
-    // 3. Description: Look for "**嘉宾简介**" and take the next non-empty line
+    // 3. Description: Look for "**嘉宾简介**"
     let description = '';
-    const bioIndex = lines.findIndex(l => l.includes('**嘉宾简介**'));
-    if (bioIndex !== -1 && lines[bioIndex + 1]) {
-        // Try next line, or skip validation of next line if it's empty, find first non-empty
-        for (let i = bioIndex + 1; i < lines.length; i++) {
-            if (lines[i].trim()) {
-                description = lines[i].trim();
-                break;
+    const bioLineIndex = lines.findIndex(l => l.includes('**嘉宾简介**'));
+
+    if (bioLineIndex !== -1) {
+        const bioLine = lines[bioLineIndex];
+        // Check if bio is on the same line (e.g. "**嘉宾简介**: Some text")
+        const sameLineContent = bioLine.replace(/\*\*嘉宾简介\*\*[:：]?\s*/, '').trim();
+
+        if (sameLineContent.length > 5) { // Threshold to ensure it's actual content
+            description = sameLineContent;
+        } else if (lines[bioLineIndex + 1]) {
+            // Look at subsequent lines
+            for (let i = bioLineIndex + 1; i < lines.length; i++) {
+                if (lines[i].trim()) {
+                    description = lines[i].trim();
+                    break;
+                }
             }
         }
     }
 
     // Fallback description
     if (!description) {
-        description = `Summary of podcast with ${guest}`;
+        // Try to find Core Conclusions or other headers to use as teaser
+        const coreIndex = lines.findIndex(l => l.includes('核心洞察'));
+        if (coreIndex !== -1 && lines[coreIndex + 1]) {
+            description = lines[coreIndex + 1].trim().replace(/^-\s*/, '');
+        } else {
+            description = `Insights from podcast with ${guest}`;
+        }
     }
 
     // Escape quotes in frontmatter
@@ -62,7 +77,6 @@ files.forEach(file => {
 title: "${safeTitle}"
 description: "${safeDesc}"
 pubDate: "${date}"
-heroImage: "/blog-placeholder-about.jpg"
 guest: "${safeGuest}"
 ---
 

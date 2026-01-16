@@ -1,6 +1,6 @@
 ---
 title: "Christina Wodtke"
-description: "Summary of podcast with Christina Wodtke"
+description: "Christina Wodtke - 多次创业者、斯坦福讲师、OKR 领域权威，前 LinkedIn/Yahoo/Zynga 产品领导者。"
 pubDate: "2026-01-15"
 guest: "Christina Wodtke"
 ---

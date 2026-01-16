@@ -1,6 +1,6 @@
 ---
 title: "Anneka Gupta"
-description: "Summary of podcast with Anneka Gupta"
+description: "Anneka Gupta - Rubrik 的 Chief Product Officer、斯坦福 GSB 产品管理讲师，前 LiveRamp 总裁/GM。"
 pubDate: "2026-01-15"
 guest: "Anneka Gupta"
 ---

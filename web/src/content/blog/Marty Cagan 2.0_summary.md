@@ -1,6 +1,6 @@
 ---
 title: "Marty Cagan 2.0 - 播客摘要"
-description: "Summary of podcast with Marty Cagan 2.0"
+description: ""
 pubDate: "2026-01-15"
 guest: "Marty Cagan 2.0"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Donna Lichaw"
-description: "Summary of podcast with Donna Lichaw"
+description: "Donna Lichaw - 前产品经理与设计师、现任高管教练与畅销书作者，专注“故事驱动领导力”。"
 pubDate: "2026-01-15"
 guest: "Donna Lichaw"
 ---

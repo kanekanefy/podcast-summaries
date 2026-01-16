@@ -1,6 +1,6 @@
 ---
 title: "Katie Dill - Stripe设计负责人访谈摘要"
-description: "---"
+description: "Katie Dill - Stripe设计负责人,曾任Airbnb体验设计负责人和Lyft设计负责人,在三家超高速增长公司领导设计团队,见证团队规模至少10倍增长"
 pubDate: "2026-01-15"
 guest: "Katie Dill"
 ---

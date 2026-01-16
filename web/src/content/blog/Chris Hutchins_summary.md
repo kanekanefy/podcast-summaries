@@ -1,6 +1,6 @@
 ---
 title: "Chris Hutchins"
-description: "Summary of podcast with Chris Hutchins"
+description: "Chris Hutchins - 前 PM、创业者与投资人，All the Hacks 播客主理人，前 Wealthfront 新产品战略负责人。"
 pubDate: "2026-01-15"
 guest: "Chris Hutchins"
 ---

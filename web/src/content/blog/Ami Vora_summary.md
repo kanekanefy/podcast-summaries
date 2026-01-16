@@ -1,6 +1,6 @@
 ---
 title: "Ami Vora"
-description: "Summary of podcast with Ami Vora"
+description: "Ami Vora - Faire 首席产品官，曾负责 Facebook 广告、Instagram 广告与 WhatsApp 产品设计与增长。"
 pubDate: "2026-01-15"
 guest: "Ami Vora"
 ---

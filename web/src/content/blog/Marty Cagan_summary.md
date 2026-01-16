@@ -1,6 +1,6 @@
 ---
 title: "Marty Cagan - 播客摘要"
-description: "Summary of podcast with Marty Cagan"
+description: "3. **问题发现vs解决方案发现** - PM应该把时间花在哪里"
 pubDate: "2026-01-15"
 guest: "Marty Cagan"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Podcast Summary: Adam Grenier on Lenny's Podcast"
-description: "Summary of podcast with Adam Grenier"
+description: "Adam Grenier 曾任 Uber 增长营销与创新负责人（从零搭建了 Uber 的增长营销基础设施）、Masterclass 和 Lambda School 的营销副总裁，现为多阶段公司的增长顾问。"
 pubDate: "2026-01-15"
 guest: "Adam Grenier"
 ---

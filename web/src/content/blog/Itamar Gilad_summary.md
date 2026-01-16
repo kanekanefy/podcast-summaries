@@ -1,6 +1,6 @@
 ---
 title: "Itamar Gilad - 产品教练与《Evidence-Guided》作者"
-description: "Summary of podcast with Itamar Gilad"
+description: "**Google+的失败是\"基于观点的开发\"的典型反面教材**：投入1000人、独立部门、多年时间，最终失败是因为\"我们相信它\"而非\"证据显示它有效\""
 pubDate: "2026-01-15"
 guest: "Itamar Gilad"
 ---

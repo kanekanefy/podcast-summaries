@@ -1,6 +1,6 @@
 ---
 title: "Richard Rumelt - Podcast Summary"
-description: "Summary of podcast with Richard Rumelt"
+description: ""
 pubDate: "2026-01-15"
 guest: "Richard Rumelt"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Krithika Shankarraman 播客摘要"
-description: "Summary of podcast with Krithika Shankarraman"
+description: "**ChatGPT的营销挑战** - ChatGPT知名度不是问题,但人们不知道如何使用它,不知道它替代什么,不知道如何帮助自己。营销工作的核心是创造\"使用场景顿悟\"(use case epiphany),让人们说\"我不知道ChatGPT还能做这个\"。"
 pubDate: "2026-01-15"
 guest: "Krithika Shankarraman"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Drew Houston"
-description: "Summary of podcast with Drew Houston"
+description: "Drew Houston - Dropbox 创始人兼 CEO，经历 18 年高速增长、竞争围剿与战略转型。"
 pubDate: "2026-01-15"
 guest: "Drew Houston"
 ---

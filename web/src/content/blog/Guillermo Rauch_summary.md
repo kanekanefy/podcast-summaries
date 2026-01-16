@@ -1,6 +1,6 @@
 ---
 title: "Guillermo Rauch - Vercel CEO"
-description: "---"
+description: "Guillermo Rauch - Vercel创始人兼CEO，Next.js、Socket.IO等知名开源框架创建者，开发者工具领域的连续创业者。"
 pubDate: "2026-01-15"
 guest: "Guillermo Rauch"
 ---

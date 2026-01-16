@@ -1,6 +1,6 @@
 ---
 title: "Ken Norton - 播客摘要"
-description: "## 1. 核心议题"
+description: "Ken Norton - 前Google产品领导者（14年任期，负责Google Docs、Calendar、Maps），现任全职高管教练，专注于产品领导力发展"
 pubDate: "2026-01-15"
 guest: "Ken Norton"
 ---

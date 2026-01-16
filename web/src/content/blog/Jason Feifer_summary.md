@@ -1,6 +1,6 @@
 ---
 title: "Jason Feifer 播客摘要"
-description: "## 1. 核心议题 (The Questions)"
+description: "Jason Feifer - Entrepreneur Magazine 总编辑、Fast Company 前高级编辑、畅销书《Build for Tomorrow》作者、播客主持人、 keynote 演讲家,专注帮助创业者通过媒体获得关注和成长。"
 pubDate: "2026-01-15"
 guest: "Jason Feifer"
 ---

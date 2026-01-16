@@ -1,6 +1,6 @@
 ---
 title: "Jerry Colonna - 成长领导力艺术"
-description: "## 1. 核心议题 (The Questions)"
+description: "Jerry Colonna - Reboot联合创始人CEO,全球最受尊敬的高管教练之一,曾任Flatiron Partners联合创始人(与Fred Wilson),JPMorgan Chase合伙人,著《Reboot》和《Reunion》。"
 pubDate: "2026-01-15"
 guest: "Jerry Colonna"
 ---

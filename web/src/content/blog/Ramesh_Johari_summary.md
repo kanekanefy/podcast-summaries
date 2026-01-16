@@ -1,6 +1,6 @@
 ---
 title: "Ramesh Johari - Podcast Summary"
-description: "Summary of podcast with Ramesh Johari"
+description: ""
 pubDate: "2026-01-15"
 guest: "Ramesh Johari"
 ---

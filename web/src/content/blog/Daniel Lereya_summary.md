@@ -1,6 +1,6 @@
 ---
 title: "Daniel Lereya"
-description: "Summary of podcast with Daniel Lereya"
+description: "Daniel Lereya - Monday.com 首席产品与技术官（CPTO），从 40 人团队扩张到 2,500 人、ARR 超 10 亿美金的核心操盘者。"
 pubDate: "2026-01-15"
 guest: "Daniel Lereya"
 ---

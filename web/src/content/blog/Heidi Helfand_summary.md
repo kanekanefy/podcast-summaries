@@ -1,6 +1,6 @@
 ---
 title: "Heidi Helfand - 播客摘要"
-description: "## 1. 核心议题 (The Questions)"
+description: "Heidi Helfand - 《Dynamic Reteaming》作者,拥有20年SaaS行业经验,专注于团队组织、结构变革和如何通过变革使团队成功。现提供workshop、咨询和课程服务。"
 pubDate: "2026-01-15"
 guest: "Heidi Helfand"
 ---

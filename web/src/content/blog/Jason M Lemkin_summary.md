@@ -1,6 +1,6 @@
 ---
 title: "Jason M. Lemkin - 播客摘要"
-description: "## 1. 核心议题 (The Questions)"
+description: "Jason M. Lemkin - SaaStr创始人，EchoSign（出售给Adobe）前CEO，SaaS社区和大会组织者，B2B销售领域权威专家"
 pubDate: "2026-01-15"
 guest: "Jason M Lemkin"
 ---

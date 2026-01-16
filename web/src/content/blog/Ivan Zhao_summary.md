@@ -1,6 +1,6 @@
 ---
 title: "Ivan Zhao - Notion联合创始人兼CEO"
-description: "Summary of podcast with Ivan Zhao"
+description: "**前3-4年是\"迷失岁月\"**：最初版本是\"开发者工具\"，试图让每个人都能创建软件，但意识到\"大多数人根本不在乎\""
 pubDate: "2026-01-15"
 guest: "Ivan Zhao"
 ---

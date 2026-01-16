@@ -1,6 +1,6 @@
 ---
 title: "Camille Fournier"
-description: "Summary of podcast with Camille Fournier"
+description: "Camille Fournier - 技术领导者、《The Manager’s Path》作者，曾任 Rent the Runway CTO 与多家金融机构工程负责人。"
 pubDate: "2026-01-15"
 guest: "Camille Fournier"
 ---

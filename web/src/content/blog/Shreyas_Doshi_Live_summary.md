@@ -1,6 +1,6 @@
 ---
 title: "Shreyas Doshi Live - Lenny's Podcast Summary"
-description: "## 核心议题 (The Questions)"
+description: "Shreyas Doshi - 第二次做客Lenny's Podcast，在Lenny & Friends Summit现场1000人面前分享，产品管理思想领袖"
 pubDate: "2026-01-15"
 guest: "Shreyas Doshi Live"
 ---

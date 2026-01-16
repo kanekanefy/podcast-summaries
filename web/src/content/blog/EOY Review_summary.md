@@ -1,6 +1,6 @@
 ---
 title: "EOY Review"
-description: "Summary of podcast with EOY Review"
+description: "Lenny Rachitsky - 播客主持人/产品与增长作者，年度回顾50期节目精华。"
 pubDate: "2026-01-15"
 guest: "EOY Review"
 ---

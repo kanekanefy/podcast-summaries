@@ -1,6 +1,6 @@
 ---
 title: "Jeanne Grosser - 播客摘要"
-description: "## 1. 核心议题 (The Questions)"
+description: "Jeanne Grosser - Stripe早期销售团队建设者，现任Vercel COO（负责营销/销售/客户成功），前Google产品经理，20年销售和GTM（Go-to-Market）专家"
 pubDate: "2026-01-15"
 guest: "Jeanne Grosser"
 ---

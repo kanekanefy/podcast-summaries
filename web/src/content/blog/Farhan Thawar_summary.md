@@ -1,6 +1,6 @@
 ---
 title: "Farhan Thawar"
-description: "Summary of podcast with Farhan Thawar"
+description: "Farhan Thawar - Shopify 工程副总裁，曾任 Xtreme Labs 联合创始人，以在工程团队中打造极致的执行力和独特的管理哲学而闻名。"
 pubDate: "2026-01-15"
 guest: "Farhan Thawar"
 ---

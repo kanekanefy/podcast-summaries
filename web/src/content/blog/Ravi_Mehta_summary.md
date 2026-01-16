@@ -1,6 +1,6 @@
 ---
 title: "Ravi Mehta - Podcast Summary"
-description: "Summary of podcast with Ravi Mehta"
+description: ""
 pubDate: "2026-01-15"
 guest: "Ravi Mehta"
 ---

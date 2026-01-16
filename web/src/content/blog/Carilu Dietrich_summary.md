@@ -1,6 +1,6 @@
 ---
 title: "Carilu Dietrich"
-description: "Summary of podcast with Carilu Dietrich"
+description: "Carilu Dietrich - 前 CMO、Atlassian 上市前营销负责人，超高速增长 B2B 公司顾问。"
 pubDate: "2026-01-15"
 guest: "Carilu Dietrich"
 ---

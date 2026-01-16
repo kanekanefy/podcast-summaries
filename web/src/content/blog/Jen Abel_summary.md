@@ -1,6 +1,6 @@
 ---
 title: "Jen Abel - 创始人主导销售的实战指南"
-description: "## 1. 核心议题 (The Questions)"
+description: "Jen Abel - Jellyfish联合创始人,帮助早期创始人学习销售、客户发现和建立可重复销售流程,曾任The Muse和General Assembly的企业销售总监。"
 pubDate: "2026-01-15"
 guest: "Jen Abel"
 ---

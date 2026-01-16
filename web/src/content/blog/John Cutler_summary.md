@@ -1,6 +1,6 @@
 ---
 title: "John Cutler - Lenny's Podcast Summary"
-description: "## 1. 核心议题 (The Questions)"
+description: "John Cutler - Product Evangelist at Amplitude (4年), 现任Toast产品领导, \"A Beautiful Mess\"通讯作者, 与全球数百家产品团队合作的工作坊领导者和教练"
 pubDate: "2026-01-15"
 guest: "John Cutler"
 ---

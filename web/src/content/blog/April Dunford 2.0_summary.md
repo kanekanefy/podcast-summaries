@@ -1,6 +1,6 @@
 ---
 title: "April Dunford 2.0"
-description: "Summary of podcast with April Dunford 2.0"
+description: "April Dunford - 顶级产品定位专家，《Obviously Awesome》《Sales Pitch》作者。"
 pubDate: "2026-01-15"
 guest: "April Dunford 2.0"
 ---

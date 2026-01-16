@@ -1,6 +1,6 @@
 ---
 title: "Keith Coleman & Jay Baxter - 播客摘要"
-description: "---"
+description: "Keith Coleman - Community Notes产品负责人；Jay Baxter - Community Notes创始ML工程师及研究员。两人共同构建了Twitter/X最具影响力的产品之一Community Notes（前称Birdwatch）"
 pubDate: "2026-01-15"
 guest: "Keith Coleman & Jay Baxter"
 ---

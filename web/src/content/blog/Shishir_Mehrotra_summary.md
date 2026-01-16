@@ -1,6 +1,6 @@
 ---
 title: "Shishir Mehrotra - Lenny's Podcast Summary"
-description: "## 核心议题 (The Questions)"
+description: "Shishir Mehrotra - Coda联合创始人兼CEO，曾任Google YouTube产品工程和设计负责人、Spotify董事会成员"
 pubDate: "2026-01-15"
 guest: "Shishir Mehrotra"
 ---

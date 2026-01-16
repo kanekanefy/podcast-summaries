@@ -1,6 +1,6 @@
 ---
 title: "Chip Conley"
-description: "Summary of podcast with Chip Conley"
+description: "Chip Conley - Joie de Vivre酒店连锁创始人、Airbnb前全球款待负责人、Modern Elder Academy（MEA）创办者。"
 pubDate: "2026-01-15"
 guest: "Chip Conley"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Boz"
-description: "Summary of podcast with Boz"
+description: "Andrew “Boz” Bosworth - Meta CTO，早期 Facebook 工程师，News Feed 与广告系统关键建构者。"
 pubDate: "2026-01-15"
 guest: "Boz"
 ---

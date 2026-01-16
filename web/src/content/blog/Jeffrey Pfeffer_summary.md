@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Pfeffer - 权力七大法则"
-description: "## 1. 核心议题 (The Questions)"
+description: "Jeffrey Pfeffer - 斯坦福商学院组织行为学教授,讲授最受欢迎的课程之一《权力之路》,著有多本关于权力的书籍。"
 pubDate: "2026-01-15"
 guest: "Jeffrey Pfeffer"
 ---

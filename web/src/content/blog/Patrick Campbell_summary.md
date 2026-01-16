@@ -1,6 +1,6 @@
 ---
 title: "Patrick Campbell 播客摘要"
-description: "Summary of podcast with Patrick Campbell"
+description: ""
 pubDate: "2026-01-15"
 guest: "Patrick Campbell"
 ---

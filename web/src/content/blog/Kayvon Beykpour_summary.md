@@ -1,6 +1,6 @@
 ---
 title: "Kayvon Beykpour - 播客摘要"
-description: "---"
+description: "Kayvon Beykpour - Twitter前产品负责人兼消费者业务GM，Periscope（全球最大直播平台）创始人兼CEO，通过被Twitter收购加入，在Twitter从产品停滞到频繁发布的转型中发挥关键作用"
 pubDate: "2026-01-15"
 guest: "Kayvon Beykpour"
 ---

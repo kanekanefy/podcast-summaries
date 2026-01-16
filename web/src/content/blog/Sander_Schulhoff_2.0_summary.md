@@ -1,6 +1,6 @@
 ---
 title: "Sander Schulhoff 2.0 - 播客摘要(AI安全深度挖掘)"
-description: "Summary of podcast with Sander Schulhoff 2.0"
+description: ""
 pubDate: "2026-01-15"
 guest: "Sander Schulhoff 2.0"
 ---

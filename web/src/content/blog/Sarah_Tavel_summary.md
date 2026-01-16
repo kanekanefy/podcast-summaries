@@ -1,6 +1,6 @@
 ---
 title: "Sarah Tavel - Podcast Summary"
-description: "Summary of podcast with Sarah Tavel"
+description: ""
 pubDate: "2026-01-15"
 guest: "Sarah Tavel"
 ---

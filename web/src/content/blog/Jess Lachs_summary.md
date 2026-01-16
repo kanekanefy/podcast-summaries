@@ -1,6 +1,6 @@
 ---
 title: "Jess Lachs - 播客摘要"
-description: "## 1. 核心议题 (The Questions)"
+description: "Jess Lachs - HubSpot产品副总裁，负责产品战略和团队管理"
 pubDate: "2026-01-15"
 guest: "Jess Lachs"
 ---
