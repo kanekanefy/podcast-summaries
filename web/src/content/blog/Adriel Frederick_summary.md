@@ -1,6 +1,6 @@
 ---
-title: "Podcast Summary: Adriel Frederick on Lenny's Podcast"
-description: "Adriel Frederick 现任 Reddit 产品副总裁，曾任 Lyft 市场与定价总监，也是 Facebook 早期负责用户增长（User Acquisition）的产品经理，出生于特立尼达和多巴哥。"
+title: "Adriel Frederick"
+description: "：Adriel Frederick 现任 Reddit 产品副总裁，曾任 Lyft 市场与定价总监，也是 Facebook 早期负责用户增长（User Acquisition）的产品经理，出生于特立尼达和多巴哥。"
 pubDate: "2026-01-15"
 guest: "Adriel Frederick"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Kevin Yien - 播客摘要"
-description: "Kevin Yien - Stripe商户体验产品负责人，前Square餐厅业务和生态系统团队负责人，前Mutiny产品和设计负责人，前竞争进食者，自制冰淇淋爱好者"
+title: "Kevin Yien"
+description: ": Kevin Yien - Stripe商户体验产品负责人，前Square餐厅业务和生态系统团队负责人，前Mutiny产品和设计负责人，前竞争进食者，自制冰淇淋爱好者"
 pubDate: "2026-01-15"
 guest: "Kevin Yien"
 ---

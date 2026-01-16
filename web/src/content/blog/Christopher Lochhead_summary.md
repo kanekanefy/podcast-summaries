@@ -1,6 +1,6 @@
 ---
 title: "Christopher Lochhead"
-description: "Christopher Lochhead - “Category Design”提出者、前上市公司CMO、畅销书作者与播客主理人。"
+description: ": Christopher Lochhead - “Category Design”提出者、前上市公司CMO、畅销书作者与播客主理人。"
 pubDate: "2026-01-15"
 guest: "Christopher Lochhead"
 ---

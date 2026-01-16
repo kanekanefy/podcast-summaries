@@ -1,6 +1,6 @@
 ---
-title: "Alex Hardiman - 纽约时报首席产品官"
-description: "Alex Hardiman是纽约时报首席产品官，领导新闻、烹饪、游戏、音频和广告产品团队，曾在大选后担任Facebook新闻产品负责人。"
+title: "Alex Hardimen"
+description: ": Alex Hardiman是纽约时报首席产品官，领导新闻、烹饪、游戏、音频和广告产品团队，曾在大选后担任Facebook新闻产品负责人。"
 pubDate: "2026-01-15"
 guest: "Alex Hardimen"
 ---

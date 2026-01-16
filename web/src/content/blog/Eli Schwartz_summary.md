@@ -1,6 +1,6 @@
 ---
 title: "Eli Schwartz"
-description: "Eli Schwartz - 增长与SEO顾问，著有《Product-Led SEO》，曾服务Quora、Tinder、Zapier、Coinbase等。"
+description: ": Eli Schwartz - 增长与SEO顾问，著有《Product-Led SEO》，曾服务Quora、Tinder、Zapier、Coinbase等。"
 pubDate: "2026-01-15"
 guest: "Eli Schwartz"
 ---

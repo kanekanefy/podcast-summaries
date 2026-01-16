@@ -1,6 +1,6 @@
 ---
-title: "Lane Shackleton 播客摘要"
-description: ""
+title: "Lane Shackleton"
+description: "是Coda首席产品官(CPO),任职超过8年。此前担任YouTube Group Product Manager、Google产品专家。职业生涯始于阿拉斯加登山向导,后担任Google AdWords广告人工审核员。以深度第一原理思考和产品团队文化建设著称。"
 pubDate: "2026-01-15"
 guest: "Lane Shackleton"
 ---

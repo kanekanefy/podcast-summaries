@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Mann"
-description: "Benjamin Mann - Anthropic 联合创始人、产品工程技术负责人，GPT‑3 早期架构者。"
+description: ": Benjamin Mann - Anthropic 联合创始人、产品工程技术负责人，GPT‑3 早期架构者。"
 pubDate: "2026-01-15"
 guest: "Benjamin Mann"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Matt LeMay - 播客摘要"
-description: ""
+title: "Matt LeMay"
+description: "资深产品领导者、《Product Management in Practice》作者、咨询公司Stripe Partners合伙人,帮助数百个产品团队提升运营和影响力"
 pubDate: "2026-01-15"
 guest: "Matt LeMay"
 ---

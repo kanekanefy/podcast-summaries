@@ -1,6 +1,6 @@
 ---
-title: "Paul Millerd 播客摘要"
-description: ""
+title: "Paul Millerd"
+description: "是《The Pathless Path》作者、独立创作者和顾问,从传统咨询职业路径转向非传统的生活方式,探索工作的替代路径和有意义生活的可能性。"
 pubDate: "2026-01-15"
 guest: "Paul Millerd"
 ---

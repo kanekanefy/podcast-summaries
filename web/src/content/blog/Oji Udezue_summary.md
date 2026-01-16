@@ -1,6 +1,6 @@
 ---
-title: "Oji Udezue 播客摘要"
-description: ""
+title: "Oji Udezue"
+description: "是一位经验丰富的产品领导者，曾在多家初创公司和大型科技公司担任产品和增长领导职务，目前在 Pattern 担任增长负责人，拥有丰富的产品驱动增长和病毒式传播经验。"
 pubDate: "2026-01-15"
 guest: "Oji Udezue"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Shweta Shrivastava - Waymo Product Leadership 播客摘要"
-description: ""
+title: "Shweta Shrivastava"
+description: "是Waymo的产品管理高级总监,负责三个关键领域:1)车载软件(决定车辆行为和轨迹),2)仿真工具和技术(验证系统性能),3)商业扩展网约车业务。加入Waymo前是Nautilus的首席产品官(专注驾驶员自动化安全),AWS数据库和分析服务的产品管理负责人,以及Cisco。她正在构建无人驾驶汽车的未来。"
 pubDate: "2026-01-15"
 guest: "Shweta Shrivastava"
 ---

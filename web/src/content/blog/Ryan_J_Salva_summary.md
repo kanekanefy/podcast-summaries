@@ -1,6 +1,6 @@
 ---
-title: "Ryan J. Salva - 播客摘要"
-description: ""
+title: "Ryan J Salva"
+description: "Ryan J. Salva是GitHub的VP of Product，负责孵化并推出了GitHub Copilot——这是被认为近十年来软件开发和生产力最大进步之一的神奇产品。他的背景非常独特，曾在微软担任高级产品领导者约10年，现在在GitHub已经3年。他拥有哲学美学和20世纪批评理论的学位，但实际上他选择进入软件和产品管理领域，因为他想\"从事创造性的业务\"。"
 pubDate: "2026-01-15"
 guest: "Ryan J Salva"
 ---

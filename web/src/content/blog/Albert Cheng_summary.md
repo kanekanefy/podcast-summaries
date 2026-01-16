@@ -1,6 +1,6 @@
 ---
 title: "Albert Cheng"
-description: "Albert Cheng - 前 Duolingo/Grammarly/Chess.com 增长与变现负责人、前 YouTube 产品负责人，顶级消费级增长专家。"
+description: ": Albert Cheng - 前 Duolingo/Grammarly/Chess.com 增长与变现负责人、前 YouTube 产品负责人，顶级消费级增长专家。"
 pubDate: "2026-01-15"
 guest: "Albert Cheng"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Sander Schulhoff 2.0 - 播客摘要(AI安全深度挖掘)"
-description: ""
+title: "Sander Schulhoff 2.0"
+description: "Sander Schulhoff是AI adversarial robustness(对抗鲁棒性)领域的领先研究者,专注于让AI系统做它们不应该做的事情。他组织了第一个也是最大的AI red teaming竞赛,与顶尖AI实验室合作改进模型防御,教授领先的AI red teaming课程。"
 pubDate: "2026-01-15"
 guest: "Sander Schulhoff 2.0"
 ---

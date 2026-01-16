@@ -1,6 +1,6 @@
 ---
 title: "Alex Komoroske"
-description: "Alex Komoroske - 前 Google 13 年产品与平台负责人、Chrome Open Web Platform 负责人，前 Stripe 战略主管，现 AI 时代 Web 创业者。"
+description: ": Alex Komoroske - 前 Google 13 年产品与平台负责人、Chrome Open Web Platform 负责人，前 Stripe 战略主管，现 AI 时代 Web 创业者。"
 pubDate: "2026-01-15"
 guest: "Alex Komoroske"
 ---

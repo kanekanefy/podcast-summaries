@@ -1,6 +1,6 @@
 ---
-title: "Karri Saarinen - 播客摘要"
-description: "Karri Saarinen - Linear联合创始人兼CEO，Coinbase创始设计师，Airbnb首席设计师，两度创业者，Linear被誉为\"世界上最受喜爱的问题追踪工具\""
+title: "Karri Saarinen"
+description: ": Karri Saarinen - Linear联合创始人兼CEO，Coinbase创始设计师，Airbnb首席设计师，两度创业者，Linear被誉为\"世界上最受喜爱的问题追踪工具\""
 pubDate: "2026-01-15"
 guest: "Karri Saarinen"
 ---

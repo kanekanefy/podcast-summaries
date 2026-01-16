@@ -1,6 +1,6 @@
 ---
-title: "Timothy Davis - Lenny's Podcast Summary"
-description: ""
+title: "Timothy Davis"
+description: "是Shopify的效果营销（Performance Marketing）负责人，在过去两年半中负责整个Shopify的效果营销战略。作为顾问，他曾帮助Pinterest、LinkedIn、Redfin、Eventbrite等公司启动和扩展其效果营销团队。他以在大量数据中找到关键信号的能力而闻名，这源于他对棒球的热爱和对统计分析的痴迷。"
 pubDate: "2026-01-16"
 guest: "Timothy Davis"
 ---

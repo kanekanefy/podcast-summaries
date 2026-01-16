@@ -1,6 +1,6 @@
 ---
 title: "Amjad Masad"
-description: "Amjad Masad - Replit 联合创始人兼 CEO，推动 AI 驱动的一体化软件开发与部署平台。"
+description: ": Amjad Masad - Replit 联合创始人兼 CEO，推动 AI 驱动的一体化软件开发与部署平台。"
 pubDate: "2026-01-15"
 guest: "Amjad Masad"
 ---

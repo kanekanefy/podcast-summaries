@@ -1,6 +1,6 @@
 ---
-title: "Matt MacInnis - 播客摘要"
-description: ""
+title: "Matt MacInnis"
+description: "Rippling前长期COO、现任CPO(首席产品官),拥有创业者到高管的完整经历,以极致执行力和高绩效文化闻名"
 pubDate: "2026-01-15"
 guest: "Matt MacInnis"
 ---

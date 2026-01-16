@@ -1,6 +1,6 @@
 ---
 title: "Austin Hay"
-description: "Austin Hay - Ramp营销技术负责人，MarTech领域顾问与Reforge讲师。"
+description: ": Austin Hay - Ramp营销技术负责人，MarTech领域顾问与Reforge讲师。"
 pubDate: "2026-01-15"
 guest: "Austin Hay"
 ---

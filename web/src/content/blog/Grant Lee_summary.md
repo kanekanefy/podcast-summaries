@@ -1,6 +1,6 @@
 ---
-title: "Grant Lee - Gamma联合创始人"
-description: "Grant Lee - 演示文稿平台Gamma联合创始人兼CEO，公司从2020年创立至今已达到超过1亿美元ARR，估值超过20亿美元。"
+title: "Grant Lee"
+description: ": Grant Lee - 演示文稿平台Gamma联合创始人兼CEO，公司从2020年创立至今已达到超过1亿美元ARR，估值超过20亿美元。"
 pubDate: "2026-01-15"
 guest: "Grant Lee"
 ---

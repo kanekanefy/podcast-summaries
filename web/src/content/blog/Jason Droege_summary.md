@@ -1,6 +1,6 @@
 ---
-title: "Jason Droege 播客摘要"
-description: "Jason Droege - Scale AI 新任 CEO、Uber Eats 创始人兼前负责人、与 Travis Kalanick 联合创立 Scour,将 Uber Eats 从 idea 做到数十亿美元业务并在疫情期间拯救了 Uber。"
+title: "Jason Droege"
+description: ": Jason Droege - Scale AI 新任 CEO、Uber Eats 创始人兼前负责人、与 Travis Kalanick 联合创立 Scour,将 Uber Eats 从 idea 做到数十亿美元业务并在疫情期间拯救了 Uber。"
 pubDate: "2026-01-15"
 guest: "Jason Droege"
 ---

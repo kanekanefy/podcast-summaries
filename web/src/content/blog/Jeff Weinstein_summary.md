@@ -1,6 +1,6 @@
 ---
-title: "Jeff Weinstein - 播客摘要"
-description: "Jeff Weinstein - Stripe产品负责人（支付基础设施/Atlas），6年帮助将Stripe支付扩展到数千亿美元年交易量，0-to-1产品专家，客户洞察狂热者"
+title: "Jeff Weinstein"
+description: ": Jeff Weinstein - Stripe产品负责人（支付基础设施/Atlas），6年帮助将Stripe支付扩展到数千亿美元年交易量，0-to-1产品专家，客户洞察狂热者"
 pubDate: "2026-01-15"
 guest: "Jeff Weinstein"
 ---

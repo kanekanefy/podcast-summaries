@@ -1,6 +1,6 @@
 ---
-title: "Ryan Singer - 播客摘要"
-description: ""
+title: "Ryan Singer"
+description: "是37signals（现Basecamp）最早期的几名员工之一，通过17年构建Basecamp产品的经验，他写了《Shape Up》一书，分享了一种非常不同的软件构建方法。他是Shape Up工作方式的创造者，该方法强调用\"胃口\"（appetite）代替截止日期，注重将设计、工程和产品整合到一个房间中进行方案制定，而不是写冗长的PRD或在开始构建前尝试定稿设计。"
 pubDate: "2026-01-15"
 guest: "Ryan Singer"
 ---

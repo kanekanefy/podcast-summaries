@@ -1,6 +1,6 @@
 ---
-title: "Howie Liu - 播客摘要"
-description: ""
+title: "Howie Liu"
+description: "Airtable联合创始人兼CEO;13年领导经验,从开发者到\"IC CEO\"代表;AI时代公司重塑的实践者"
 pubDate: "2026-01-15"
 guest: "Howie Liu"
 ---

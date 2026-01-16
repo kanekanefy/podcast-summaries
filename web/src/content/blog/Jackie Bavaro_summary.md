@@ -1,6 +1,6 @@
 ---
-title: "Jackie Bavaro - 《破解PM面试》和《破解PM职业生涯》作者，Asana首位产品经理兼产品主管"
-description: "**\"说不\"的防御心态是新人PM的常见陷阱**：早期认为PM的工作就是\"对所有想要功能的人说不\"，直到对老板（创始人）说了\"不，我们不会这样做\"，被回应\"Jackie，你必须停止压制我\""
+title: "Jackie Bavaro"
+description: "康奈尔大学计算机科学与经济学专业，Google APM项目出身，Asana首位产品经理（后晋升产品主管），著有PM领域两本经典著作《Cracking the PM Interview》和《Cracking the PM Career》"
 pubDate: "2026-01-15"
 guest: "Jackie Bavaro"
 ---

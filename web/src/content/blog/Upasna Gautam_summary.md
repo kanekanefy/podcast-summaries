@@ -1,6 +1,6 @@
 ---
-title: "Upasna Gautam 播客摘要"
-description: ""
+title: "Upasna Gautam"
+description: "是 CNN 的产品管理总监，负责 CNN 的产品战略和开发。她在产品管理领域有着丰富的经验，特别擅长在快节奏的新闻环境中进行产品决策。她还是正念（mindfulness）实践者，将正念理念融入产品管理工作。"
 pubDate: "2026-01-15"
 guest: "Upasna Gautam"
 ---

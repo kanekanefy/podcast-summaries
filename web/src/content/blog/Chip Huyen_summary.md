@@ -1,6 +1,6 @@
 ---
 title: "Chip Huyen"
-description: "Chip Huyen - AI 工程师、前 Netflix 研究员、NVIDIA NeMo 核心开发者、斯坦福机器学习讲师与《AI Engineering》作者。"
+description: ": Chip Huyen - AI 工程师、前 Netflix 研究员、NVIDIA NeMo 核心开发者、斯坦福机器学习讲师与《AI Engineering》作者。"
 pubDate: "2026-01-15"
 guest: "Chip Huyen"
 ---

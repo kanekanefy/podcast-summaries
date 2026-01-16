@@ -1,6 +1,6 @@
 ---
-title: "Sriram Krishnan & Aarthi Ramamurthy - Community, Content & Techno-Optimism 播客摘要"
-description: ""
+title: "Sriram and Aarthi"
+description: "Aarthi Ramamurthy和Sriram Krishnan是前产品经理,在几乎所有主要科技公司工作过,包括Netflix、Meta、Snap、Twitter、Microsoft,甚至Clubhouse。Sriram现在是a16z的合伙人。他们实际上结婚了,两个人各自都很amazing。他们一起主持Aarthi和Sriram Good Time Show,开始在Clubhouse,现在在YouTube,著名地有Elon Musk上过节目,这导致了Clubhouse的crazy火箭船增长。"
 pubDate: "2026-01-16"
 guest: "Sriram and Aarthi"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Marty Cagan 2.0 - 播客摘要"
-description: ""
+title: "Marty Cagan 2.0"
+description: "Marty Cagan - Silicon Valley Product Group创始人,INSPIRED/EMPOWERED/TRANSFORMED三本产品管理圣经作者,20+年产品团队咨询经验,前Netscape VP产品/eBay SVP产品"
 pubDate: "2026-01-15"
 guest: "Marty Cagan 2.0"
 ---

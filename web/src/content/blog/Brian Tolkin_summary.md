@@ -1,6 +1,6 @@
 ---
 title: "Brian Tolkin"
-description: "Brian Tolkin - Opendoor 产品与设计负责人，前 Uber 早期员工、uberPOOL 推动者与产品运营 (product ops) 创始人。"
+description: ": Brian Tolkin - Opendoor 产品与设计负责人，前 Uber 早期员工、uberPOOL 推动者与产品运营 (product ops) 创始人。"
 pubDate: "2026-01-15"
 guest: "Brian Tolkin"
 ---

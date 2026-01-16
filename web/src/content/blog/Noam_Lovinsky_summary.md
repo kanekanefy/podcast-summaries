@@ -1,6 +1,6 @@
 ---
-title: "Noam Lovinsky - Lenny's Podcast 播客摘要"
-description: ""
+title: "Noam Lovinsky"
+description: "是 Grammarly 的首席产品官（CPO）。他有着非常独特的职业轨迹："
 pubDate: "2026-01-15"
 guest: "Noam Lovinsky"
 ---

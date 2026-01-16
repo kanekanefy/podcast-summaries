@@ -1,6 +1,6 @@
 ---
-title: "Nilan Peiris - Lenny's Podcast 播客摘要"
-description: ""
+title: "Nilan Peiris"
+description: "是 Wise（前 TransferWise）的首席产品官（CPO），在那里工作了超过11年，基本上是从公司开始的阶段。"
 pubDate: "2026-01-15"
 guest: "Nilan Peiris"
 ---

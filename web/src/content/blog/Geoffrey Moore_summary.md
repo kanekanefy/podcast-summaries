@@ -1,6 +1,6 @@
 ---
-title: "Geoffrey Moore - 《跨越鸿沟》作者"
-description: "Geoffrey Moore是《Crossing the Chasm》（跨越鸿沟）作者，该书销量超100万册，被誉为B2B go-to-market领域最具影响力的著作之一，出版33年后仍被广泛引用。"
+title: "Geoffrey Moore"
+description: ": Geoffrey Moore是《Crossing the Chasm》（跨越鸿沟）作者，该书销量超100万册，被誉为B2B go-to-market领域最具影响力的著作之一，出版33年后仍被广泛引用。"
 pubDate: "2026-01-15"
 guest: "Geoffrey Moore"
 ---

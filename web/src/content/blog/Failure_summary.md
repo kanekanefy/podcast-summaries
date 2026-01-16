@@ -1,6 +1,6 @@
 ---
 title: "Failure"
-description: "多位嘉宾 - 来自 Stripe、Airbnb、Intercom、Quibi 等公司的一线领导者，分享真实失败经验与复盘方法。"
+description: ": 多位嘉宾 - 来自 Stripe、Airbnb、Intercom、Quibi 等公司的一线领导者，分享真实失败经验与复盘方法。"
 pubDate: "2026-01-15"
 guest: "Failure"
 ---

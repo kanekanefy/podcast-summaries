@@ -1,6 +1,6 @@
 ---
 title: "Elena Verna 4.0"
-description: "Elena Verna - Lovable增长负责人，曾任Miro/Amplitude/Dropbox增长领导，专注AI时代增长变革。"
+description: ": Elena Verna - Lovable增长负责人，曾任Miro/Amplitude/Dropbox增长领导，专注AI时代增长变革。"
 pubDate: "2026-01-15"
 guest: "Elena Verna 4.0"
 ---

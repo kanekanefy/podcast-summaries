@@ -1,6 +1,6 @@
 ---
 title: "Brian Balfour"
-description: "Brian Balfour - Reforge 创始人，前 HubSpot 增长负责人，长期研究增长与分发平台周期。"
+description: ": Brian Balfour - Reforge 创始人，前 HubSpot 增长负责人，长期研究增长与分发平台周期。"
 pubDate: "2026-01-15"
 guest: "Brian Balfour"
 ---

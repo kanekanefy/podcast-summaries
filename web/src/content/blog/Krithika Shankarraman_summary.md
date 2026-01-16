@@ -1,6 +1,6 @@
 ---
-title: "Krithika Shankarraman 播客摘要"
-description: "**ChatGPT的营销挑战** - ChatGPT知名度不是问题,但人们不知道如何使用它,不知道它替代什么,不知道如何帮助自己。营销工作的核心是创造\"使用场景顿悟\"(use case epiphany),让人们说\"我不知道ChatGPT还能做这个\"。"
+title: "Krithika Shankarraman"
+description: "OpenAI首任营销VP兼第一位营销 hire,Stripe首任营销负责人(独自担任营销角色三年),曾任Google Android营销、Dropbox和Retool早期营销领导者,现任Thrive Capital执行合伙人(EIR),帮助投资组合公司的创始人和营销团队。"
 pubDate: "2026-01-15"
 guest: "Krithika Shankarraman"
 ---

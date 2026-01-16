@@ -1,6 +1,6 @@
 ---
-title: "Matt Mullenweg 播客摘要"
-description: ""
+title: "Matt Mullenweg"
+description: "是 WordPress 联合创始人（19岁时创建），现任 Automattic CEO。WordPress 驱动着全球 **40% 的网站**（是第二名 Shopify 的10倍）。Automattic 拥有 1700 名员工，分布在 90 个国家，产品包括 WordPress.com、Tumblr、WooCommerce、Gravatar、Pocket Casts 等，年收入约 **5 亿美元**。他还是旧金山 Keys Jazz Bistro 的联合老板，以及开源慈善项目 Bay Lights 的主要资助者。"
 pubDate: "2026-01-15"
 guest: "Matt Mullenweg"
 ---

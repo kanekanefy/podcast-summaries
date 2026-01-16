@@ -1,6 +1,6 @@
 ---
-title: "Ronny Kohavi - 播客摘要"
-description: ""
+title: "Ronny Kohavi"
+description: "被许多人视为A/B测试和实验的世界级专家。最近他是Airbnb的相关性副总裁和技术研究员，领导搜索体验团队。在此之前，他是微软的企业副总裁，领导微软实验平台团队。更早之前，他是亚马逊的数据挖掘和个人化总监。他是《Trustworthy Online Controlled Experiments》一书的作者，这是关于实验的权威书籍。"
 pubDate: "2026-01-15"
 guest: "Ronny Kohavi"
 ---

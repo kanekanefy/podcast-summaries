@@ -1,6 +1,6 @@
 ---
-title: "Scott Belsky - Podcast Summary"
-description: ""
+title: "Scott Belsky"
+description: "是Adobe首席战略官兼设计、新兴产品负责人,前首席产品官。Behance创始人(被Adobe收购),畅销书《The Messy Middle》作者,知名天使投资人和产品思想领袖。"
 pubDate: "2026-01-15"
 guest: "Scott Belsky"
 ---

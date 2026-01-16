@@ -1,6 +1,6 @@
 ---
-title: "Julian Shapiro - Lenny's Podcast 摘要"
-description: "Julian Shapiro - Demand Curve创始人、前Webflow营销副总裁、全职投资人、作家，专注于增长策略和写作教育"
+title: "Julian Shapiro"
+description: ": Julian Shapiro - Demand Curve创始人、前Webflow营销副总裁、全职投资人、作家，专注于增长策略和写作教育"
 pubDate: "2026-01-15"
 guest: "Julian Shapiro"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Varun Mohan 播客摘要"
-description: ""
+title: "Varun Mohan"
+description: "是 Codeium（原 Exafunction）的联合创始人兼 CEO，Codeium 是一个免费的 AI 代码生成和补全工具，服务超过 30 万开发者。Varun 曾是自动驾驶公司 Aurora 的软件工程师，拥有麻省理工学院（MIT）计算机科学学位。他在 AI、编译器和分布式系统领域有深厚的技术背景。"
 pubDate: "2026-01-15"
 guest: "Varun Mohan"
 ---

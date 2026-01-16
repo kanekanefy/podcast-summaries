@@ -1,6 +1,6 @@
 ---
-title: "Ramesh Johari - Podcast Summary"
-description: ""
+title: "Ramesh Johari"
+description: "是斯坦福大学教授,专门研究数据科学方法和实践,特别关注在线市场的设计和运营。他曾为Airbnb、Uber、Stripe、Bumble、Stitch Fix、Upwork等世界上最大的市场公司提供建议和合作。"
 pubDate: "2026-01-15"
 guest: "Ramesh Johari"
 ---

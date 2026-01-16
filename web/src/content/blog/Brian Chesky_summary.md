@@ -1,6 +1,6 @@
 ---
 title: "Brian Chesky"
-description: "Brian Chesky - Airbnb CEO/联合创始人，主导 Airbnb 组织与产品体系再造。"
+description: ": Brian Chesky - Airbnb CEO/联合创始人，主导 Airbnb 组织与产品体系再造。"
 pubDate: "2026-01-15"
 guest: "Brian Chesky"
 ---

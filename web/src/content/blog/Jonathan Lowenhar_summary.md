@@ -1,6 +1,6 @@
 ---
-title: "Jonathan Lowenhar - Lenny's Podcast Summary"
-description: "Jonathan Lowenhar - Founder of Value in Product (产品咨询公司), Product Manager at PayPal、GoPro、Myspace, 前NCAA Division I篮球运动员, 撰写关于product-ity（产品领导力和生产力）的博客"
+title: "Jonathan Lowenhar"
+description: ": Jonathan Lowenhar - Founder of Value in Product (产品咨询公司), Product Manager at PayPal、GoPro、Myspace, 前NCAA Division I篮球运动员, 撰写关于product-ity（产品领导力和生产力）的博客"
 pubDate: "2026-01-15"
 guest: "Jonathan Lowenhar"
 ---

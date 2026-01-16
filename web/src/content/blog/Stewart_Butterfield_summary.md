@@ -1,6 +1,6 @@
 ---
-title: "Stewart Butterfield - Slack Product Craft & Leadership 播客摘要"
-description: ""
+title: "Stewart Butterfield"
+description: "是传奇创始人,创立了Flickr和Slack(以当时科技史上最大的收购之一出售给Salesforce)。他很少做播客,但他的头脑中锁定了大量的产品和领导智慧。我们讨论了utility curves、他称之为\"owner's delusion\"的概念、他在公司看到的\"hyperrealistic work-like activities\"模式、产品工艺和品味、Parkinson定律、你需要痴迷于不让你的用户思考、传奇的\"we don't sell saddles here\"备忘录的背景故事等等。"
 pubDate: "2026-01-16"
 guest: "Stewart Butterfield"
 ---

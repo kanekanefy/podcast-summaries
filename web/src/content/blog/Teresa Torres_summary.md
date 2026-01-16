@@ -1,6 +1,6 @@
 ---
-title: "Teresa Torres 播客摘要"
-description: ""
+title: "Teresa Torres"
+description: "是产品发现领域的专家,她的书《Continuous Discovery Habits》在 Lenny 的 Slack 社区中始终是被推荐最多的第一本书。她可能是在全球范围内与产品经理合作、教学和影响人数最多的前五人之一。"
 pubDate: "2026-01-15"
 guest: "Teresa Torres"
 ---

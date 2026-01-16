@@ -1,6 +1,6 @@
 ---
-title: "Sean Ellis - Growth Hacking & Product Market Fit 播客摘要"
-description: ""
+title: "Sean Ellis"
+description: "是增长领域最早和最有影响力的思想家和实干家之一。他创造了术语\"growth hacking\"(增长黑客),发明了ICE优先级框架,是最早使用freemium(免费增值)作为增长策略的人之一,最著名的是开发了Sean Ellis测试来帮助理解是否达到产品市场契合度(PMF)。他曾担任Dropbox和Eventbrite的增长负责人,帮助微软和Nubank等公司优化增长策略,是LogMeIn(最终以超过40亿美元出售)的创始团队成员,也是畅销书《Hacking Growth》的作者。"
 pubDate: "2026-01-15"
 guest: "Sean Ellis"
 ---

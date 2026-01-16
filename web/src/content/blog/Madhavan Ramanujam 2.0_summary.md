@@ -1,6 +1,6 @@
 ---
-title: "Madhavan Ramanujam 2.0 - 播客摘要"
-description: ""
+title: "Madhavan Ramanujam 2.0"
+description: "Madhavan Ramanujam - Simon-Kucher合伙人兼《Monetizing Innovation》和《Scaling Innovation》作者,现为49 Palms Ventures投资人,专注早期AI公司"
 pubDate: "2026-01-15"
 guest: "Madhavan Ramanujam 2.0"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Molly Graham 播客摘要"
-description: ""
+title: "Molly Graham"
+description: "是 Facebook 和 Google 的早期员工，曾与 Mark Zuckerberg、Cheryl Sandberg、Larry Page、Sergei Brin、Brett Taylor 等传奇创始人密切合作。她目前领导 Glue Club，一个为快速变化环境中的领导者提供发展和支持的平台。她最著名的是\"Give away your Legos\"(交出你的乐高)的建议。"
 pubDate: "2026-01-15"
 guest: "Molly Graham"
 ---

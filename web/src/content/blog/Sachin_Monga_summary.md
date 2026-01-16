@@ -1,6 +1,6 @@
 ---
-title: "Sachin Monga - Podcast Summary"
-description: ""
+title: "Sachin Monga"
+description: "是Substack产品负责人，此前创办社交应用Cocoon被Substack收购。在Facebook工作7年，领导增长团队、开发者平台、广告增长团队和视频产品团队。"
 pubDate: "2026-01-15"
 guest: "Sachin Monga"
 ---

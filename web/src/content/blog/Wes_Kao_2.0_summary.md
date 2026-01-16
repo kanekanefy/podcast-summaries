@@ -1,6 +1,6 @@
 ---
-title: "Wes Kao 2.0 - 播客摘要"
-description: ""
+title: "Wes Kao 2.0"
+description: "Wes Kao 是高管沟通与影响力领域的顶尖专家。她曾与 Seth Godin 共同创建了 Alt-MBA 项目，联合创办了 Maven（在线课程平台），最近离开 Maven 创办了自己的高管沟通与影响力课程。Wes 被认为是业界最好的沟通教师之一，她的课程帮助无数专业人士提升了沟通和影响力技能。"
 pubDate: "2026-01-16"
 guest: "Wes Kao 2.0"
 ---

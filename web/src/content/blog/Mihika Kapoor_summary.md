@@ -1,6 +1,6 @@
 ---
-title: "Mihika Kapoor - Lenny's Podcast 摘要"
-description: ""
+title: "Mihika Kapoor"
+description: "是Figma的设计-工程-PM混合型人才,FigJam的早期产品经理,目前负责开发Figma将在6月推出的新产品。她是Figma内部领导零到一新产品的首选人物,受到所有与她合作的人的喜爱。在加入Figma之前,她创立了Design Nation(一个全国性非营利组织,致力于民主化本科生设计教育),并在Meta领导多个产品和发布,专注于商业和创作者。"
 pubDate: "2026-01-15"
 guest: "Mihika Kapoor"
 ---

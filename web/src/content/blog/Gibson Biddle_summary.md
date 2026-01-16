@@ -1,6 +1,6 @@
 ---
-title: "Gibson Biddle - 播客摘要"
-description: "Gibson Biddle - Netflix前产品VP、Chegg前CPO、产品策略和优先级框架专家，现专注于教授产品管理"
+title: "Gibson Biddle"
+description: ": Gibson Biddle - Netflix前产品VP、Chegg前CPO、产品策略和优先级框架专家，现专注于教授产品管理"
 pubDate: "2026-01-15"
 guest: "Gibson Biddle"
 ---

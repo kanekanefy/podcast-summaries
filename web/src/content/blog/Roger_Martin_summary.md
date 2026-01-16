@@ -1,6 +1,6 @@
 ---
-title: "Roger Martin - 播客摘要"
-description: ""
+title: "Roger Martin"
+description: "是全球最受信赖的战略顾问之一，曾任多伦多大学罗特曼管理学院院长五年，2013年被评为全球年度院长，2017年被Thinkers50评为全球第一管理思想家。他是《Playing to Win》一书的作者，这本书被许多听众认为是他们最喜欢的战略书籍。"
 pubDate: "2026-01-15"
 guest: "Roger Martin"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Ian McAllister - 播客摘要"
-description: ""
+title: "Ian McAllister"
+description: "Uber全球产品高级总监,负责车辆平台;前Amazon产品领袖(12年)、Airbnb产品领导者;著名文章《What Separates a Top 1% PM from a Top 10% PM》作者"
 pubDate: "2026-01-15"
 guest: "Ian McAllister"
 ---

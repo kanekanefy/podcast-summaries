@@ -1,6 +1,6 @@
 ---
-title: "Podcast Summary: Ada Chen Rekhi on Lenny's Podcast"
-description: "Ada Chen Rekhi 是一位高管教练兼 Notejoy 联合创始人，曾任 SurveyMonkey 营销高级副总裁，以帮助创始人扩展自我和职业决策框架而闻名。"
+title: "Ada Chen Rekhi"
+description: "：Ada Chen Rekhi 是一位高管教练兼 Notejoy 联合创始人，曾任 SurveyMonkey 营销高级副总裁，以帮助创始人扩展自我和职业决策框架而闻名。"
 pubDate: "2026-01-15"
 guest: "Ada Chen Rekhi"
 ---

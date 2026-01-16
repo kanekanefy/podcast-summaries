@@ -1,6 +1,6 @@
 ---
-title: "Tanguy Crusson 播客摘要"
-description: ""
+title: "Tanguy Crusson"
+description: "在 Atlassian 工作超过 10 年,专注于零到一的产品创新。他的 track record 是 50/50——一半成功,一半失败。他参与过的产品包括:"
 pubDate: "2026-01-15"
 guest: "Tanguy Crusson"
 ---

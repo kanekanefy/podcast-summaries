@@ -1,6 +1,6 @@
 ---
-title: "Mike Maples Jr - Lenny's Podcast 播客摘要"
-description: ""
+title: "Mike Maples Jr"
+description: ". 是传奇种子投资人，Floodgate 风投公司创始人。他是种子阶段投资类别的先驱之一，在过去20多年中早期押注了多家变革性公司，包括 Twitter、Lyft、Twitch、Okta、Rappi 和 Applied Intuition。他曾8次入选福布斯\"Midas List\"（最佳创投人榜单）。"
 pubDate: "2026-01-15"
 guest: "Mike Maples Jr"
 ---

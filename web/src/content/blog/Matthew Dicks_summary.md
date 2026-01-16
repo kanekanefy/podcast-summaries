@@ -1,6 +1,6 @@
 ---
-title: "Matthew Dicks 播客摘要"
-description: ""
+title: "Matthew Dicks"
+description: "是 59 次 Moth Story Slam 获胜者和 9 次 Grand Slam 冠军，著有《Storyworthy》（讲述故事艺术的经典书籍）及其他 9 本书，包括小说、摇滚歌剧和漫画。他是小学教师（25年教龄），同时通过公司 Speak Up 教授个人和企业（包括 Slack、Amazon、Lego、Salesforce）讲故事和公开演讲技巧。"
 pubDate: "2026-01-15"
 guest: "Matthew Dicks"
 ---

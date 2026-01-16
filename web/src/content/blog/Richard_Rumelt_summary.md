@@ -1,6 +1,6 @@
 ---
-title: "Richard Rumelt - Podcast Summary"
-description: ""
+title: "Richard Rumelt"
+description: "是加州大学洛杉矶分校(UCLA) Anderson管理学院教授，曾任教哈佛商学院，是战略领域的传奇人物。著作《好战略坏战略》(Good Strategy Bad Strategy)和《核心》(The Crux)被誉为战略经典。他曾为微软、苹果、英特尔等公司以及美国陆军特种作战司令部提供战略咨询。"
 pubDate: "2026-01-15"
 guest: "Richard Rumelt"
 ---

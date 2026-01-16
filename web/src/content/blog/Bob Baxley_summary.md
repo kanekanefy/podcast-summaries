@@ -1,6 +1,6 @@
 ---
 title: "Bob Baxley"
-description: "Bob Baxley - 资深设计领导者，曾在 Apple、Pinterest、Yahoo、ThoughtSpot 负责设计与组织文化。"
+description: ": Bob Baxley - 资深设计领导者，曾在 Apple、Pinterest、Yahoo、ThoughtSpot 负责设计与组织文化。"
 pubDate: "2026-01-15"
 guest: "Bob Baxley"
 ---

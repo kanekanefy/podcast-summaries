@@ -1,6 +1,6 @@
 ---
-title: "Scott Wu - Cognition/Devin 播客摘要"
-description: ""
+title: "Scott Wu"
+description: "是Cognition公司的联合创始人兼CEO,该公司打造了Devin——世界首个自主AI软件工程师。Devin被设计为像真正的远程工程师一样工作,可以通过Slack、Linear或专用网站进行交互。"
 pubDate: "2026-01-15"
 guest: "Scott Wu"
 ---

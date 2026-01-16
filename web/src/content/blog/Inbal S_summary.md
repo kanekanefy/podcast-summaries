@@ -1,6 +1,6 @@
 ---
-title: "Inbal Shani - 播客摘要"
-description: ""
+title: "Inbal S"
+description: "hani - GitHub首席产品官(CPO);前AWS总经理、Microsoft GM、Amazon Robotics高级软件工程师;AI和机器学习领域早期专家"
 pubDate: "2026-01-15"
 guest: "Inbal S"
 ---

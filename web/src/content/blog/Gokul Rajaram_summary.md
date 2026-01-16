@@ -1,6 +1,6 @@
 ---
-title: "Gokul Rajaram - 播客摘要"
-description: "Gokul Rajaram - DoorDash产品/业务负责人，Coinbase/Pinterest/Trade Desk董事会成员，前Google/Facebook/Square/Caviar高管，著名天使投资人"
+title: "Gokul Rajaram"
+description: ": Gokul Rajaram - DoorDash产品/业务负责人，Coinbase/Pinterest/Trade Desk董事会成员，前Google/Facebook/Square/Caviar高管，著名天使投资人"
 pubDate: "2026-01-15"
 guest: "Gokul Rajaram"
 ---

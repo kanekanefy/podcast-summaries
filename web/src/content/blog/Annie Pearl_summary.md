@@ -1,6 +1,6 @@
 ---
 title: "Annie Pearl"
-description: "Annie Pearl - Calendly 首席产品官，前 Glassdoor CPO、Box 产品负责人。"
+description: ": Annie Pearl - Calendly 首席产品官，前 Glassdoor CPO、Box 产品负责人。"
 pubDate: "2026-01-15"
 guest: "Annie Pearl"
 ---

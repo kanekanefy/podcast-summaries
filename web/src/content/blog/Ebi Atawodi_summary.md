@@ -1,6 +1,6 @@
 ---
 title: "Ebi Atawodi"
-description: "Ebi Atawodi - YouTube创作者体验产品负责人，前Netflix/ Uber产品领导者。"
+description: ": Ebi Atawodi - YouTube创作者体验产品负责人，前Netflix/ Uber产品领导者。"
 pubDate: "2026-01-15"
 guest: "Ebi Atawodi"
 ---

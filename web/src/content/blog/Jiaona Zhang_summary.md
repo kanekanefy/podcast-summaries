@@ -1,6 +1,6 @@
 ---
-title: "Jiaona Zhang (JZ) - 播客摘要"
-description: "Jiaona Zhang (JZ) - Webflow产品高级副总裁，斯坦福大学产品管理课程讲师，曾任Airbnb、WeWork、Dropbox产品领导"
+title: "Jiaona Zhang"
+description: ": Jiaona Zhang (JZ) - Webflow产品高级副总裁，斯坦福大学产品管理课程讲师，曾任Airbnb、WeWork、Dropbox产品领导"
 pubDate: "2026-01-15"
 guest: "Jiaona Zhang"
 ---

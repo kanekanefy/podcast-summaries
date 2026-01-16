@@ -1,6 +1,6 @@
 ---
-title: "Nikita Bier - Lenny's Podcast 播客摘要"
-description: ""
+title: "Nikita Bier"
+description: "打造、发布并帮助比任何人都更多的应用登上应用商店榜首。"
 pubDate: "2026-01-15"
 guest: "Nikita Bier"
 ---

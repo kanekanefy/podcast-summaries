@@ -1,6 +1,6 @@
 ---
-title: "Patrick Campbell 播客摘要"
-description: ""
+title: "Patrick Campbell"
+description: "是 ProfitWell (现Paddle) 的创始人兼CEO，定价策略专家，帮助数千家SaaS公司优化定价和增长策略，以数据驱动的定价方法和增长哲学著称。"
 pubDate: "2026-01-15"
 guest: "Patrick Campbell"
 ---

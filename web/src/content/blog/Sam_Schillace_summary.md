@@ -1,6 +1,6 @@
 ---
-title: "Sam Schillace - 播客摘要"
-description: ""
+title: "Sam Schillace"
+description: "是微软企业副总裁兼 deputy CTO,负责消费产品、基础设施和AI领域。他最著名的成就是通过创建Writly发明了Google Docs,该公司被谷歌收购后成为Google Workspace(现在超过10亿月活用户)的基础。他被称为\"Google Docs之父\"。"
 pubDate: "2026-01-15"
 guest: "Sam Schillace"
 ---

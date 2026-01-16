@@ -1,6 +1,6 @@
 ---
-title: "Vijay Iyengar 播客摘要"
-description: ""
+title: "Vijay Iyengar"
+description: "是 Mixpanel 的产品副总裁，Mixpanel 是领先的产品分析平台，帮助公司理解用户行为。Vijay 从软件工程师转型为产品经理，在产品管理和领导力方面有着丰富的经验。他曾在 Google 等大型科技公司工作，后来加入 Mixpanel 并帮助公司从初创成长为成熟的 SaaS 企业。"
 pubDate: "2026-01-15"
 guest: "Vijay Iyengar"
 ---

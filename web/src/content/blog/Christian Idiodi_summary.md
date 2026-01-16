@@ -1,6 +1,6 @@
 ---
 title: "Christian Idiodi"
-description: "Christian Idiodi - Silicon Valley Product Group 合伙人，长期产品领导者与教练，深耕产品管理方法论。"
+description: ": Christian Idiodi - Silicon Valley Product Group 合伙人，长期产品领导者与教练，深耕产品管理方法论。"
 pubDate: "2026-01-15"
 guest: "Christian Idiodi"
 ---

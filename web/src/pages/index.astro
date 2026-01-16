@@ -156,7 +156,6 @@ const posts = (await getCollection('blog')).sort(
 					posts.map((post) => (
 						<a href={`/blog/${post.id}/`} class="card" data-title={post.data.title.toLowerCase()} data-guest={(post.data.guest || '').toLowerCase()} data-desc={post.data.description.toLowerCase()}>
 							<div class="card-body">
-                                <span class="guest-label">{post.data.guest}</span>
 								<h3 class="card-title">{post.data.title}</h3>
                                 <p class="card-desc">{post.data.description}</p>
                                 <div class="card-meta">

@@ -1,6 +1,6 @@
 ---
-title: "Shaun Clowes - Product Leadership Excellence 播客摘要"
-description: ""
+title: "Shaun Clowes"
+description: "是Confluent的首席产品官,曾任MuleSoft首席产品官(Salesforce价值10亿美元业务),Metromile(上市汽车保险公司)首席产品官,在Atlassian工作6年负责Jira敏捷开发并建立第一个B2B增长团队。他创建了两门最流行的Reforge课程:留存与参与度、产品经理数据课程。"
 pubDate: "2026-01-15"
 guest: "Shaun Clowes"
 ---

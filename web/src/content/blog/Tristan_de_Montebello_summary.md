@@ -1,6 +1,6 @@
 ---
-title: "Tristan de Montebello - Ultraspeaking & Public Speaking 播客摘要"
-description: ""
+title: "Tristan de Montebello"
+description: "是Ultraspeaking的联合创造者,这是Lenny遇到过的最好的公开演讲workshop。2017年,Tristan成为世界演讲锦标赛最快进入决赛的竞争者。基于那个经验,他建立了一个非常独特的课程,帮助你快速建立技能成为更好和更舒适公开演讲,特别是现场演讲。"
 pubDate: "2026-01-16"
 guest: "Tristan de Montebello"
 ---

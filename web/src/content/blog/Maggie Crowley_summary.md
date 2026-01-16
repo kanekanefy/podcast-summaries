@@ -1,6 +1,6 @@
 ---
-title: "Maggie Crowley - 播客摘要"
-description: ""
+title: "Maggie Crowley"
+description: "Toast副总裁(产品),前Drift产品总监、Charlie Health VP产品、TripAdvisor PM,哈佛MBA,前奥运会速度滑冰运动员"
 pubDate: "2026-01-15"
 guest: "Maggie Crowley"
 ---

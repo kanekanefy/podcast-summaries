@@ -1,6 +1,6 @@
 ---
 title: "David Singleton"
-description: "David Singleton - Stripe CTO，前 Google VP 工程，长期负责大规模产品与工程文化建设。"
+description: ": David Singleton - Stripe CTO，前 Google VP 工程，长期负责大规模产品与工程文化建设。"
 pubDate: "2026-01-15"
 guest: "David Singleton"
 ---

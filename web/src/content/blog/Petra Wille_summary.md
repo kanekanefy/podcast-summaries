@@ -1,6 +1,6 @@
 ---
-title: "Petra Wille 播客摘要"
-description: ""
+title: "Petra Wille"
+description: "是产品领导力教练、《Strong Product People》作者、Product Engage 会议组织者,专注于帮助产品领导者培养强大的产品团队和产品社区。"
 pubDate: "2026-01-15"
 guest: "Petra Wille"
 ---

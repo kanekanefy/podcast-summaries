@@ -1,6 +1,6 @@
 ---
-title: "Sri Batchu - Ramp Growth Leadership 播客摘要"
-description: ""
+title: "Sri Batchu"
+description: "是Ramp的增长负责人,曾任Instacart增长负责人、Opendoor运营VP。Ramp是历史上增长最快的SaaS业务和FinTech业务(两年内达到1亿美元年度run rate,去年在大多数公司几乎没有增长的时期增长了4倍)。公司在不到500人的规模下达到这一规模,人均收入远高于竞争对手和同行。"
 pubDate: "2026-01-15"
 guest: "Sri Batchu"
 ---

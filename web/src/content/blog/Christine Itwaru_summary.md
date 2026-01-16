@@ -1,6 +1,6 @@
 ---
 title: "Christine Itwaru"
-description: "Christine Itwaru - Pendo 资深产品运营负责人，前产品经理，产品运营（Product Ops）实践者与布道者。"
+description: ": Christine Itwaru - Pendo 资深产品运营负责人，前产品经理，产品运营（Product Ops）实践者与布道者。"
 pubDate: "2026-01-15"
 guest: "Christine Itwaru"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Ray Cao - Podcast Summary"
-description: ""
+title: "Ray Cao"
+description: "是TikTok全球货币化产品战略与运营负责人，曾在Google工作6年帮助Google Shopping全球化，领导了TikTok广告业务从2人团队到全球扩张的快速增长。"
 pubDate: "2026-01-15"
 guest: "Ray Cao"
 ---

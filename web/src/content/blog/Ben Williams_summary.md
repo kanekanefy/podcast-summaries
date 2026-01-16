@@ -1,6 +1,6 @@
 ---
 title: "Ben Williams"
-description: "Ben Williams - Snyk VP of Product，负责开发者增长与产品体验。"
+description: ": Ben Williams - Snyk VP of Product，负责开发者增长与产品体验。"
 pubDate: "2026-01-15"
 guest: "Ben Williams"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Jason Fried - 播客摘要"
-description: "Jason Fried - 37signals/Basecamp/HEY创始人，24年持续盈利的bootstrapping公司，倡导\"Stay-up\"而非\"Startup\"的商业模式"
+title: "Jason Fried"
+description: ": Jason Fried - 37signals/Basecamp/HEY创始人，24年持续盈利的bootstrapping公司，倡导\"Stay-up\"而非\"Startup\"的商业模式"
 pubDate: "2026-01-15"
 guest: "Jason Fried"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Graham Weaver - Stanford GSB教授与Alpine Investors创始人"
-description: "Graham Weaver - 斯坦福商学院教授，顶级私募股权基金Alpine Investors创始人兼CEO，2024年斯坦福MBA杰出教学奖得主。"
+title: "Graham Weaver"
+description: ": Graham Weaver - 斯坦福商学院教授，顶级私募股权基金Alpine Investors创始人兼CEO，2024年斯坦福MBA杰出教学奖得主。"
 pubDate: "2026-01-15"
 guest: "Graham Weaver"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Dan Shipper"
-description: "Dan Shipper - Every 联合创始人兼 CEO，AI 应用与内容公司操盘者，AI-first 组织实践者。"
+description: ": Dan Shipper - Every 联合创始人兼 CEO，AI 应用与内容公司操盘者，AI-first 组织实践者。"
 pubDate: "2026-01-15"
 guest: "Dan Shipper"
 ---

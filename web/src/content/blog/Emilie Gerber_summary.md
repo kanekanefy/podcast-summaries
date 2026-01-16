@@ -1,6 +1,6 @@
 ---
 title: "Emilie Gerber"
-description: "Emilie Gerber - Six Eastern 公关公司创始人兼 CEO，曾在 Uber 负责商务拓展 PR、在 Box 负责产品传播。"
+description: ": Emilie Gerber - Six Eastern 公关公司创始人兼 CEO，曾在 Uber 负责商务拓展 PR、在 Box 负责产品传播。"
 pubDate: "2026-01-15"
 guest: "Emilie Gerber"
 ---

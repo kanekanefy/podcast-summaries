@@ -1,6 +1,6 @@
 ---
-title: "Hilary Gridley - 播客摘要"
-description: ""
+title: "Hilary Gridley"
+description: "WHOOP核心产品负责人(Head of Core Product);前Big Health高级产品总监、Dropbox高级产品营销经理;著名文章《How to Become a Super Manager with AI》作者(Newsletter第6受欢迎文章)"
 pubDate: "2026-01-15"
 guest: "Hilary Gridley"
 ---

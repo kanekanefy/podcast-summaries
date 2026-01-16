@@ -1,6 +1,6 @@
 ---
-title: "Matt Mochary - 播客摘要"
-description: ""
+title: "Matt Mochary"
+description: "The Mochary Method创始人,专注CEO教练(辅导过Naval Ravikant、OpenAI CEO Sam Altman、Coinbase CEO Brian Armstrong等),《The Great CEO Within》合著者,前 startups.com创始人/CEO"
 pubDate: "2026-01-15"
 guest: "Matt Mochary"
 ---

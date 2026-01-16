@@ -1,6 +1,6 @@
 ---
-title: "访谈问题精华汇编 - 播客摘要"
-description: ""
+title: "Interview Q Compilation"
+description: "本集是Lenny's Podcast的特别精选,汇集了**17位顶级产品和技术领导者**的最爱面试问题,来自超过100位嘉宾的精华"
 pubDate: "2026-01-15"
 guest: "Interview Q Compilation"
 ---

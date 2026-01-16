@@ -1,6 +1,6 @@
 ---
-title: "Sanchan Saxena - 播客摘要"
-description: ""
+title: "Sanchan Saxena"
+description: "是Coinbase的VP of Product,之前在Airbnb担任产品负责人,曾在Instagram负责广告和购物产品。他是从Instagram不到50名工程师、0收入的早期阶段,一直工作到10亿月活和数十亿美元收入的元老级产品领导者。"
 pubDate: "2026-01-15"
 guest: "Sanchan Saxena"
 ---

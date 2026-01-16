@@ -1,6 +1,6 @@
 ---
 title: "Ethan Smith"
-description: "Ethan Smith - Graphite CEO、SEO/AEO专家，长期研究搜索与LLM流量增长。"
+description: ": Ethan Smith - Graphite CEO、SEO/AEO专家，长期研究搜索与LLM流量增长。"
 pubDate: "2026-01-15"
 guest: "Ethan Smith"
 ---

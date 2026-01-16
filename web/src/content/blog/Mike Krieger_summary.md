@@ -1,6 +1,6 @@
 ---
-title: "Mike Krieger 播客摘要"
-description: ""
+title: "Mike Krieger"
+description: "是 Anthropic 的首席产品官(CPO)，该公司是 Claude 背后的 AI 公司。他也是 Instagram 的联合创始人，被誉为最受推崇的产品构建者和思考者之一。"
 pubDate: "2026-01-15"
 guest: "Mike Krieger"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Nikhyl Singhal - Lenny's Podcast 播客摘要"
-description: ""
+title: "Nikhyl Singhal"
+description: "曾在四个不同的大型消费产品上工作和领导团队："
 pubDate: "2026-01-15"
 guest: "Nikhyl Singhal"
 ---

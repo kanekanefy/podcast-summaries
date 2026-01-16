@@ -1,6 +1,6 @@
 ---
-title: "Nicole Forsgren - 开发者效能与DevOps研究专家访谈摘要"
-description: ""
+title: "Nicole Forsgren"
+description: "是微软研究院的合作伙伴,领导开发者效能、研究和策略。她是获奖书籍《Accelerate》的作者,DORA(DevOps研究和评估)状态报告的年度合著者。曾任DORA CEO,被Google收购后领导整合和团队建设,GitHub VP研究和策略。"
 pubDate: "2026-01-15"
 guest: "Nicole Forsgren"
 ---

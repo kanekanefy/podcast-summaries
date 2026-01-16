@@ -1,6 +1,6 @@
 ---
-title: "Jake Knapp + John Zeratsky 播客摘要"
-description: "Jake Knapp 和 John Zeratsky - Google Ventures 前合伙人、《Sprint》和《Make Time》作者,现任 Character VC 联合创始人,专注帮助初创公司通过设计冲刺找到产品市场匹配。"
+title: "Jake Knapp + John Zeratsky"
+description: ": Jake Knapp 和 John Zeratsky - Google Ventures 前合伙人、《Sprint》和《Make Time》作者,现任 Character VC 联合创始人,专注帮助初创公司通过设计冲刺找到产品市场匹配。"
 pubDate: "2026-01-15"
 guest: "Jake Knapp + John Zeratsky"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Uri Levine 2.0 播客摘要（危机管理专题）"
-description: ""
+title: "Uri Levine 2.0"
+description: "Uri Levine 是 Waze 和 Moovit 的联合创始人，共创立了 10 多家公司。这是他第二次参加 Lenny's Podcast，专门讨论创业危机管理。他更新了自己的畅销书《Fall in Love with the Problem, Not the Solution》，新增了关于危机管理的章节。Uri 拥有丰富的危机处理经验，通过 COVID-19、监管变化、竞争冲击等各种危机，帮助多家公司渡过难关。"
 pubDate: "2026-01-15"
 guest: "Uri Levine 2.0"
 ---

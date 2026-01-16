@@ -1,6 +1,6 @@
 ---
-title: "Tim Holley - Lenny's Podcast Summary"
-description: ""
+title: "Tim Holley"
+description: "是Etsy的产品副总裁，在公司工作了超过10年，期间帮助Etsy从GMV（商品交易总额）5亿美元增长到超过130亿美元。他曾在SoulCycle短暂担任产品负责人，但最终选择回到Etsy，因为他找到了真正关心产品和团队的归属感。"
 pubDate: "2026-01-16"
 guest: "Tim Holley"
 ---

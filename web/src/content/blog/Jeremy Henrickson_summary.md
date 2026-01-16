@@ -1,6 +1,6 @@
 ---
-title: "Jeremy Henrickson - 保持速度与深度产品思考"
-description: "Jeremy Henrickson - Rippling高级产品副总裁,曾任Coinbase首席产品官,经历加密货币市场40倍增长时期, oversee产品工程组织10倍扩张。"
+title: "Jeremy Henrickson"
+description: ": Jeremy Henrickson - Rippling高级产品副总裁,曾任Coinbase首席产品官,经历加密货币市场40倍增长时期, oversee产品工程组织10倍扩张。"
 pubDate: "2026-01-15"
 guest: "Jeremy Henrickson"
 ---

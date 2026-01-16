@@ -1,6 +1,6 @@
 ---
 title: "Eeke de Milliano"
-description: "Eeke de Milliano - Retool产品负责人，前Stripe早期PM与产品建设者。"
+description: ": Eeke de Milliano - Retool产品负责人，前Stripe早期PM与产品建设者。"
 pubDate: "2026-01-15"
 guest: "Eeke de Milliano"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Nickey Skarstad - 产品愿景与执行专家访谈摘要"
-description: ""
+title: "Nickey Skarstad"
+description: "是Duolingo的产品总监,曾在Etsy工作7年从论坛版主晋升到产品总监,在Airbnb领导Experiences团队从0到1找到产品市场匹配,在The Wing担任VP产品,在Shopify从事平台产品工作。"
 pubDate: "2026-01-15"
 guest: "Nickey Skarstad"
 ---

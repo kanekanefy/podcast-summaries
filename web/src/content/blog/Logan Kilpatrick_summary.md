@@ -1,6 +1,6 @@
 ---
-title: "Logan Kilpatrick - 播客摘要"
-description: ""
+title: "Logan Kilpatrick"
+description: "**Logan Kilpatrick** 是OpenAI的开发者关系负责人(Head of Developer Relations),支持开发者使用OpenAI的API和ChatGPT进行构建。在加入OpenAI之前,他是Apple的机器学习工程师,并曾为NASA的开源政策提供咨询。Logan经历了OpenAI戏剧性的\"董事会与Sam Altman事件\",并在ChatGPT发布一年多以来一直处于AI革命的最前线,每天帮助开发者和公司利用这些新的AI超能力。他是少数真正了解OpenAI内部运作和公司文化的人之一。"
 pubDate: "2026-01-15"
 guest: "Logan Kilpatrick"
 ---

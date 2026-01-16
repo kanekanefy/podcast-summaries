@@ -1,6 +1,6 @@
 ---
-title: "Vikrama Dhiman 播客摘要"
-description: ""
+title: "Vikrama Dhiman"
+description: "是 Gojek 的产品副总裁，Gojek 是印度尼西亚的超级应用（Super App），提供打车、外卖、支付等数十种服务。在加入 Gojek 之前，Vikrama 在多个科技公司担任产品领导职务，拥有丰富的产品管理和职业发展经验。他以实用主义的产品哲学和清晰的职业发展框架而闻名。"
 pubDate: "2026-01-15"
 guest: "Vikrama Dhiman"
 ---

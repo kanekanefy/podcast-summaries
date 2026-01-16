@@ -1,6 +1,6 @@
 ---
-title: "Merci Grace - Lenny's Podcast 摘要"
-description: ""
+title: "Merci Grace"
+description: "是一位创业者、投资人、Slack的增长负责人,现在是再次创业的创始人。她也是Women in Product的联合创始人。她在Slack帮助构建产品团队并探索增长,是产品驱动增长(PLG)运动的早期创新者之一。她的职业轨迹包括:游戏设计师→产品管理→VC→CEO,这条路径完全是出于好奇心而非精心规划。"
 pubDate: "2026-01-15"
 guest: "Merci Grace"
 ---

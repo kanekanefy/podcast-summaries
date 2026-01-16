@@ -1,6 +1,6 @@
 ---
 title: "Deb Liu"
-description: "Deb Liu - Ancestry CEO，前 Facebook VP 产品，主导 Marketplace、支付、广告等多条业务线。"
+description: ": Deb Liu - Ancestry CEO，前 Facebook VP 产品，主导 Marketplace、支付、广告等多条业务线。"
 pubDate: "2026-01-15"
 guest: "Deb Liu"
 ---

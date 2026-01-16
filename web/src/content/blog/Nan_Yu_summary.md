@@ -1,6 +1,6 @@
 ---
-title: "Nan Yu (Linear Head of Product) - Lenny's Podcast 摘要"
-description: ""
+title: "Nan Yu"
+description: "是Linear的产品负责人，Linear是目前最受欢迎、设计最美观、增长最快的B2B SaaS产品之一。他曾在Everlane（直接面向消费者的服装品牌）和Mode（商业智能工具）工作，在竞争激烈的行业中积累了丰富的产品经验。"
 pubDate: "2026-01-15"
 guest: "Nan Yu"
 ---

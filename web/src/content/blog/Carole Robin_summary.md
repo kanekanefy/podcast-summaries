@@ -1,6 +1,6 @@
 ---
 title: "Carole Robin"
-description: "Carole Robin - 斯坦福GSB《Interpersonal Dynamics》传奇教授、Leaders in Tech创始人、《Connect》作者。"
+description: ": Carole Robin - 斯坦福GSB《Interpersonal Dynamics》传奇教授、Leaders in Tech创始人、《Connect》作者。"
 pubDate: "2026-01-15"
 guest: "Carole Robin"
 ---

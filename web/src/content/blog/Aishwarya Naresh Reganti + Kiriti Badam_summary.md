@@ -1,6 +1,6 @@
 ---
-title: "Podcast Summary: Aishwarya Naresh Reganti + Kiriti Badam on Lenny's Podcast"
-description: "Aishwarya Naresh Reganti（前 Alexa/Microsoft AI 研究员）和 Kiriti Badam（OpenAI Codex 工程师）是一对夫妻档 AI 产品专家，他们在 Maven 上开设了关于构建企业级 AI 产品的热门课程。"
+title: "Aishwarya Naresh Reganti + Kiriti Badam"
+description: "：Aishwarya Naresh Reganti（前 Alexa/Microsoft AI 研究员）和 Kiriti Badam（OpenAI Codex 工程师）是一对夫妻档 AI 产品专家，他们在 Maven 上开设了关于构建企业级 AI 产品的热门课程。"
 pubDate: "2026-01-15"
 guest: "Aishwarya Naresh Reganti + Kiriti Badam"
 ---

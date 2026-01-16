@@ -1,6 +1,6 @@
 ---
 title: "Bob Moesta"
-description: "Bob Moesta - Jobs-to-be-Done 框架共同创作者，长期帮助企业发现真实需求。"
+description: ": Bob Moesta - Jobs-to-be-Done 框架共同创作者，长期帮助企业发现真实需求。"
 pubDate: "2026-01-15"
 guest: "Bob Moesta"
 ---

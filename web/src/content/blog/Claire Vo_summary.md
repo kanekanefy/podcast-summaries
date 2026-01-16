@@ -1,6 +1,6 @@
 ---
 title: "Claire Vo"
-description: "Claire Vo - LaunchDarkly CPO，前Color与Optimizely CPO，ChatPRD创作者与连续创业者。"
+description: ": Claire Vo - LaunchDarkly CPO，前Color与Optimizely CPO，ChatPRD创作者与连续创业者。"
 pubDate: "2026-01-15"
 guest: "Claire Vo"
 ---

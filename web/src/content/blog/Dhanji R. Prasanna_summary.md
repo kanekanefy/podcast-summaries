@@ -1,6 +1,6 @@
 ---
 title: "Dhanji R. Prasanna"
-description: "Dhanji R. Prasanna - Block CTO，领导 3,500+ 人团队，推动公司成为 AI 原生组织。"
+description: ": Dhanji R. Prasanna - Block CTO，领导 3,500+ 人团队，推动公司成为 AI 原生组织。"
 pubDate: "2026-01-15"
 guest: "Dhanji R. Prasanna"
 ---

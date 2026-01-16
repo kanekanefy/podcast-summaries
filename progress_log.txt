@@ -238,17 +238,103 @@
      * 可持续的持续发现 - 每周一次访谈,快速假设测试,同时处理三个想法
      * "不要停止做赌注来开始发现" - 在继续做赌注的同时并行开始做发现
 
-5. **Tim Holley** ⏳ (Pending)
-   - Status: Not yet processed due to token constraints
+5. **Tim Holley** ✅
+   - File: Tim Holley_summary.md
+   - Source: Lenny's Podcast Transcripts Archive [public]/Tim Holley.txt
+   - Topics: Etsy文化转型、COVID-19应对、市场平台增长、转化率优化、"五脚凳"协作模式
+   - Key Insights:
+     * "五脚凳"协作模式 - 产品、工程、设计、洞察(研究与分析)、营销五个职能
+     * Tobi龙卷风 - 快速决策和项目终止文化,压缩时间节省年月
+     * 从共识驱动到结果导向 - 2017年Josh Silverman转型,Culture Fit→Performance Fit
+     * 转化率优化实操 - 评论照片、稀缺性信号、价值观文案的重要性
+     * PM即迷你CEO是错误的 - PM不需要有最好想法,但需要选择最好想法
+     * COVID-19的"黑色星期五" - CDC口罩令导致流量爆发,卖家迅速转型
+     * 供给端vs需求端策略 - 早期过度聚焦供给端,后期打造世界级买家体验
 
-6. **Timothy Davis** ⏳ (Pending)
-   - Status: Not yet processed due to token constraints
+6. **Timothy Davis** ✅
+   - File: Timothy Davis_summary.md
+   - Source: Lenny's Podcast Transcripts Archive [public]/Timothy Davis.txt
+   - Topics: 效果营销、付费增长、平台选择、归因与增量性、团队建设
+   - Key Insights:
+     * "付费广告适合所有人" - Google搜索几乎适合每个企业(用户驱动)
+     * "生命迹象"测试策略 - 小额投资看是否有"生命迹象",创造"赢或学"环境
+     * 平台选择顺序 - 首选Google搜索,其次Meta,新兴渠道TikTok/Podcast/Connected TV
+     * 代理商vs内部团队 - 代理商适合启动,设定里程碑后过渡到内部团队
+     * 信号vs噪音 - 从大量指标中识别真正重要的指标,数据思维是最难培养的能力
+     * Goodhart定律 - 任何成为目标的指标都不再是好的指标
+     * LinkedIn ABM案例 - 精准定位决策层,地理围栏+职位定向组合策略
 
-7. **Tobi Lutke** ⏳ (Pending)
-   - Status: Not yet processed due to token constraints
+7. **Tobi Lutke** ✅
+   - File: Tobi Lutke_summary.md
+   - Source: Lenny's Podcast Transcripts Archive [public]/Tobi Lutke.txt
+   - Topics: 第一性原理思维、人类潜能最大化、长期愿景、反KPI管理哲学、Tobi龙卷风
+   - Key Insights:
+     * 第一性原理思维方法 - 不接受"做一个更好的版本"作为产品方向
+     * "没有人接近其最大潜能" - 经常正确评估他人潜力超过他们自己的评估
+     * 反KPI哲学 - 关注不可量化事物(乐趣、喜悦、质量),极度数据驱动但不被指标绑架
+     * 长期决策框架 - 100年愿景:使创业更普遍化,Stripe-Shopify长期合作关系
+     * "乐观主义听起来愚蠢" - 世界上大多数alpha在"不明显但真实"的事物中
+     * 能量来源 - Tobi是对现状的不满,Michael Jordan是竞争对立
+     * "在足够长的时间线上,与客户玩正和游戏是终极增长黑客"
 
-8. **Todd Jackson** ⏳ (Pending)
-   - Status: Not yet processed due to token constraints
+8. **Todd Jackson** ✅
+   - File: Todd Jackson_summary.md
+   - Source: Lenny's Podcast Transcripts Archive [public]/Todd Jackson.txt
+   - Topics: 产品市场契合度框架、PMF四个层级、三个维度(满意度/需求/效率)、设计合作伙伴
+   - Key Insights:
+     * PMF四个层级 - 萌芽(L1)<发展(L2)<强契合(L3)<极致(L4),60%无法超越L2
+     * 三个维度权衡 - 满意度、需求、效率,每个阶段优化重点不同
+     * "磨砺期" - L2到L3之间,努力销售、推广、推销,创始人主导销售关键期
+     * 效率至关重要 - WeWork/Casper有需求和满意度但缺乏效率,给$2换$1不可持续
+     * 脱困策略(四个P) - Persona、Problem、Promise、Product,Lattice保持第一个P,Vanta改变全部四个
+     * First Round PMF Method - 14周免费程序,每周10小时,不占股权
+     * Dollar-Driven Discovery - 找到客户愿意付很多钱的痛点,问题必须重要且紧急
+
+9. **Tom Conrad** ✅
+   - File: Tom Conrad_summary.md
+   - Source: Lenny's Podcast Transcripts Archive [public]/Tom Conrad.txt
+   - Topics: "更少的创始人"理念、职业选择、失败教训、团队与人、商业模式数学公式
+   - Key Insights:
+     * "更少的创始人" - 行业会更好如果有更少的创始人,聪明人应找到需要他们技能的团队
+     * 与谁一起工作>做什么 - 专业满意度与外部指标不相关,与热爱产品和团队高度相关
+     * 信任你的直觉 - 你知道什么时候价值观或工作风格不匹配,不要告诉自己相反的故事
+     * 失败让你变得更好 - Quibi和Pets.com成了打开新门的多米诺骨牌
+     * 过度投资可能是累赘 - Pets.com三家过度融资网站导致不可获胜军备竞赛
+     * 时机很重要 - Pets.com太早(80%拨号上网),Chewy十年后证明商业模式可行
+     * 重新点燃热情 - Quibi让Tom重新爱上行业,从零构建团队的满足感
+
+10. **Tomer Cohen** ✅
+   - File: Tomer Cohen_summary.md
+   - Source: Lenny's Podcast Transcripts Archive [public]/Tomer Cohen.txt
+   - Topics: "我们可能错了但我们不困惑"、LinkedIn feed转型、AI优先思维、雄心勃勃的目标设定
+   - Key Insights:
+     * "我们可能错了,但我们不困惑" - 清晰思考和执行同样重要,重视清晰和专注胜过对错
+     * 清晰思考 - 花时间定义确切问题,寻找基于第一性原理的解决方案,"有牙齿的原则"
+     * 清晰执行 - 优先级必须在资源配置中体现,顶尖人才从事第一优先级工作
+     * LinkedIn feed转型 - 从活动feed到知识交换平台,划出200万会员作为实验组
+     * AI优先真谛 - 不是"我们有很酷技术能用它做什么",而是"回到目标,用技术如何更好实现"
+     * 山峰愿景 - 看到山峰峰值、知道起点,中间可能模糊,从"可能是什么"开始而非今天数字
+     * 苏格拉底式对话 - 基于清晰问题进行产品对话,反对vs理解需要不同处理
+
+11. **Tomer Cohen 2.0** ✅
+   - File: Tomer Cohen 2.0_summary.md
+   - Source: Lenny's Podcast Transcripts Archive [public]/Tomer Cohen 2.0.txt
+   - Topics: 全栈构建者模型、技能快速变化、人机产品团队、塌缩复杂性栈、Pod模式
+   - Key Insights:
+     * 到2030年工作技能变化70% - 变化时间常数>响应时间常数,必须回到第一性原理
+     * 全栈构建者五大特质 - 愿景、同理心、沟通、创造力、判断力,其他一切自动化
+     * 三个关键组件 - 平台(重新架构)、工具与代理(定制化)、文化(变革管理)
+     * 流程复杂性→组织复杂性 - 从一个构建者到多个职能和微专业化,导致膨胀
+     * Pod模式 - 不再大型团队,全栈构建者小组,针对问题工作一季度然后重新组装
+     * Navy SEALs比喻 - 跨领域训练、小团队、任务专精、非常敏捷、快速组装
+     * 第三方工具不能开箱即用 - Figma/Cursor/Copilot需要大量定制和alpha模式协作
+
+**T-Series Batch Summary**:
+- Successfully processed 7 transcripts (Tim Holley, Timothy Davis, Tobi Lutke, Todd Jackson, Tom Conrad, Tomer Cohen, Tomer Cohen 2.0)
+- Focus on first-principles thinking, product-market fit frameworks, performance marketing, career philosophy, and AI-era product development
+- Key themes: "Five-Legged Stool" collaboration, "Signals of Life" testing, Tornado decision-making, PMF 4-level framework, "Fewer Founders" philosophy, "We might be wrong but we're not confused", Full Stack Builder Model
+- All summaries include comprehensive coverage of novel insights, practical frameworks, counter-intuitive perspectives, and actionable advice
+- Format: All summaries follow the established 7-section structure in Chinese with English terminology preserved
 
 ---
 
@@ -1039,3 +1125,101 @@ All summaries include 7 required sections: 嘉宾简介, 核心议题, 核心洞
 - **Public Speaking**: Tristan de Montebello on speaking as meta skill, enjoyment as barometer, and subconscious flow process
 
 Each summary contains actionable frameworks, novel insights, and practical advice for product managers, founders, and growth professionals.
+
+---
+
+### Completed (2026-01-16) - NEW W-Y-Z SERIES BATCH
+
+50. **Wes Kao 2.0** ✅
+   - File: Wes_Kao_2.0_summary.md
+   - Source: Lenny's Podcast Transcripts Archive [public]/Wes Kao 2.0.txt
+   - Topics: 高管沟通与影响力、MOO框架、CEDAF授权框架、简洁表达、向上管理、有效反馈
+   - Key Insights:
+      * MOO框架(Most Obvious Objection):分享内容前思考对方最明显的异议可能是什么
+      * CEDAF授权框架:Comprehension(理解)、Excitement(兴奋)、De-risk(去风险)、Align(对齐)、Feedback(反馈)
+      * Sales Before Logistics:先"销售"为什么重要,再讨论执行细节
+      * 简洁的本质:不是字数少,而是语言密度高和洞察密度高
+      * 向上管理核心:Share Your Point of View,不要只汇报任务完成情况
+      * 反馈目的:行为改变(Behavior Change),删掉90%的宣泄内容
+      * 问题背后的问题:提供相关背景信息+询问验证意图
+      * 每天与Claude交流3-4小时,最佳实践是分享观点和约束条件
+
+51. **Will Larson** ✅
+   - File: Will_Larson_summary.md
+   - Source: Lenny's Podcast Transcripts Archive [public]/Will Larson.txt
+   - Topics: 工程战略、系统思维、DORA指标、写作哲学、公司价值观、从技术到管理转型
+   - Key Insights:
+      * Richard Rumelt战略框架:诊断(Diagnosis)+指导政策(Guiding Policy)+一致行动(Coherent Action)
+      * 系统思维:存量(Stocks)和流量(Flows),理解系统如何随时间变化
+      * DORA指标:部署频率、前置时间、平均恢复时间、变更失败率
+      * 写作即思考:不知道自己在想什么,直到写下来
+      * 工程管理三大工具:愿景(Vision)、战略(Strategy)、战术(Tactics)
+      * 公司价值观:招聘、晋升、解雇的决策框架,不只是墙上的标语
+      * 从技术到管理:接受影响力来自协调而非个人产出
+      * 推荐书籍:《High Output Management》《Your Brain At Work》
+
+52. **Yuhki Yamashata** ✅
+   - File: Yuhki_Yamashata_summary.md
+   - Source: Lenny's Podcast Transcripts Archive [public]/Yuhki Yamashata.txt
+   - Topics: Figma CPO、PM中讲故事、Own the Why、客户接近度、OKR实验、PLG、社区驱动增长
+   - Key Insights:
+      * PM最重要的工作:讲故事(Storytelling),连接战略和执行
+      * Own the Why:PM应该拥有问题而非解决方案
+      * Five Whys深度挖掘:找到根本原因而非表面症状
+      * 客户接近度(Proximity to Customer):PM必须直接与用户互动
+      * OKR作为实验工具:不是为了承诺数字,而是为了对齐优先级
+      * PLG(product-led growth):产品驱动增长,产品本身就是营销
+      * 社区驱动增长:让用户成为倡导者,创造网络效应
+      * Figma协作哲学:多人同时编辑,打破传统工具限制
+      * Memification:让想法易于传播和记忆
+
+53. **Yuriy Timen** ✅
+   - File: Yuriy_Timen_summary.md
+   - Source: Lenny's Podcast Transcripts Archive [public]/Yuriy Timen.txt
+   - Topics: 增长战略、SEO评估、付费获客、Onboarding优化、B2C失败模式、顾问方法论
+   - Key Insights:
+      * SEO评估三问题:用户规模、竞争强度、内容质量
+      * Onboarding优化五步骤:理解旅程→测量→识别瓶颈→实验→迭代
+      * B2C三大失败模式:假阳性、过早优化、过度依赖单一渠道
+      * 增长二八定律:80%增长来自20%杠杆,找到正确杠杆比做更多事重要
+      * 顾问角色:系统诊断而非直接答案,建立框架能力
+      * SEO vs付费获客:SEO有累积效应,付费停止增长停止
+      * Grammarly增长:从B2C到B2B的自然转型,90%+自然流量
+      * 增长机会评估矩阵:影响×成功概率÷努力程度=优先级分数
+
+54. **Zoelle Egner** ✅
+   - File: Zoelle_Egner_summary.md
+   - Source: Lenny's Podcast Transcripts Archive [public]/Zoelle Egner.txt
+   - Topics: 初创公司营销、Airtable早期策略、客户成功=营销、VaccinateCA危机营销、PR策略
+   - Key Insights:
+      * "以小博大"(Punching Above Your Weight):小公司通过创意和专注竞争
+      * Airtable三大策略:Billboards信号作用、Facebook精准定位"摆弄者"、高端周边(AirPods)
+      * 客户成功=营销:两个功能应该深度融合,共享指标和反馈
+      * VaccinateCA经验:清晰使命+去中心化执行+速度胜过完美,两周建立全美网络
+      * 模板策略:为了用户成功而非SEO,价值自然产生流量
+      * PR陷阱:大多数公司PR投入过多时间,对90%公司PR应该最小化
+      * 避免类别创造:用户不关心新类别,只想要解决问题
+      * Airtable第11号员工,同时领导营销和客户成功
+
+**W-Y-Z Series Summary**: Successfully processed all 5 requested transcripts (Wes Kao 2.0, Will Larson, Yuhki Yamashata, Yuriy Timen, Zoelle Egner). Created comprehensive summaries following the established format with focus on:
+- Novel insights and frameworks (MOO Framework, CEDAF Delegation, Sales Before Logistics, Richard Rumelt Strategy, Systems Thinking, Five Whys, SEO Three Questions, Onboarding Five Steps, B2C Failure Modes, Punching Above Your Weight, Customer Success = Marketing)
+- Practical actionable advice (Communication checklists, Delegation frameworks, Engineering management tools, OKR experiments, Onboarding optimization, Growth opportunity matrix, Startup marketing priorities)
+- Counter-intuitive perspectives (Conciseness = density not brevity, Communication responsibility is on speaker, Writing is thinking, SEO is investment not free, Templates for user success not SEO, Brand building starts day one, Customer success is strategic not support)
+- Rich details and anecdotes (Wes Kao daily 3-4 hours with Claude, Will Larson writing philosophy, Yuhki at Figma, Yuriy at Grammarly, Zoelle at Airtable #11 employee, VaccinateCA two weeks nationwide, AirPods as swag, Billboards for signaling)
+
+All summaries include 7 required sections: 嘉宾简介, 核心议题, 核心洞察(比喻/英文术语), 心法与原则, 实战手册, 反常识视角, 花絮与细节.
+
+---
+
+## Updated Total Summary Statistics (2026-01-16)
+
+### Processing Complete - W-Y-Z Series
+- **Total transcripts processed**: 5 (Wes Kao 2.0, Will Larson, Yuhki Yamashata, Yuriy Timen, Zoelle Egner)
+- **Total summaries created**: 5 new comprehensive summaries
+- **Format consistency**: All summaries follow the established 7-section structure
+- **Language**: All summaries in Chinese with English terminology preserved for key concepts
+
+### Cumulative Progress (All 2026-01-16 Sessions)
+- **Total summaries created**: 54 guests across all batches
+- **Coverage**: Product management, engineering leadership, growth strategy, communication, marketing, customer success, and more
+- **Consistency**: Maintained high quality and format standards across all batches

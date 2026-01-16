@@ -1,6 +1,6 @@
 ---
-title: "Casey Winters_"
-description: "Casey Winters - 前Eventbrite CPO、长期增长顾问、Reforge讲师与作家。"
+title: "Casey Winters "
+description: ": Casey Winters - 前Eventbrite CPO、长期增长顾问、Reforge讲师与作家。"
 pubDate: "2026-01-15"
 guest: "Casey Winters "
 ---

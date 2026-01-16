@@ -1,6 +1,6 @@
 ---
-title: "Melissa Tan 播客摘要"
-description: ""
+title: "Melissa Tan"
+description: "是Dropbox的B2B业务长期增长负责人，也是Dropbox的第一位增长产品经理。她在Dropbox工作了近5年（2013-2017），经历了从约200人、10亿美元估值到1500人、100亿美元估值的IPO历程。"
 pubDate: "2026-01-15"
 guest: "Melissa Tan"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Melissa Perri 播客摘要"
-description: ""
+title: "Melissa"
+description: "Perri 是产品管理领域的传奇人物，《Escaping the Build Trap》和《Product Operations》两本 foundational 书籍的作者。她是 Produx Labs 的CEO，在哈佛商学院教授产品管理，通过 Product Institute 培训了将近**所有财富100强公司**的产品经理。她曾与4000多名产品经理合作，深度指导过30多家公司的产品转型，从高增长SaaS公司到银行、制药公司等传统企业。她的工作重点是帮助企业建立强大的产品管理功能，从战略制定到执行落地。"
 pubDate: "2026-01-15"
 guest: "Melissa"
 ---

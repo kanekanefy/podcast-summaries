@@ -1,6 +1,6 @@
 ---
-title: "Laura Schaffer 播客摘要"
-description: ""
+title: "Laura Schaffer"
+description: "是Amplitude新任Head of Growth,接替前 legendary guest Elena Verna。此前担任Rapid的VP of Product and Growth超过7年,在Twilio领导Growth团队和实验平台。职业生涯始于Bandwidth销售岗位,50人时期加入,后通过主动创建e-commerce manager角色转型产品。以客户洞察驱动职业发展和\"psychology of the user\"方法论著称。"
 pubDate: "2026-01-15"
 guest: "Laura Schaffer"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Podcast Summary: Adam Fishman on Lenny's Podcast"
-description: "Adam Fishman 曾任 Patreon、Imperfect Foods 的产品与增长负责人，也是 Lyft 的首位增长雇员，现为 Reforge 的驻企高管（EIR）和增长顾问。"
+title: "Adam Fishman"
+description: "：Adam Fishman 曾任 Patreon、Imperfect Foods 的产品与增长负责人，也是 Lyft 的首位增长雇员，现为 Reforge 的驻企高管（EIR）和增长顾问。"
 pubDate: "2026-01-15"
 guest: "Adam Fishman"
 ---

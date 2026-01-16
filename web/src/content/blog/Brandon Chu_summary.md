@@ -1,6 +1,6 @@
 ---
 title: "Brandon Chu"
-description: "Brandon Chu - Shopify VP of Product，前创业者与资深 PM 写作者。"
+description: ": Brandon Chu - Shopify VP of Product，前创业者与资深 PM 写作者。"
 pubDate: "2026-01-15"
 guest: "Brandon Chu"
 ---

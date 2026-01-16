@@ -1,6 +1,6 @@
 ---
 title: "Annie Duke"
-description: "Annie Duke - 《Thinking in Bets》《Quit》作者，First Round Capital 特别合伙人，前职业扑克选手。"
+description: ": Annie Duke - 《Thinking in Bets》《Quit》作者，First Round Capital 特别合伙人，前职业扑克选手。"
 pubDate: "2026-01-15"
 guest: "Annie Duke"
 ---

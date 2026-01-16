@@ -1,6 +1,6 @@
 ---
 title: "Ben Horowitz"
-description: "Ben Horowitz - a16z 联合创始人、前 CEO、两本畅销书作者（《The Hard Thing About Hard Things》《What You Do Is Who You Are》）。"
+description: ": Ben Horowitz - a16z 联合创始人、前 CEO、两本畅销书作者（《The Hard Thing About Hard Things》《What You Do Is Who You Are》）。"
 pubDate: "2026-01-15"
 guest: "Ben Horowitz"
 ---

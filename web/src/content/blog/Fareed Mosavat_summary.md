@@ -1,6 +1,6 @@
 ---
 title: "Fareed Mosavat"
-description: "Fareed Mosavat - Reforge 首席发展官，曾在 Slack/Instacart/Zynga/Runkeeper 等公司负责增长与产品。"
+description: ": Fareed Mosavat - Reforge 首席发展官，曾在 Slack/Instacart/Zynga/Runkeeper 等公司负责增长与产品。"
 pubDate: "2026-01-15"
 guest: "Fareed Mosavat"
 ---

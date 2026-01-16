@@ -1,6 +1,6 @@
 ---
-title: "Jules Walter - 播客摘要"
-description: "Jules Walter - YouTube产品负责人,前Slack增长团队首任PM(4.5年),Black Product Managers Network与CodePath联合创始人兼board member"
+title: "Jules Walter"
+description: ": Jules Walter - YouTube产品负责人,前Slack增长团队首任PM(4.5年),Black Product Managers Network与CodePath联合创始人兼board member"
 pubDate: "2026-01-15"
 guest: "Jules Walter"
 ---

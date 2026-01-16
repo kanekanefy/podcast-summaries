@@ -1,6 +1,6 @@
 ---
-title: "Gustaf Alstromer - Y Combinator合伙人"
-description: "Gustaf Alstromer - Y Combinator合伙人，前Airbnb早期核心成员（2012年加入），与Lenny Rachitsky共事多年，已指导超过600家创业公司。"
+title: "Gustaf Alstromer"
+description: ": Gustaf Alstromer - Y Combinator合伙人，前Airbnb早期核心成员（2012年加入），与Lenny Rachitsky共事多年，已指导超过600家创业公司。"
 pubDate: "2026-01-15"
 guest: "Gustaf Alstromer"
 ---

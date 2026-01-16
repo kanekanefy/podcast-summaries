@@ -1,6 +1,6 @@
 ---
 title: "April Dunford"
-description: "April Dunford - B2B 产品定位专家，《Obviously Awesome》作者，服务超 200 家科技公司。"
+description: ": April Dunford - B2B 产品定位专家，《Obviously Awesome》作者，服务超 200 家科技公司。"
 pubDate: "2026-01-15"
 guest: "April Dunford"
 ---

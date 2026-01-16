@@ -1,6 +1,6 @@
 ---
-title: "Garrett Lord - Handshake创始人兼CEO"
-description: "Garrett Lord是Handshake创始人兼CEO，公司十年内达到2亿美元ARR，2024年1月推出AI数据标注业务，4个月内即达5000万美元ARR，预计12个月内突破1亿美元。"
+title: "Garrett Lord"
+description: ": Garrett Lord是Handshake创始人兼CEO，公司十年内达到2亿美元ARR，2024年1月推出AI数据标注业务，4个月内即达5000万美元ARR，预计12个月内突破1亿美元。"
 pubDate: "2026-01-15"
 guest: "Garrett Lord"
 ---

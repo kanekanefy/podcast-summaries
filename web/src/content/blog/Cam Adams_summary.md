@@ -1,6 +1,6 @@
 ---
 title: "Cam Adams"
-description: "Cameron Adams - Canva 联合创始人兼首席产品官，主导产品文化与增长。"
+description: ": Cameron Adams - Canva 联合创始人兼首席产品官，主导产品文化与增长。"
 pubDate: "2026-01-15"
 guest: "Cam Adams"
 ---

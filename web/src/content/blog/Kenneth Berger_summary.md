@@ -1,6 +1,6 @@
 ---
-title: "Kenneth Berger - 播客摘要"
-description: "Kenneth Berger - Slack首位产品经理，现任创业公司领导者高管教练，专注帮助创始人避免倦怠、学会\"提出你想要的\"这一核心技能"
+title: "Kenneth Berger"
+description: ": Kenneth Berger - Slack首位产品经理，现任创业公司领导者高管教练，专注帮助创始人避免倦怠、学会\"提出你想要的\"这一核心技能"
 pubDate: "2026-01-15"
 guest: "Kenneth Berger"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Maya Prohovnik 播客摘要"
-description: ""
+title: "Maya Prohovnik"
+description: "是 Spotify 播客产品负责人，负责产品、设计和工程团队，构建播客创作者和听众的工具与体验。她是 Anchor（被 Spotify 收购）的第一位员工，该平台现在为全球 **75% 以上的新播客**提供托管服务。Spotify 播客收听占全球市场份额超过 **1/3**。她拥有4个自己的播客，包括 Stephen King 主题、Big Brother 讨论、育儿话题等。"
 pubDate: "2026-01-15"
 guest: "Maya Prohovnik"
 ---

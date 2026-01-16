@@ -1,6 +1,6 @@
 ---
-title: "Pete Kazanjy 播客摘要"
-description: ""
+title: "Pete Kazanjy"
+description: "是 Aura 的创始人、Modern Sales Pros 的创建者、多项初创公司的创始人和产品领导者,也是销售和客户获取专家,著有《Founding Sales》。"
 pubDate: "2026-01-15"
 guest: "Pete Kazanjy"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Nabeel S. Qureshi - Lenny's Podcast 摘要"
-description: ""
+title: "Nabeel S Qureshi"
+description: "Nabeel S. Qureshi 是创始人、作家、研究员和工程师，曾在Palantir工作近8年，担任Forward Deployed Engineer，负责与美国联邦机构的公共卫生项目合作，包括COVID-19应对和药物发现中的AI应用。他也是GoCardless（欧洲最大的金融科技独角兽之一）的创始成员和商务开发副总裁。"
 pubDate: "2026-01-15"
 guest: "Nabeel S Qureshi"
 ---

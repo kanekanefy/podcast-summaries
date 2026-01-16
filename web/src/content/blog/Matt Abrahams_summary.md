@@ -1,6 +1,6 @@
 ---
-title: "Matt Abrahams - 播客摘要"
-description: ""
+title: "Matt Abrahams"
+description: "斯坦福大学商学院讲师(专注沟通和公开演讲),《Think Faster, Talk Smarter》作者,\"Think Fast Talk Smart\"播客主持人,企业沟通教练"
 pubDate: "2026-01-15"
 guest: "Matt Abrahams"
 ---

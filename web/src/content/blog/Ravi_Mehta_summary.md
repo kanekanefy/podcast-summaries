@@ -1,6 +1,6 @@
 ---
-title: "Ravi Mehta - Podcast Summary"
-description: ""
+title: "Ravi Mehta"
+description: "是Tinder前首席产品官、Facebook产品总监、Tripadvisor产品副总裁，目前是创业公司Outpace的联合创始人兼CEO，同时也是Reforge产品领导和产品战略项目的创建者和讲师。"
 pubDate: "2026-01-15"
 guest: "Ravi Mehta"
 ---

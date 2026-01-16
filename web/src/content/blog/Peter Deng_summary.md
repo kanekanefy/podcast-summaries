@@ -1,6 +1,6 @@
 ---
-title: "Peter Deng 播客摘要"
-description: ""
+title: "Peter Deng"
+description: "是前 ChatGPT 产品负责人、前 Instagram 产品副总裁、前 Facebook 和 Uber 产品领导者,现为投资人,以其卓越的产品洞察力、团队建设和领导能力著称。"
 pubDate: "2026-01-15"
 guest: "Peter Deng"
 ---

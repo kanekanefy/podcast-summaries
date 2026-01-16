@@ -1,6 +1,6 @@
 ---
-title: "Sander Schulhoff - 播客摘要"
-description: ""
+title: "Sander Schulhoff"
+description: "是AI研究员,专注于prompt engineering和AI red teaming。他创建了第一个互联网上的prompt engineering指南(learn prompting),并组织了第一个生成式AI red teaming竞赛,该竞赛收集并开源了第一个最大的prompt injections数据集。该论文获得了EMNLP 2023(约20,000篇投稿中)的最佳主题论文奖。"
 pubDate: "2026-01-15"
 guest: "Sander Schulhoff"
 ---

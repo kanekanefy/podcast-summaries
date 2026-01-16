@@ -1,6 +1,6 @@
 ---
 title: "Asha Sharma"
-description: "Asha Sharma - 微软AI平台首席副总裁，负责基础模型、Agent工具链与AI平台增长。"
+description: ": Asha Sharma - 微软AI平台首席副总裁，负责基础模型、Agent工具链与AI平台增长。"
 pubDate: "2026-01-15"
 guest: "Asha Sharma"
 ---

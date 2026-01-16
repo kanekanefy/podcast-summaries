@@ -1,6 +1,6 @@
 ---
-title: "Lulu Cheng Meservey - 播客摘要"
-description: ""
+title: "Lulu Cheng Meservey"
+description: "**Lulu Cheng Meservey** 是动视暴雪(Activision Blizzard)的企业事务执行副总裁兼首席传播官。在此之前,她是Substack的传播负责人,以敢于冒险和大胆立场而闻名,为Substack和其他代表的公司创造了大量关注。Lulu运营着名为\"Flack\"的新闻通讯,被认为是关于PR和传播策略的最佳新闻通讯之一。她以其创新的传播方法而著称,特别是帮助初创公司和挑战者在传播中找到自己的声音。Lulu在传播领域有着独特的视角,强调风险承担、直接沟通和理解受众的\"文化敏感区\"(cultural erogenous zones)。"
 pubDate: "2026-01-15"
 guest: "Lulu Cheng Meservey"
 ---

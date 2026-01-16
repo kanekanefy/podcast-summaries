@@ -1,6 +1,6 @@
 ---
-title: "Melanie Perkins 播客摘要"
-description: ""
+title: "Melanie Perkins"
+description: "是 Canva 的联合创始人兼 CEO，也是历史上最成功的女性科技创业者之一。Canva 目前估值超过 **420亿美元**，年收入达 **33亿美元**，已连续8年实现盈利。然而，在早期融资时，她曾被 **100多位投资人拒绝**。她从一个在澳大利亚做年刊出版业务的大学生，成长为领导全球最受欢迎的设计平台之一的企业家。"
 pubDate: "2026-01-15"
 guest: "Melanie Perkins"
 ---

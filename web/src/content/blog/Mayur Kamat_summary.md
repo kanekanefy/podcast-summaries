@@ -1,6 +1,6 @@
 ---
-title: "Mayur Kamat 播客摘要"
-description: ""
+title: "Mayur Kamat"
+description: "是 N26（全球最成功的金融科技初创公司之一）首席产品官。此前担任 Binance 全球产品负责人、Agoda（估值超1000亿美元）副总裁、Google 和 Microsoft 产品经理。N26 在培养和雇佣顶级产品经理的公司中排名前五。他20年职业生涯中有17年为创始人工作。"
 pubDate: "2026-01-15"
 guest: "Mayur Kamat"
 ---

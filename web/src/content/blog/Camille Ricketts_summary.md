@@ -1,6 +1,6 @@
 ---
 title: "Camille Ricketts"
-description: "Camille Ricketts - Notion 首位营销雇员与前营销负责人，First Round Review 创立者之一。"
+description: ": Camille Ricketts - Notion 首位营销雇员与前营销负责人，First Round Review 创立者之一。"
 pubDate: "2026-01-15"
 guest: "Camille Ricketts"
 ---

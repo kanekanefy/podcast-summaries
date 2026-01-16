@@ -1,6 +1,6 @@
 ---
-title: "Andy Raskin_"
-description: "Andy Raskin - 战略叙事顾问，服务 Gong、Salesforce、Dropbox 等 CEO，主攻企业叙事与增长对齐。"
+title: "Andy Raskin "
+description: ": Andy Raskin - 战略叙事顾问，服务 Gong、Salesforce、Dropbox 等 CEO，主攻企业叙事与增长对齐。"
 pubDate: "2026-01-15"
 guest: "Andy Raskin "
 ---

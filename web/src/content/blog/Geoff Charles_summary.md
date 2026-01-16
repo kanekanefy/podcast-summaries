@@ -1,6 +1,6 @@
 ---
-title: "Geoff Charles - Ramp产品VP"
-description: "Geoff Charles是Ramp产品VP，带领公司在2年内达到1亿美元ARR（史上最快增长的SaaS和B2B FinTech公司之一），仅用50人实现这一里程碑。"
+title: "Geoff Charles"
+description: ": Geoff Charles是Ramp产品VP，带领公司在2年内达到1亿美元ARR（史上最快增长的SaaS和B2B FinTech公司之一），仅用50人实现这一里程碑。"
 pubDate: "2026-01-15"
 guest: "Geoff Charles"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Chandra Janakiraman"
-description: "Chandra Janakiraman - VRChat CPO、前Meta与Headspace产品负责人、策略方法论实践者。"
+description: ": Chandra Janakiraman - VRChat CPO、前Meta与Headspace产品负责人、策略方法论实践者。"
 pubDate: "2026-01-15"
 guest: "Chandra Janakiraman"
 ---

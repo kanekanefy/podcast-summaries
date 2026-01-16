@@ -1,6 +1,6 @@
 ---
-title: "Luc Levesque - 播客摘要"
-description: ""
+title: "Luc Levesque"
+description: "**Luc Levesque** 是Shopify的首席增长官(Chief Growth Officer)。在此之前,他被Mark Zuckerberg亲自招募帮助增长Facebook Messenger、Instagram和WhatsApp。他也曾是Tripadvisor的增长副总裁兼总经理。Luc曾为Twitter、Pinterest、Patreon、Thumbtack和Canva等知名公司担任增长顾问。他在SEO和增长领域有着深厚的专业知识,特别是在产品市场契合后的增长策略方面有着丰富的实战经验。Luc以其对\"影响\"(impact)的执着追求而闻名,并将其作为衡量一切工作的核心标准。"
 pubDate: "2026-01-15"
 guest: "Luc Levesque"
 ---

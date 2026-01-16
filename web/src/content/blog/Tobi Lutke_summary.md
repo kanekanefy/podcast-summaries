@@ -1,6 +1,6 @@
 ---
-title: "Tobi Lütke - Lenny's Podcast Summary"
-description: ""
+title: "Tobi Lutke"
+description: "Tobi Lütke是Shopify的创始人兼CEO，出生于德国，16岁开始编程学徒生涯。他创立Shopify的初衷是自己需要电子商务平台来销售雪板设备，但发现现有解决方案都不够好。他以第一性原理思维、反常规的管理方式和长期愿景而闻名，是当今科技界最具原创思想的产品领袖之一。"
 pubDate: "2026-01-16"
 guest: "Tobi Lutke"
 ---

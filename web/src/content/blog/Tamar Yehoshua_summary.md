@@ -1,6 +1,6 @@
 ---
-title: "Tamar Yehoshua 播客摘要"
-description: ""
+title: "Tamar Yehoshua"
+description: "是 Glean 公司的产品与技术总裁,Glean 是目前最成功的企业 AI 公司之一。在此之前,她担任 Slack 首席产品官四年,领导产品、设计和研究团队,见证了公司收入增长 10 倍、上市并被 Salesforce 收购的全过程。"
 pubDate: "2026-01-15"
 guest: "Tamar Yehoshua"
 ---

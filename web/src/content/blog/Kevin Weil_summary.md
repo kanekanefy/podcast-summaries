@@ -1,6 +1,6 @@
 ---
-title: "Kevin Weil - 播客摘要"
-description: "Kevin Weil - OpenAI首席产品官，前Instagram和Twitter产品负责人，Facebook Libra加密货币项目联合创始人"
+title: "Kevin Weil"
+description: ": Kevin Weil - OpenAI首席产品官，前Instagram和Twitter产品负责人，Facebook Libra加密货币项目联合创始人"
 pubDate: "2026-01-15"
 guest: "Kevin Weil"
 ---

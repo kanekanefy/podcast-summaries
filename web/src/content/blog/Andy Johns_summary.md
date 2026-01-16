@@ -1,6 +1,6 @@
 ---
 title: "Andy Johns"
-description: "Andy Johns - 前 Facebook/Twitter/Quora/Wealthfront 增长与产品高管，现为心理健康倡导者与 Clues.Life 创作者。"
+description: ": Andy Johns - 前 Facebook/Twitter/Quora/Wealthfront 增长与产品高管，现为心理健康倡导者与 Clues.Life 创作者。"
 pubDate: "2026-01-15"
 guest: "Andy Johns"
 ---

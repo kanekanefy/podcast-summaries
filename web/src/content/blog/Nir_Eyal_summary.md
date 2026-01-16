@@ -1,6 +1,6 @@
 ---
-title: "Nir Eyal - Lenny's Podcast 播客摘要"
-description: ""
+title: "Nir Eyal"
+description: "是两本畅销书的作者："
 pubDate: "2026-01-15"
 guest: "Nir Eyal"
 ---

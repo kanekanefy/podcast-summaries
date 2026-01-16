@@ -24,25 +24,27 @@ files.forEach(file => {
     const lines = content.split('\n');
 
     // Extract Metadata
-    // 1. Title: First line starting with #
-    let title = lines.find(l => l.startsWith('# '))?.replace('# ', '').trim() || file.replace('_summary.md', '');
-
-    // 2. Guest: From filename
+    // Extract Metadata
+    // 1. Guest: From filename (Primary source of truth for Title too)
     const guest = file.replace('_summary.md', '').replace(/_/g, ' ');
 
-    // 3. Description: Look for "**嘉宾简介**"
+    // 2. Title: Use Guest Name explicitly to keep cards clean
+    let title = guest;
+
+    // 3. Description: Look for "嘉宾简介" (handle ## header or ** bold)
     let description = '';
-    const bioLineIndex = lines.findIndex(l => l.includes('**嘉宾简介**'));
+    const bioLineIndex = lines.findIndex(l => l.includes('嘉宾简介'));
 
     if (bioLineIndex !== -1) {
-        const bioLine = lines[bioLineIndex];
-        // Check if bio is on the same line (e.g. "**嘉宾简介**: Some text")
-        const sameLineContent = bioLine.replace(/\*\*嘉宾简介\*\*[:：]?\s*/, '').trim();
+        let bioLine = lines[bioLineIndex];
+        // Clean the marker itself (e.g. "## 嘉宾简介" or "**嘉宾简介**:")
+        let content = bioLine.replace(/^[#\*\-\s]*嘉宾简介[：:]?[\*\s]*/, '').trim();
 
-        if (sameLineContent.length > 5) { // Threshold to ensure it's actual content
-            description = sameLineContent;
-        } else if (lines[bioLineIndex + 1]) {
-            // Look at subsequent lines
+        if (content.length > 5) {
+            // Content is on the same line
+            description = content;
+        } else {
+            // Content is on subsequent lines
             for (let i = bioLineIndex + 1; i < lines.length; i++) {
                 if (lines[i].trim()) {
                     description = lines[i].trim();
@@ -61,6 +63,12 @@ files.forEach(file => {
         } else {
             description = `Insights from podcast with ${guest}`;
         }
+    }
+
+    // Clean Description: Remove Guest Name prefix if present to avoid redundancy
+    // e.g. "Gustaf Alstromer - YC Partner..." -> "YC Partner..."
+    if (guest && description.toLowerCase().startsWith(guest.toLowerCase())) {
+        description = description.substring(guest.length).replace(/^[\s\-\–\—:：]+/, '').trim();
     }
 
     // Escape quotes in frontmatter

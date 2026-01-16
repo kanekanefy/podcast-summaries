@@ -1,6 +1,6 @@
 ---
-title: "Ryan Hoover - 播客摘要"
-description: ""
+title: "Ryan Hoover"
+description: "是Product Hunt的创始人，也是《Hooked》一书的作者。目前他是Weekend Fund的全职投资人，投资早期创业公司。他曾担任产品经理，现在在Twitter上非常活跃，以其对产品和创业的洞察而闻名。"
 pubDate: "2026-01-15"
 guest: "Ryan Hoover"
 ---

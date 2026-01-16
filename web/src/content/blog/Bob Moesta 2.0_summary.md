@@ -1,6 +1,6 @@
 ---
 title: "Bob Moesta 2.0"
-description: "Bob Moesta - Jobs-to-be-Done 共同创始人，《Job Moves》作者与 Rewired Group CEO。"
+description: ": Bob Moesta - Jobs-to-be-Done 共同创始人，《Job Moves》作者与 Rewired Group CEO。"
 pubDate: "2026-01-15"
 guest: "Bob Moesta 2.0"
 ---

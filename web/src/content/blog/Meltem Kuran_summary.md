@@ -1,6 +1,6 @@
 ---
-title: "Meltem Kuran Berkowitz - Lenny's Podcast 摘要"
-description: ""
+title: "Meltem Kuran"
+description: "Berkowitz是Deel的增长负责人,Deel是有史以来增长最快的SaaS公司之一,从0收入到3亿美元ARR仅用了3年时间,同时保持EBITDA盈利。她在公司仅有第19-20名员工时加入,领导了增长团队从早期到现在的全部工作,包括付费广告、产品营销、内容、社区、品牌等。"
 pubDate: "2026-01-15"
 guest: "Meltem Kuran"
 ---

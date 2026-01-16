@@ -1,6 +1,6 @@
 ---
 title: "Ethan Evans 2.0"
-description: "Ethan Evans - 前亚马逊副总裁、执行教练与课程作者，曾主导 Prime Video、Amazon Appstore、Prime Gaming 与 Twitch Commerce。"
+description: ": Ethan Evans - 前亚马逊副总裁、执行教练与课程作者，曾主导 Prime Video、Amazon Appstore、Prime Gaming 与 Twitch Commerce。"
 pubDate: "2026-01-15"
 guest: "Ethan Evans 2.0"
 ---

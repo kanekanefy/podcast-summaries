@@ -1,6 +1,6 @@
 ---
-title: "John Mark Nickels - Lenny's Podcast Summary"
-description: "John Mark Nickels - Product Leader at Uber (previously Waymo, DoorDash, Uber, Groupon, Getco) - 以\"conscious leadership\"（意识型领导力）和深度产品战略思维闻名的产品领袖"
+title: "John Mark Nickels"
+description: ": John Mark Nickels - Product Leader at Uber (previously Waymo, DoorDash, Uber, Groupon, Getco) - 以\"conscious leadership\"（意识型领导力）和深度产品战略思维闻名的产品领袖"
 pubDate: "2026-01-15"
 guest: "John Mark Nickels"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Naomi Ionita - Lenny's Podcast 摘要"
-description: ""
+title: "Naomi Ionita"
+description: "是Menlo Ventures的合伙人，专注于早期SaaS投资（从种子轮到B轮）。她是产品生命周期增长和货币化的早期领导者之一，十多年前就在Evernote建立了早期团队和基础设施。她也是Reforge的早期贡献者，帮助创建了早期项目。她曾是Invoice2go的增长副总裁，目前是全职VC。"
 pubDate: "2026-01-15"
 guest: "Naomi Ionita"
 ---

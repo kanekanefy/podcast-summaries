@@ -1,6 +1,6 @@
 ---
-title: "Karina Nguyen - 播客摘要"
-description: "Karina Nguyen - OpenAI AI研究员，负责构建Canvas、Tasks、o1思维链模型等前沿AI产品；前Anthropic Claude 3模型后训练和评估负责人"
+title: "Karina Nguyen"
+description: ": Karina Nguyen - OpenAI AI研究员，负责构建Canvas、Tasks、o1思维链模型等前沿AI产品；前Anthropic Claude 3模型后训练和评估负责人"
 pubDate: "2026-01-15"
 guest: "Karina Nguyen"
 ---

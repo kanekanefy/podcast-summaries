@@ -1,6 +1,6 @@
 ---
 title: "Eoghan McCabe"
-description: "Eoghan McCabe - Intercom 创始人兼 CEO，带领公司从传统 SaaS 转向 AI agent 业务 Fin。"
+description: ": Eoghan McCabe - Intercom 创始人兼 CEO，带领公司从传统 SaaS 转向 AI agent 业务 Fin。"
 pubDate: "2026-01-15"
 guest: "Eoghan McCabe"
 ---

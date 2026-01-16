@@ -1,6 +1,6 @@
 ---
-title: "Noah Weiss - Lenny's Podcast 播客摘要"
-description: ""
+title: "Noah Weiss"
+description: "是 Slack 的首席产品官（CPO），在 Slack 工作了7年。在此之前，他曾是 Foursquare 的产品负责人，也是 Google 和 Fog Creek Software 的产品经理。"
 pubDate: "2026-01-15"
 guest: "Noah Weiss"
 ---

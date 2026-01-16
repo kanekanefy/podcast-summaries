@@ -1,6 +1,6 @@
 ---
 title: "Ayo Omojola"
-description: "Ayo Omojola - Carbon Health首席产品官，Cash App与Cash Card核心建设者。"
+description: ": Ayo Omojola - Carbon Health首席产品官，Cash App与Cash Card核心建设者。"
 pubDate: "2026-01-15"
 guest: "Ayo Omojola"
 ---

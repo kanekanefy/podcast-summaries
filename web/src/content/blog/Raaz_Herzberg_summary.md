@@ -1,6 +1,6 @@
 ---
-title: "Raaz Herzberg - Podcast Summary"
-description: ""
+title: "Raaz Herzberg"
+description: "是Wiz的首席营销官(CMO)兼产品策略副总裁。她从工程师转型为产品经理,再到营销领导者,经历了非传统的职业路径。Wiz是全球增长最快的安全公司,18个月内达到1亿美元ARR,估值超过230亿美元。"
 pubDate: "2026-01-15"
 guest: "Raaz Herzberg"
 ---

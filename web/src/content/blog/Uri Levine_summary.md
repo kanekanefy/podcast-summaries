@@ -1,6 +1,6 @@
 ---
-title: "Uri Levine 播客摘要"
-description: ""
+title: "Uri Levine"
+description: "是 Waze（被 Google 以 11 亿美元收购）和 Moovit（被 Gen.M 收购）的联合创始人，共创立了 10 多家公司，其中 2 家以超过 10 亿美元的价格出售。他是硅谷知名的天使投资人和创业导师，著有畅销书《Fall in Love with the Problem, Not the Solution》。他曾任 20 多家创业公司的董事会成员，指导过 50 多家初创企业。"
 pubDate: "2026-01-15"
 guest: "Uri Levine"
 ---

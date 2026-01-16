@@ -1,6 +1,6 @@
 ---
-title: "Melissa Perri & Denise Tilles 播客摘要"
-description: ""
+title: "Melissa Perri + Denise Tilles"
+description: "**Melissa Perri** 是产品管理领域的权威专家，《Escaping the Build Trap》和《Product Operations》两本 foundational 书籍的作者。她是 Produx Labs 的CEO，在哈佛商学院教授产品管理，曾与数百家公司合作建立产品管理功能。"
 pubDate: "2026-01-15"
 guest: "Melissa Perri + Denise Tilles"
 ---

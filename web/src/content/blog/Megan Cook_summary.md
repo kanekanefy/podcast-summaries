@@ -1,6 +1,6 @@
 ---
-title: "Megan Cook 播客摘要"
-description: ""
+title: "Megan Cook"
+description: "是 Jira 产品负责人（Jira 被75%的财富500强公司使用，125,000全球客户，是最受欢迎的项目管理工具）。在 Atlassian 工作近11年，此前是分析师、开发人员和敏捷教练。"
 pubDate: "2026-01-15"
 guest: "Megan Cook"
 ---

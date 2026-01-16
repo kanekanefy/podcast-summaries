@@ -1,6 +1,6 @@
 ---
-title: "Lauren Ipsen - 播客摘要"
-description: ""
+title: "Lauren Ipsen"
+description: "**Lauren Ipsen** 是General Catalyst的投资团队成员,专注于消费者和加密货币投资。在此之前,她是Daversa Partners的执行搜索合伙人,专门为科技公司招聘高管产品人才。她曾成功为80多位高管产品领导者完成招聘,客户包括Twitter、Reddit、TaskRabbit、Nextdoor、Postmates等知名公司。后来她被IRL公司招募作为首位招聘负责人,建立了整个招聘职能,最终被General Catalyst挖角。Lauren在招聘领域有着卓越的声誉,被许多产品领导者称为最好的产品招聘专家之一。"
 pubDate: "2026-01-15"
 guest: "Lauren Ipsen"
 ---

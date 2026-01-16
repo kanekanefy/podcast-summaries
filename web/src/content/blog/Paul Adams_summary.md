@@ -1,6 +1,6 @@
 ---
-title: "Paul Adams 播客摘要"
-description: ""
+title: "Paul Adams"
+description: "是 Intercom 的产品副总裁,曾在 Facebook 担任产品设计师,领导了多个核心产品的设计和开发,是产品设计和用户中心设计思维的专家。"
 pubDate: "2026-01-15"
 guest: "Paul Adams"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Wes Kao 播客摘要"
-description: ""
+title: "Wes Kao"
+description: "是 Maven 的联合创始人，Maven 是一个领先的群组学习（Cohort-Based Learning）平台。Wes 曾与畅销书作家 Seth Godin 共同创办了 altMBA，并帮助 David Perell、Tiago Forte、Scott Galloway 等知名创作者创办他们的在线课程。她是教学设计、写作和沟通方面的专家，被 Lenny Rachitsky 称为\"他遇到的最聪明的教学专家之一\"。"
 pubDate: "2026-01-15"
 guest: "Wes Kao"
 ---

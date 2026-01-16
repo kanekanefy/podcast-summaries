@@ -1,6 +1,6 @@
 ---
-title: "Lauryn Isford - 播客摘要"
-description: ""
+title: "Lauryn Isford"
+description: "**Lauryn Isford** 是Airtable的前增长团队负责人(Head of Growth),在此之前她是Facebook的产品增长负责人,专注于用户增长、Internet.org和Facebook在印度的增长。更早之前,她领导了Blue Bottle咖啡的电商业务增长。Lauryn在增长领域有着深厚的背景,特别是在onboarding(用户引导)、产品增长策略和PLG(产品驱动增长)方面有着丰富的实战经验。她在Airtable领导的激活团队成功重建了整个onboarding流程,带来了20%的激活率提升。"
 pubDate: "2026-01-15"
 guest: "Lauryn Isford"
 ---

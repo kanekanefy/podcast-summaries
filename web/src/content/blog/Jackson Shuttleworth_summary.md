@@ -1,6 +1,6 @@
 ---
-title: "Jackson Shuttleworth - Duolingo集团产品经理，留存团队负责人"
-description: "**900万用户拥有1年以上Streak**：相当于一个大型城市的人口连续一年每天使用Duolingo"
+title: "Jackson Shuttleworth"
+description: "Duolingo集团产品经理，负责留存团队，领导公司最关键的增长功能\"Streaks\"（连续学习天数），在过去4年中主导超过600个相关实验"
 pubDate: "2026-01-15"
 guest: "Jackson Shuttleworth"
 ---

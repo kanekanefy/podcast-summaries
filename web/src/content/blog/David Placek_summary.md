@@ -1,6 +1,6 @@
 ---
 title: "David Placek"
-description: "David Placek - Lexicon Branding 创始人、品牌命名专家，创造过 Powerbook、Pentium、BlackBerry、Swiffer、Sonos、Azure 等经典名字。"
+description: ": David Placek - Lexicon Branding 创始人、品牌命名专家，创造过 Powerbook、Pentium、BlackBerry、Swiffer、Sonos、Azure 等经典名字。"
 pubDate: "2026-01-15"
 guest: "David Placek"
 ---

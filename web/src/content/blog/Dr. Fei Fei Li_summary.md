@@ -1,6 +1,6 @@
 ---
 title: "Dr. Fei Fei Li"
-description: "Dr. Fei-Fei Li - AI 领域奠基者、ImageNet 发起人、World Labs 创始人，推动人本 AI 与空间智能研究。"
+description: ": Dr. Fei-Fei Li - AI 领域奠基者、ImageNet 发起人、World Labs 创始人，推动人本 AI 与空间智能研究。"
 pubDate: "2026-01-15"
 guest: "Dr. Fei Fei Li"
 ---

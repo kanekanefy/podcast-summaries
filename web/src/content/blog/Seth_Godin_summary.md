@@ -1,6 +1,6 @@
 ---
-title: "Seth Godin - Strategy, Brand Building & Taste 播客摘要"
-description: ""
+title: "Seth Godin"
+description: "是绝对传奇人物,已出版21本书,包括18本国际畅销书。他连续近10,000天每天写博客,是全球数百万人的灵感来源。他的写作和建议涉及想法如何传播、何时放弃、如何领导、如何脱颖而出,以及最重要的——如何改变一切。除了写作和演讲,Seth创立了多家公司,包括Yoyodyne和Squidoo,还启动了altMBA项目。他实际上是从产品经理开始职业生涯的。"
 pubDate: "2026-01-15"
 guest: "Seth Godin"
 ---

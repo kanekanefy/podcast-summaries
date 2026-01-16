@@ -1,6 +1,6 @@
 ---
-title: "Michael Truell (Cursor/Anysphere CEO) - Lenny's Podcast 摘要"
-description: ""
+title: "Michael Truell"
+description: "是Anysphere公司的联合创始人兼CEO,该公司开发了Cursor——领先的AI代码编辑器。Cursor是有史以来增长最快的产品之一,推出20个月后达到1亿美元ARR,推出两年后达到3亿美元ARR。Michael在MIT学习计算机科学和数学,在MIT和Google进行AI研究,拥有10年AI经验。他是技术和商业历史的学生,对未来软件构建方式有深刻思考。"
 pubDate: "2026-01-15"
 guest: "Michael Truell"
 ---

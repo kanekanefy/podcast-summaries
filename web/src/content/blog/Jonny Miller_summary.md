@@ -1,6 +1,6 @@
 ---
-title: "Jonny Miller - 播客摘要"
-description: "Jonny Miller - 情绪与神经系统教练,帮助科技从业者掌握情绪调节和神经系统训练"
+title: "Jonny Miller"
+description: ": Jonny Miller - 情绪与神经系统教练,帮助科技从业者掌握情绪调节和神经系统训练"
 pubDate: "2026-01-15"
 guest: "Jonny Miller"
 ---

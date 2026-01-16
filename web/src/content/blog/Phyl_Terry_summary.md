@@ -1,6 +1,6 @@
 ---
-title: "Phyl Terry - Podcast Summary"
-description: ""
+title: "Phyl Terry"
+description: "是《Never Search Alone》作者,该书被众多人认为是求职领域最有影响力的读物。他在硅谷产品社区有25年经验,创造性地将产品思维应用于求职过程。"
 pubDate: "2026-01-15"
 guest: "Phyl Terry"
 ---

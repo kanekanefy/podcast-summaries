@@ -1,6 +1,6 @@
 ---
 title: "Claire Hughes Johnson"
-description: "Claire Hughes Johnson - 前Stripe COO，曾在Google担任多项高管，作者《Scaling People》。"
+description: ": Claire Hughes Johnson - 前Stripe COO，曾在Google担任多项高管，作者《Scaling People》。"
 pubDate: "2026-01-15"
 guest: "Claire Hughes Johnson"
 ---

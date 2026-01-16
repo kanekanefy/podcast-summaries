@@ -1,6 +1,6 @@
 ---
-title: "Sarah Tavel - Podcast Summary"
-description: ""
+title: "Sarah Tavel"
+description: "是Benchmark合伙人,顶级风险投资公司,专注于消费和初创市场投资。此前她是Pinterest首位产品经理,以产品思维和增长洞察著称。"
 pubDate: "2026-01-15"
 guest: "Sarah Tavel"
 ---

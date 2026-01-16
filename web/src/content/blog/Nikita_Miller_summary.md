@@ -1,5 +1,5 @@
 ---
-title: "Nikita Miller - Lenny's Podcast 播客摘要"
+title: "Nikita Miller"
 description: ""
 pubDate: "2026-01-16"
 guest: "Nikita Miller"

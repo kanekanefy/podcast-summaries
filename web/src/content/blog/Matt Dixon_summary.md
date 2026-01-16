@@ -1,6 +1,6 @@
 ---
-title: "Matt Dixon - 播客摘要"
-description: ""
+title: "Matt Dixon"
+description: "全球顶级销售专家,《The Challenger Sale》(华尔街日报畅销书第一名,销量超过100万册)和《The JOLT Effect》作者,前CEB(Gartner)销售研究负责人,基于250万销售对话的大数据研究先驱"
 pubDate: "2026-01-15"
 guest: "Matt Dixon"
 ---

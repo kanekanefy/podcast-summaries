@@ -1,6 +1,6 @@
 ---
-title: "Gia Laudi - 播客摘要"
-description: "Georgiana \"Gia\" Laudi - Forget The Funnel咨询公司联合创始人，前Unbounce营销负责人，B2B SaaS增长专家"
+title: "Gia Laudi"
+description: ": Georgiana \"Gia\" Laudi - Forget The Funnel咨询公司联合创始人，前Unbounce营销负责人，B2B SaaS增长专家"
 pubDate: "2026-01-15"
 guest: "Gia Laudi"
 ---

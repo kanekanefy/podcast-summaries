@@ -1,6 +1,6 @@
 ---
-title: "Varun Parmar 播客摘要"
-description: ""
+title: "Varun Parmar"
+description: "是 Miro（前 RealtimeBoard）的产品副总裁，Miro 是一个领先的在线协作白板平台，拥有超过 4000 万用户和数十亿美元估值。Varun 在产品管理和领导力方面有着丰富的经验，曾在多家科技公司担任产品领导职务，擅长在快速增长的 SaaS 公司中构建产品文化和流程。"
 pubDate: "2026-01-15"
 guest: "Varun Parmar"
 ---

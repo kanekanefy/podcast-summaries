@@ -1,6 +1,6 @@
 ---
 title: "Anuj Rathi"
-description: "Anuj Rathi - Jupiter Money CPO/CMO，前 Swiggy 增长负责人，Flipkart 首位 PM。"
+description: ": Anuj Rathi - Jupiter Money CPO/CMO，前 Swiggy 增长负责人，Flipkart 首位 PM。"
 pubDate: "2026-01-15"
 guest: "Anuj Rathi"
 ---

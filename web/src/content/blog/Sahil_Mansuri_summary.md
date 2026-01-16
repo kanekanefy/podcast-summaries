@@ -1,6 +1,6 @@
 ---
-title: "Sahil Mansuri - 播客摘要"
-description: ""
+title: "Sahil Mansuri"
+description: "是Bravado的CEO和创始人,Bravado拥有世界上最大的在线销售社区,超过30万名销售人员。他本人也是资深销售人员,曾在Glassdoor负责企业销售,亲自签下了Facebook、Google、Amazon、Microsoft等大客户。"
 pubDate: "2026-01-15"
 guest: "Sahil Mansuri"
 ---

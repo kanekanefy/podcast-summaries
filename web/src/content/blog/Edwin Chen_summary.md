@@ -1,6 +1,6 @@
 ---
 title: "Edwin Chen"
-description: "Edwin Chen - Surge AI创始人兼CEO，专注高质量AI数据与模型评估。"
+description: ": Edwin Chen - Surge AI创始人兼CEO，专注高质量AI数据与模型评估。"
 pubDate: "2026-01-15"
 guest: "Edwin Chen"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Nick Turley - ChatGPT产品负责人访谈摘要"
-description: ""
+title: "Nick Turley"
+description: "是OpenAI ChatGPT的产品负责人,领导ChatGPT从0到7亿周活跃用户,使其成为人类历史上最成功和最具影响力的消费软件产品。他曾在Dropbox和Instacart担任产品领导,加入OpenAI时公司还是主要的研究实验室。"
 pubDate: "2026-01-15"
 guest: "Nick Turley"
 ---

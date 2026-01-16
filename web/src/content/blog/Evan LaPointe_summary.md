@@ -1,6 +1,6 @@
 ---
 title: "Evan LaPointe"
-description: "Evan LaPointe - CORE Sciences 创始人，专注将神经科学用于团队协作、影响力与组织绩效提升。"
+description: ": Evan LaPointe - CORE Sciences 创始人，专注将神经科学用于团队协作、影响力与组织绩效提升。"
 pubDate: "2026-01-15"
 guest: "Evan LaPointe"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Robby Stein - Podcast Summary"
-description: ""
+title: "Robby Stein"
+description: "是Google产品副总裁，负责Search、Labs、 Gemini等核心产品。此前在Meta担任产品总监，负责Facebook News Feed和Instagram Stories。他是少数在两家科技巨头都负责过核心产品的高管。"
 pubDate: "2026-01-15"
 guest: "Robby Stein"
 ---

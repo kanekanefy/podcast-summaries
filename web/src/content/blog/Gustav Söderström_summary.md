@@ -1,6 +1,6 @@
 ---
-title: "Gustav Söderström 播客摘要"
-description: ""
+title: "Gustav Söderström"
+description: "是 Spotify 联合总裁兼首席产品和技术官，负责全球产品和技术战略，监管产品、设计、数据和工程团队。他在 Spotify 工作 14 年以上，从移动负责人起步，逐步承担产品开发和技术责任。他是创业老兵，曾创立移动公司并出售给 Yahoo。他制作了自己的播客系列 \"Spotify: A Product Story\"，以分享 Spotify 的产品策略并让高级领导层更易接近。"
 pubDate: "2026-01-15"
 guest: "Gustav Söderström"
 ---

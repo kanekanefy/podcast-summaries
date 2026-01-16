@@ -1,6 +1,6 @@
 ---
-title: "Rahul Vohra - Podcast Summary"
-description: ""
+title: "Rahul Vohra"
+description: "是Superhuman的创始人兼CEO,被誉为最具思想性、洞察力和表达力的创始人之一。他创立的Rapportive被LinkedIn收购,在LinkedIn向他从增长负责人Elliot Shmukler学到了关于病毒式传播的真正秘密。"
 pubDate: "2026-01-15"
 guest: "Rahul Vohra"
 ---

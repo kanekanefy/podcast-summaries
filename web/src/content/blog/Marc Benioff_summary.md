@@ -1,6 +1,6 @@
 ---
-title: "Marc Benioff - 播客摘要"
-description: ""
+title: "Marc Benioff"
+description: "Salesforce联合创始人兼CEO(全球第二大B2B SaaS公司,市值约$3500亿,年收入$380亿),《纽约时报》畅销书作者,Steve Jobs导师和挚友,拥有30多年硅谷创业经验"
 pubDate: "2026-01-15"
 guest: "Marc Benioff"
 ---

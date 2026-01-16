@@ -1,6 +1,6 @@
 ---
-title: "Kristen Berman 播客摘要"
-description: "**行为经济学的核心前提** - 人不是理性的,但我们的非理性行为是可预测的。传统经济学假设人们理性决策、权衡利弊,但这完全忽略了心理学。行为经济学结合心理学和经济学,认识到人们在决策时受情绪驱动、存在当下偏见、遵循社会规范,但这些行为模式是可以预测和改变的。"
+title: "Kristen Berman"
+description: "Irrational Labs联合创始人兼CEO,与著名行为经济学家Dan Ariely共同创立公司,致力于将行为科学应用于产品设计,曾服务Google、Airbnb、TikTok、Microsoft、PayPal等企业。"
 pubDate: "2026-01-15"
 guest: "Kristen Berman"
 ---

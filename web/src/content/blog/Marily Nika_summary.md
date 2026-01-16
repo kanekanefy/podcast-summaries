@@ -1,6 +1,6 @@
 ---
-title: "Marily Nika - 播客摘要"
-description: ""
+title: "Marily Nika"
+description: "Meta产品负责人(专注Metaverse/头像/身份),Maven平台最受欢迎AI产品管理课程讲师,前Google产品负责人(8年经验,负责Google Glass/计算机视觉/语音识别ML项目),AI产品管理专家"
 pubDate: "2026-01-15"
 guest: "Marily Nika"
 ---

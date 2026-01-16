@@ -1,6 +1,6 @@
 ---
 title: "Aparna Chennapragada"
-description: "Aparna Chennapragada - Microsoft 首席产品官，负责生产力与智能体产品战略，前 Google/Robinhood CPO。"
+description: ": Aparna Chennapragada - Microsoft 首席产品官，负责生产力与智能体产品战略，前 Google/Robinhood CPO。"
 pubDate: "2026-01-15"
 guest: "Aparna Chennapragada"
 ---

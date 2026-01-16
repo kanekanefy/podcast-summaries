@@ -1,6 +1,6 @@
 ---
-title: "Jessica Livingston - 播客摘要"
-description: "Jessica Livingston - Y Combinator联合创始人，创业孵化器先驱，著有《Founders at Work》"
+title: "Jessica Livingston"
+description: ": Jessica Livingston - Y Combinator联合创始人，创业孵化器先驱，著有《Founders at Work》"
 pubDate: "2026-01-15"
 guest: "Jessica Livingston"
 ---

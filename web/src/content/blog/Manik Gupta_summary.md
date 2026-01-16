@@ -1,6 +1,6 @@
 ---
-title: "Manik Gupta - 播客摘要"
-description: ""
+title: "Manik Gupta"
+description: "前Google Maps产品总监、前Uber首席产品官(CPO)、现任微软企业副总裁负责消费者通信产品,拥有两个史上最成功消费产品的领导经验"
 pubDate: "2026-01-15"
 guest: "Manik Gupta"
 ---

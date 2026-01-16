@@ -1,6 +1,6 @@
 ---
-title: "Marty Cagan - 播客摘要"
-description: "3. **问题发现vs解决方案发现** - PM应该把时间花在哪里"
+title: "Marty Cagan"
+description: "Silicon Valley Product Group创始人(20+年),INSPIRED和EMPOWERED作者,前Netscape VP产品/eBay SVP产品,产品管理领域最具影响力的教育者"
 pubDate: "2026-01-15"
 guest: "Marty Cagan"
 ---

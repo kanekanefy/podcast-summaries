@@ -1,6 +1,6 @@
 ---
-title: "Paige Costello 播客摘要"
-description: ""
+title: "Paige Costello"
+description: "是 Asana 的产品领导，从Asana早期加入并成长为产品主管，领导了多个核心功能的开发，擅长产品教练、设计思维和团队协作。"
 pubDate: "2026-01-15"
 guest: "Paige Costello"
 ---

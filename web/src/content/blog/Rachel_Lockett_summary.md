@@ -1,6 +1,6 @@
 ---
-title: "Rachel Lockett - Podcast Summary"
-description: ""
+title: "Rachel Lockett"
+description: "是一位高管教练,专门帮助技术领导者提升领导力。她曾在Stripe工作,负责顶级人才保留项目,服务过前50名高管。她致力于帮助产品负责人、工程负责人和创始人在以人为本的领导力方面取得成功。"
 pubDate: "2026-01-15"
 guest: "Rachel Lockett"
 ---

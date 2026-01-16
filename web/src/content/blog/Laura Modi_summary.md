@@ -1,6 +1,6 @@
 ---
-title: "Laura Modi 播客摘要"
-description: ""
+title: "Laura Modi"
+description: "是Bobbie创始人兼CEO,美国唯一女性创立且由妈妈领导的有机婴儿配方奶粉公司。前Airbnb酒店业总监,负责房东社区和市场质量。Airbnb任职5.5年,从客服起步到领导欧洲办公室整合,最终负责全球房东社区。三个孩子的母亲,与另一位创始人丈夫共同创业。"
 pubDate: "2026-01-15"
 guest: "Laura Modi"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Nancy Duarte - Lenny's Podcast 摘要"
-description: ""
+title: "Nancy Duarte"
+description: "是畅销书作者、演讲者和Duarte Inc.的CEO。她的公司帮助创造了超过250,000场演示文稿，客户包括Apple、TED、Google、世界银行，最著名的是为Al Gore制作《难以忽视的真相》演示文稿。她被誉为沟通和演讲领域的权威专家。"
 pubDate: "2026-01-15"
 guest: "Nancy Duarte"
 ---
